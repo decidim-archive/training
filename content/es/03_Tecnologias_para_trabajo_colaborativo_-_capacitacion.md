@@ -5,7 +5,7 @@ Where to include feedback of the facilitator on specific steps.
 Need to create tip section:
 old people multiply by two, young people a lot of activities.
 
-# Tecnología para el trabajo colaborativo (capacitación)
+# Tecnologías para el trabajo colaborativo (capacitación)
 --- meta
 title:
 uuid:
@@ -25,19 +25,19 @@ description:
 
 ### Overview
 
-- Presentation & introduction (10 min)
-- Identify successes (80 min)
-- Presentation of new tools (60 min)
-- Problem solving (80 min)
+- Presentación e introducción (10 min)
+- Análisis de éxitos (80 min)
+- Presentación de nuevas herramientas (60 min)
+- Resolución de problemas (80 min)
 
 ### Duration
 
-230 min, 4 hours
+230 minutos, 4 horas
 
 ### Ideal Number of Participants
 
-- 10 participants.
-- 1 facilitator.
+- 10 participantes
+- 1 facilitador
 
 ### Learning Objectives
 
@@ -45,20 +45,24 @@ XXX: Add something about roles and power relationships.
 
 ##### Knowledge
 
-- Framework to identify, analyse, and solve problems in collaborative processes.
-- Know about technical tools that enhance collaboration.
-- Criteria for the selection of such technical tools.
+- Tener un marco teórico para identificar, analizar y resolver problemas
+  en procesos colaborativos.
+- Conocer herramientas técnicas que mejoran la colaboración.
+- Conocer criterios para la selección de estas herramientas.
 
 ##### Skills
 
-- Reflect on participatory processes and identify problems.
-- Learn one or two new technical tools.
+- Reflexionar sobre sus procesos colaborativos e identificar problemas
+  en ellos.
+- Aprender algunas herramientas nuevas.
 
 ##### Attitude
 
-- Think of participatory processes as systems that are evolving and require evaluation, redesign, improvements, etc.
-- Decern if a collaborative process is problematic and whether technical tools would help.
-- Fixate on the process and not so much on the tool.
+- Pensar los procesos colaborativos como sistemas que evolucionan y
+  requieren evaluación, diseño, mejoras, etc.
+- Determinar si un proceso colaborativo es problemático y si introducir
+  herramientas técnicas ayudaría.
+- Poner enfoque en los procesos y no tanto en las herramientas.
 
 ### References
 
@@ -68,76 +72,95 @@ XXX: Add something about roles and power relationships.
 
 ## Steps
 
-### Step 0: Presentation & introduction (10 min)
+### Step 0: Presentación e introducción (10 min)
 
-### Step 1: Identify successes (80 min)
+### Step 1: Análisis de éxitos (80 min)
 
-Activity: (15 min)
+Actividad (15 min)
 
-- Group people by organization and list down successful collaborative processes that involved technical tools.
-- Seed the discussion with example of different types (decide, communicate, create, debate, etc.).
-  - Note: Excluding outreach and impact work.
+- Formar grupos agrupando las personas que forman parte de una misma
+  organización y listar procesos colaborativo éxitos que incluyeron
+  herramientas técnicas.
+- Ayudar la discusión dando un ejemplo para diferentes tipos de procesos
+  (decidir, comunicar, crear, debatir, etc.).
+  - Nota: Excluimos trabajos de difusión y comunicación exterior.
 
-Discuss: (20 min)
 
-- All group get together and list processes in a wall according to types, people comment the initiatives listed and discussing success reasons
-- Reflect on the (techno-political) principles behind these successes.
-- Start listing techno-political principles: privacy, sovereignty, usability, inclusion, adaptability, well-being.
-  - Put all this in perspective of group contexts and individual conditions.
-  - Which roles, techno-social aspects, and power relationships these tools created inside the organization?
-  - Evaluation emotional aspects of these tools.
-- Facilitator could seed more principles.
+Debate (20 min)
 
-Input: (15 min)
+- Juntar todos los participantes y hacer un listado de los diferentes
+  procesos y agruparlos por tipo. Comentar los ejemplos y debatir las
+  razones detrás de los éxitos.
+- Empezar a listar principios tecnopolíticos: privacidad, soberanía,
+  usabilidad, inclusión, adaptabilidad, cuidado, etc.
+  - Poner esto en la perspectiva del contexto de los participantes y sus
+    condiciones individuales.
+  - Qué roles, dinámicas tecnopolíticas y relaciones de poder crean
+    estas herramientas dentro de las organizaciones?
+  - Evaluar los aspectos emocionales de estas herramientas.
+  - Se pueden listar más principios tecnopolíticos de los mencionados
+    aquí.
 
-- Give an example of success of each type of process.
-  - Especially proccesses that relates to the audience, local experience, current initiatives, etc.
+Aporte (15 min)
+
+- Dar un ejemplo de éxito para cada tipo de proceso.
+  - Poner enfoque en procesos que hablan más a la audiencia,
+    experiencias locales, iniciativas actuales, etc.
 
 XXX: Prepare selected examples.
 
-Deepening: (20 min)
+Profundización (20 min)
 
-- Distribute printed versions of each example.
-- Group people to reflect on how the previous principles applies to the example successes.
+- Distribuir versiones impresas de cada ejemplo.
+- Agrupar los participantes para reflexionar sobre como los principios
+  tecnopolíticos identificados previamente se aplican a estos ejemplos.
 
-Synthesis: (10 min)
 
-- Have each group give a key finding.
-- Summary of principles.
+Síntesis (10 min)
 
-### Step 2: Presentation of new tools (60 min)
+- Pedir a cada grupo explicar su hallazgo el más interesante.
+- Resumir los principios tecnopolíticos.
 
-- Present 4-5 new tools that haven't been mentioned so far.
-  - Screenshots.
-  - Use cases.
-  - Reflect on the techno-social aspects: pros and cons.
-  - Get past experiences from the audience.
-  - Q&A
+### Step 2: Presentación de nuevas herramientas (60 min)
 
-### Step 3: Problem solving (80 min)
+- Presentar 4-5 nuevas herramientas que no han sido mencionadas hasta
+  ahora:
+  - Presentar capturas de pantalla.
+  - Presentar casos de uso.
+  - Listar sus pros y contras en relación a los aspectos tecnopolíticos.
+  - Pedir a la audiencia relacionar la herramienta con sus experiencias.
+  - Hacer un turno de preguntas.
 
-Activity:
+### Step 3: Resolución de problemas (80 min)
 
-- Group people by organization and list down failures of collaborative processes.
+Actividad:
 
-Discuss:
+- Formar grupos agrupando las personas que forman parte de una misma
+  organización y listar fracasos en sus procesos colaborativos
+  (incluyendo o no herramientas técnicas).
 
-- Present the failures and reflect on them according to the principles identified in step 1.
-- Continue completing the list of principles.
-  - Why did some tools failed to be useful or appropriate?
+Debate:
 
-Input:
+- Presentar los fracasos y reflexionar sobre ellos a partir de los
+  principios tecnopolíticos identificados en el paso 1.
+- Seguir completando la lista de principios tecnopolíticos.
+  - Reflexionar sobre porque algunas herramientas fracasan o no son apropiadas?
 
-- Give an example of failure for each type of process.
-  - Especially proccesses that relates to the audience, local experience, current initiatives, etc.
+Aporte:
 
-Deepening:
+- Dar un ejemplo de fracaso para cada tipo de proceso.
+  - Poner enfoque en procesos que hablan más a la audiencia,
+    experiencias locales, iniciativas actuales, etc.
 
-- Distribute printed versions of each example.
-- Group people to reflect on how the previous principles should apply to make these successful and which tools and shared agreements could correspond.
+Profundización:
 
-Synthesis:
+- Distribuir versiones impresas de cada ejemplo.
+- Agrupar los participantes para reflexionar sobre como los principios
+  tecnopolíticos identificados previamente deberían aplicarse para que
+  estos ejemplos sean exitosos y que herramientas o acuerdos de
+  principio podrían llevar al éxito.
 
-- Have each group give a key finding.
-- Summary of principles.
+Síntesis:
 
+- Pedir a cada grupo explicar su hallazgo el más interesante.
+- Resumir los principios tecnopolíticos.
