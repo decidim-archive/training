@@ -25,9 +25,14 @@ description:
 
 ### Overview
 
+- Presentation & introduction (10 min)
+- Identify successes (80 min)
+- Presentation of new tools (60 min)
+- Problem solving (80 min)
+
 ### Duration
 
-220 min, 4 hours
+230 min, 4 hours
 
 ### Ideal Number of Participants
 
@@ -62,12 +67,6 @@ XXX: Add something about roles and power relationships.
 ### Optional Materials and Handouts
 
 ## Steps
-
-Big picture:
-
-- Identify and analyze successes (80 min)
-- Presentation of new tools (60 min)
-- Problem solving (80 min)
 
 ### Step 0: Presentation & introduction (10 min)
 
