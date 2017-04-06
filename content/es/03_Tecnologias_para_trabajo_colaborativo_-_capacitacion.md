@@ -5,56 +5,56 @@ XXX: Need to create tip section: old people multiply by two, young people a lot 
 
 # Tecnologías para el trabajo colaborativo (capacitación)
 --- meta
-title:
+título:
 uuid:
-local:
-source:
-item: SLE
-tags:
+lan: sp
+fuente: Tactical Tech
+categoría:
+etiquetas:
   -
   -
-duration:
-description:
+duración:
+descripción:
 ---
 
-## Meta information
+## Meta información
 
-### Description
+### Descripción
 
-### Overview
+### Estructura
 
 - Presentación e introducción (10 min)
 - Análisis de éxitos (80 min)
 - Presentación de nuevas herramientas (60 min)
 - Resolución de problemas (80 min)
 
-### Duration
+### Duración
 
 230 minutos, 4 horas
 
-### Ideal Number of Participants
+### Número ideal de participantes
 
 - 10 participantes
 - 1 facilitador
 
-### Learning Objectives
+### Objetivos de aprendizaje
 
 XXX: Add something about roles and power relationships.
 
-##### Knowledge
+##### Conocimiento
 
 - Tener un marco teórico para identificar, analizar y resolver problemas
   en procesos colaborativos.
 - Conocer herramientas técnicas que mejoran la colaboración.
 - Conocer criterios para la selección de estas herramientas.
 
-##### Skills
+##### Habilidades
 
 - Reflexionar sobre sus procesos colaborativos e identificar problemas
   en ellos.
 - Aprender algunas herramientas nuevas.
 
-##### Attitude
+##### Actitudes
 
 - Pensar los procesos colaborativos como sistemas que evolucionan y
   requieren evaluación, diseño, mejoras, etc.
@@ -62,19 +62,19 @@ XXX: Add something about roles and power relationships.
   herramientas técnicas ayudaría.
 - Poner enfoque en los procesos y no tanto en las herramientas.
 
-### References
+### Referencias
 
-### Materials and Equipment Needed
+### Materiales y equipamiento necesario
 
-### Optional Materials and Handouts
+### Materiales y folletos opcionales
 
 XXX: Preparar un documento de referencia sobre los principios tecnopolíticos.
 
-## Steps
+## Etapas
 
-### Step 0: Presentación e introducción (10 min)
+### Etapa 0: Presentación e introducción (10 min)
 
-### Step 1: Análisis de éxitos (80 min)
+### Etapa 1: Análisis de éxitos (80 min)
 
 #### Actividad (15 min)
 
@@ -128,7 +128,7 @@ XXX: Preparar las versiones impresas de cada ejemplo. Usar pandoc con un Makefil
 - Pedir a cada grupo explicar su hallazgo el más interesante.
 - Resumir los principios tecnopolíticos.
 
-### Step 2: Presentación de nuevas herramientas (60 min)
+### Etapa 2: Presentación de nuevas herramientas (60 min)
 
 - Presentar 4-5 nuevas herramientas que no han sido mencionadas hasta
   ahora:
@@ -141,7 +141,7 @@ XXX: Preparar las versiones impresas de cada ejemplo. Usar pandoc con un Makefil
 XXX: Preparar un template para la presentación de herramientas.
 XXX: Preparar fichas para diferentes herramientas.
 
-### Step 3: Resolución de problemas (80 min)
+### Etapa 3: Resolución de problemas (80 min)
 
 #### Actividad (15 min)
 
@@ -150,12 +150,12 @@ XXX: Preparar fichas para diferentes herramientas.
   (incluyendo o no herramientas técnicas).
 
 XXX: Que hacemos con las personas que han venido solas de su organización?
-XXX: Dar ejemplos para lanzar la actividad como en el paso 1?
+XXX: Dar ejemplos para lanzar la actividad como en la etapa 1?
 
 #### Debate (20 min)
 
 - Presentar los fracasos y reflexionar sobre ellos a partir de los
-  principios tecnopolíticos identificados en el paso 1.
+  principios tecnopolíticos identificados en la etapa 1.
 - Seguir completando la lista de principios tecnopolíticos.
   - Reflexionar sobre porque algunas herramientas fracasan o no son apropiadas?
 
@@ -180,4 +180,4 @@ XXX: Preparar las versiones impresas de cada ejemplo. Usar pandoc con un Makefil
 - Pedir a cada grupo explicar su hallazgo el más interesante.
 - Resumir los principios tecnopolíticos.
 
-XXX: Es interesante resumir los principios dos veces, en el paso 1 y el paso 2?
+XXX: Es interesante resumir los principios dos veces, en la etapa 1 y la etapa 2?
