@@ -5,7 +5,7 @@ Where to include feedback of the facilitator on specific steps.
 Need to create tip section:
 old people multiply by two, young people a lot of activities.
 
-# Title: Democracia 2.0 (Capacitation)
+# Title: Tecnología para el trabajo colaborativo (capacitación)
 --- meta
 title:
 uuid:
