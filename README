@@ -1,0 +1,27 @@
+# Curriculum
+
+This repository contains a training curriculum that offers workshops and activities around political participation mediated by technology, digital security and privacy.
+
+There are session outlines and reference documents. The session outlines that look at privacy and security in a data society, political participation facilitated by technology, technology for collective action, alternatives to commercial services, Decidim and how to increase security on you mobile phone. The reference documents provide background information for the facilitator/trainers on strategies of resistance, mobile phones and how to set up a training.
+
+These outlines have been designed specifically for trainers, but also others who want to raise awareness on these topics.
+
+The original Curriculum was created by Tactical Tech Collective for the Me and My Shadow project and adapted for Decidim. Session outlines have had input and inspiration from a number of partners working in the privacy and digital security field. Sources include Level-Up, the Gender and Tech Community Wiki and Tactical Tech's Holistic Security Manual.
+
+The Data Privacy Curricula is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+
+# How to contribute:
+- You can also contribute directly to the project by creating a new activity and/or workshop, and/or localize the current content.
+- If you want to work on anything in this repository, see if an issue has been created. If not, open a new issue.
+- If you want to join a specific part of the project, contact the person who is working on it by creating a ticket and assigning it to that person.
+- After assigning a ticket to yourself, branch the project.
+- Select or create a folder with your language group.
+- Change or add content as needed, using the Template.
+- Create a merge request.
+
+
+
+# Code of conduct
+For the diverse group of people who will be using using and contributing to this repository, context is important. Be careful not to assume that because something works for you, it will necessarily work for someone else.
+No illegal activity
