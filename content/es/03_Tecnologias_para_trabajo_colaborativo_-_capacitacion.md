@@ -31,8 +31,8 @@ description:
 
 ### Ideal Number of Participants
 
-	* 10 participants.
-	* 1 facilitator.
+- 10 participants.
+- 1 facilitator.
 
 ### Learning Objectives
 
@@ -65,9 +65,9 @@ XXX: Add something about roles and power relationships.
 
 Big picture:
 
-  - Identify and analyze successes (80 min)
-  - Presentation of new tools (60 min)
-  - Problem solving (80 min)
+- Identify and analyze successes (80 min)
+- Presentation of new tools (60 min)
+- Problem solving (80 min)
 
 ### Step 0: Presentation & introduction (10 min)
 
@@ -75,70 +75,70 @@ Big picture:
 
 Activity: (15 min)
 
-	* Group people by organization and list down successful collaborative processes that involved technical tools.
-	* Seed the discussion with example of different types (decide, communicate, create, debate, etc.).
-		* Note: Excluding outreach and impact work.
+- Group people by organization and list down successful collaborative processes that involved technical tools.
+- Seed the discussion with example of different types (decide, communicate, create, debate, etc.).
+  - Note: Excluding outreach and impact work.
 
 Discuss: (20 min)
 
-	* All group get together and list processes in a wall according to types, people comment the initiatives listed and discussing success reasons
-	* Reflect on the (techno-political) principles behind these successes.
-	* Start listing techno-political principles: privacy, sovereignty, usability, inclusion, adaptability, well-being.
-		* Put all this in perspective of group contexts and individual conditions.
-		* Which roles, techno-social aspects, and power relationships these tools created inside the organization?
-		* Evaluation emotional aspects of these tools.
-	* Facilitator could seed more principles.
+- All group get together and list processes in a wall according to types, people comment the initiatives listed and discussing success reasons
+- Reflect on the (techno-political) principles behind these successes.
+- Start listing techno-political principles: privacy, sovereignty, usability, inclusion, adaptability, well-being.
+  - Put all this in perspective of group contexts and individual conditions.
+  - Which roles, techno-social aspects, and power relationships these tools created inside the organization?
+  - Evaluation emotional aspects of these tools.
+- Facilitator could seed more principles.
 
 Input: (15 min)
 
-	* Give an example of success of each type of process.
-		* Especially proccesses that relates to the audience, local experience, current initiatives, etc.
+- Give an example of success of each type of process.
+  - Especially proccesses that relates to the audience, local experience, current initiatives, etc.
 
 XXX: Prepare selected examples.
 
 Deepening: (20 min)
 
-	* Distribute printed versions of each example.
-	* Group people to reflect on how the previous principles applies to the example successes.
+- Distribute printed versions of each example.
+- Group people to reflect on how the previous principles applies to the example successes.
 
 Synthesis: (10 min)
 
-	* Have each group give a key finding.
-	* Summary of principles.
+- Have each group give a key finding.
+- Summary of principles.
 
 ### Step 2: Presentation of new tools (60 min)
 
-	* Present 4-5 new tools that haven't been mentioned so far.
-		* Screenshots.
-		* Use cases.
-		* Reflect on the techno-social aspects: pros and cons.
-		* Get past experiences from the audience.
-		* Q&A
+- Present 4-5 new tools that haven't been mentioned so far.
+  - Screenshots.
+  - Use cases.
+  - Reflect on the techno-social aspects: pros and cons.
+  - Get past experiences from the audience.
+  - Q&A
 
 ### Step 3: Problem solving (80 min)
 
 Activity:
 
-	* Group people by organization and list down failures of collaborative processes.
+- Group people by organization and list down failures of collaborative processes.
 
 Discuss:
 
-	* Present the failures and reflect on them according to the principles identified in step 1.
-	* Continue completing the list of principles.
-		* Why did some tools failed to be useful or appropriate?
+- Present the failures and reflect on them according to the principles identified in step 1.
+- Continue completing the list of principles.
+  - Why did some tools failed to be useful or appropriate?
 
 Input:
 
-	* Give an example of failure for each type of process.
-		* Especially proccesses that relates to the audience, local experience, current initiatives, etc.
+- Give an example of failure for each type of process.
+  - Especially proccesses that relates to the audience, local experience, current initiatives, etc.
 
 Deepening:
 
-	* Distribute printed versions of each example.
-	* Group people to reflect on how the previous principles should apply to make these successful and which tools and shared agreements could correspond.
+- Distribute printed versions of each example.
+- Group people to reflect on how the previous principles should apply to make these successful and which tools and shared agreements could correspond.
 
 Synthesis:
 
-	* Have each group give a key finding.
-	* Summary of principles.
+- Have each group give a key finding.
+- Summary of principles.
 
