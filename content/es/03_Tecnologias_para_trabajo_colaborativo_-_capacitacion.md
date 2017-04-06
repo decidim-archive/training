@@ -68,7 +68,6 @@ XXX: Add something about roles and power relationships.
 
 ### Optional Materials and Handouts
 
-XXX: Añadir subtitulos en los ADIDS de cada step.
 XXX: Preparar un documento de referencia sobre los principios tecnopolíticos.
 
 ## Steps
@@ -77,7 +76,7 @@ XXX: Preparar un documento de referencia sobre los principios tecnopolíticos.
 
 ### Step 1: Análisis de éxitos (80 min)
 
-Actividad (15 min)
+#### Actividad (15 min)
 
 - Formar grupos agrupando las personas que forman parte de una misma
   organización y listar procesos colaborativo éxitos que incluyeron
@@ -89,7 +88,7 @@ Actividad (15 min)
 XXX: Preparar algunos ejemplos
 XXX: Que hacemos con las personas que han venido solas de su organización?
 
-Debate (20 min)
+#### Debate (20 min)
 
 - Juntar todos los participantes y hacer un listado de los diferentes
   procesos y agruparlos por tipo. Comentar los ejemplos y debatir las
@@ -106,7 +105,7 @@ Debate (20 min)
 
 XXX: Dar ideas o ejemplos de como materializar estos listados.
 
-Aporte (15 min)
+#### Aporte (15 min)
 
 - Dar un ejemplo de éxito para cada tipo de proceso.
   - Poner enfoque en procesos que hablan más a la audiencia,
@@ -115,7 +114,7 @@ Aporte (15 min)
 XXX: Preparar estos ejemplos.
 XXX: Los ejemplos aquí duplican los ejemplos dados en la Actividad.
 
-Profundización (20 min)
+#### Profundización (20 min)
 
 - Distribuir versiones impresas de cada ejemplo.
 - Agrupar los participantes para reflexionar sobre como los principios
@@ -124,7 +123,7 @@ Profundización (20 min)
 XXX: Aclarar si cada grupo analizar un ejemplo, dos o todos.
 XXX: Preparar las versiones impresas de cada ejemplo. Usar pandoc con un Makefile?
 
-Síntesis (10 min)
+#### Síntesis (10 min)
 
 - Pedir a cada grupo explicar su hallazgo el más interesante.
 - Resumir los principios tecnopolíticos.
@@ -144,7 +143,7 @@ XXX: Preparar fichas para diferentes herramientas.
 
 ### Step 3: Resolución de problemas (80 min)
 
-Actividad:
+#### Actividad (15 min)
 
 - Formar grupos agrupando las personas que forman parte de una misma
   organización y listar fracasos en sus procesos colaborativos
@@ -153,20 +152,20 @@ Actividad:
 XXX: Que hacemos con las personas que han venido solas de su organización?
 XXX: Dar ejemplos para lanzar la actividad como en el paso 1?
 
-Debate:
+#### Debate (20 min)
 
 - Presentar los fracasos y reflexionar sobre ellos a partir de los
   principios tecnopolíticos identificados en el paso 1.
 - Seguir completando la lista de principios tecnopolíticos.
   - Reflexionar sobre porque algunas herramientas fracasan o no son apropiadas?
 
-Aporte:
+#### Aporte (15 min)
 
 - Dar un ejemplo de fracaso para cada tipo de proceso.
   - Poner enfoque en procesos que hablan más a la audiencia,
     experiencias locales, iniciativas actuales, etc.
 
-Profundización:
+#### Profundización (20 min)
 
 - Distribuir versiones impresas de cada ejemplo.
 - Agrupar los participantes para reflexionar sobre como los principios
@@ -176,7 +175,7 @@ Profundización:
 
 XXX: Preparar las versiones impresas de cada ejemplo. Usar pandoc con un Makefile?
 
-Síntesis:
+#### Síntesis (10 min)
 
 - Pedir a cada grupo explicar su hallazgo el más interesante.
 - Resumir los principios tecnopolíticos.
