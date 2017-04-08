@@ -86,3 +86,48 @@ tienen funcionalidades muy potentes y ofrece mucha flexibilidad.
 [^guifi]:    https://guifi.net/
 [^mapa]:     https://guifi.net/en/node/2413/view/map
 [^castello]: http://castello.guifi.net/sites/default/files/InstalarNodoCliente_1.pdf
+
+# Priorización de la lista de espera de la cooperativa de vivienda Abril
+
+Abril es un proyecto de cooperativa de vivienda para 21 familias en
+Poblenou con un fuerte carácter social y de barrio. En los primeros
+tiempos de la construcción del proyecto más de 21 familias manifestaron
+su interés en la cooperativa. Los socios crearon una lista de espera con
+el objetivo de poder remplazar las familias que dejarían el proyecto
+mientras se iba solidificando el grupo y definiendo mejor el proyecto.
+
+Pronto la lista llegó a tener 25 familias adicionales que incluían gente
+conocida del barrio, amigos, familiares, gente desconocida, etc. y era
+necesario tener un orden para todas: saber que familia llamarían primero
+en caso de baja de una familia del proyecto. Los socios debatieron sobre
+los criterios a usar para ordenar la lista (implicación en el barrio,
+condición económica, diversidad de perfil social, habilidades útiles
+para el proyecto, experiencia cooperativa, afinidad personal, etc.).
+Llegar a un acuerdo sobre como aplicar estos criterios equitativamente y
+colectivamente prometía ser muy complicado y requerir debates
+interminables cuando lo que necesitaban más en este momento era
+centrarse en definir mejor el proyecto de cooperativa en sí y reforzar
+el grupo ya existente.
+
+Finalmente se pusieron de acuerdo en asamblea sobre usar un método de
+voto Condorcet [^condorcet] para combinar las preferencias de todas los
+socios. El método de voto Condorcet permite a cada votante ordenar la
+lista de todos los candidatos por su orden de preferencia personal. Hay
+un candidato ganador del voto si este candidato es preferido por cada
+votante a todos los otros candidatos. Si no hay un simple candidato
+ganador, existen métodos complementarios de resolución, como el método
+Schulze [^schulze], que permite crear una lista ordenada de todos los
+candidatos.
+
+Utilizaron una página web para hacer votaciones Condorcet gratis y libre
+alojada por el departamento de informática de una universidad americana.
+Las 21 familias consiguieron votar. Algunas se confundieron en como
+votar pero el administrador del voto pudo detectar y corregir estos
+errores. Como era la primera vez que usaban esta herramienta también
+tuvieron algunos problemas al configurar el voto e interpretar los
+resultados. Pero una vez estos pequeños problemas superados los
+resultados finales dieron satisfacción al grupo entero.
+
+[^condorcet]: https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet
+[^schulze]:   https://es.wikipedia.org/wiki/M%C3%A9todo_Schulze
+[^civs]:      http://civs.cs.cornell.edu/
