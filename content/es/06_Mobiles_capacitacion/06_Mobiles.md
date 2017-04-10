@@ -1,4 +1,4 @@
-# Comunicación Móviles
+﻿# Comunicación Móviles
 --- meta
 título:  Comunicación Móviles
 uuid: 
@@ -76,6 +76,7 @@ La siguiente actividad permite a las participantes ver cómo funciona realmente 
 ##### Actividad: "¿Cómo funciona la comunicación móvil?"
 @[activity]()
 
+
 ### Etapa 3: ¿Cómo funciona un teléfono? ¿Qué terceros tienen acceso y a qué partes? (40 min)
 La siguiente actividad muestra cómo funciona un teléfono móvil y cómo se utilizan diferentes partes del teléfono móvil para la recopilación y el rastreo de la información.
 
@@ -99,3 +100,4 @@ Descargue el cuestionario sobre comunicaciones móviles. El cuestionario se pued
 <!---
 BCN_currículo/Capacitación/TEMPLATE
 -->
+

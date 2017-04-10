@@ -1,4 +1,4 @@
-# ¿Cómo ganan dinero los servicios que usas en internet?
+﻿# ¿Cómo ganan dinero los servicios que usas en internet?
 --- meta
 título:  ¿Cómo ganan dinero los servicios que usas en internet?
 uuid: 
@@ -64,7 +64,6 @@ Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favo
 3. Pregunte como cada empresa genera dinero, en el caso de Apple, Microsoft o Amazon el modelo de negocio suele aparecer rápidamente (venden ordenadores, software, productos por internet) pero los modelos de negocios de Facebook y Google pueden costar mas tiempo en aparecer, guía las participantes con preguntas apuntando al rol de la publicidad por ejemplo.
 4. Invita las participantes a comentar los resultados. Preguntales si existen conceptos específicos que no están claros y que se necesitan aclarar. Introduce la próxima etapa donde presentara un vídeo y/o una presentación acerca de la política de los datos.
 
-
 ### Conceptos claves por cubrir
 1. Concentración servicios de internet.
 2. GAFAM.
@@ -74,3 +73,4 @@ Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favo
 <!---
 BCN_currículo/Concienciación/TEMPLATE
 -->
+

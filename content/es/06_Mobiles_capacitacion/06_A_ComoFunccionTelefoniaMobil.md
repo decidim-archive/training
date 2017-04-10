@@ -1,4 +1,4 @@
-# ¿Cómo funciona la comunicación móvil?
+﻿# ¿Cómo funciona la comunicación móvil?
 --- meta
 título:  ¿Cómo funciona la comunicación móvil?
 uuid: 
