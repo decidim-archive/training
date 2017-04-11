@@ -93,7 +93,7 @@ Descargue el cuestionario sobre comunicaciones móviles. El cuestionario se pued
 ### Etapa 06: Conclusión: Preguntas, aclaraciones y recursos (10 min)
 1. Mire si algo no ha quedado claro, y responda a las preguntas.
 2. Oriente las participantes hacia los recursos.
-3. Entregue el Folleto Privacidad para llevar Móvil de Tactical Tech si cuenta con copias para si distribución.
+3. Entregue el Folleto Privacidad para llevar Móvil de Tactical Tech si cuenta con copias para su distribución.
 
 
 -------------------------------

@@ -74,7 +74,7 @@ Usando las tarjetas, pregunta a las participantes  que muestren la diferencia en
 1. ¿Qué partes del teléfono móvil y la infraestructura de telefonía móvil están involucradas?
 2. ¿Quién tiene o podría tener acceso a qué datos e información y en qué puntos del camino?
 
-### Opción 2 – PAPEL Y LAPIZ (40 min)
+### Opción 2 – PAPEL Y LÁPIZ (40 min)
 
 #### Dibuja la infraestructura de telefonía móvil
 1. Entregue papel y lápiz a cada participante, y escriba algunas palabras claves en el rotafolio: torre de teléfono celular, 3G/4G, empresa de telecomunicación, triangulación.
