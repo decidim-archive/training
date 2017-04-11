@@ -84,7 +84,7 @@ La siguiente actividad muestra cómo funciona un teléfono móvil y cómo se uti
 @[activity]()
 
 ### Etapa 4: ¿Qué puede hacer? Trucos para gestionar sus rastros (20 min)
-Acompañe las participantes a través de la lista práctica del documento de _referencia Móviles. Tenga en cuenta que esta no es una sesión práctica, por ello ciñese en explicar la visión general de cada etapa. 
+Acompañe las participantes a través de la lista práctica del documento de referencia Móviles. Tenga en cuenta que esta no es una sesión práctica, por ello ciñese en explicar la visión general de cada etapa. 
 
 ### Etapa 6: Cuestionario de refuerzo (10 min)
 Descargue el cuestionario sobre comunicaciones móviles. El cuestionario se puede proyectar, se pueden leer las preguntas, o se puede hacer individualmente utilizando formularios impresos.

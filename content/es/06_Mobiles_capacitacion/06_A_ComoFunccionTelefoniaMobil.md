@@ -31,7 +31,7 @@ Esta sesión se puede hacer con cualquier número de participantes.
 ### Objetivos de aprendizaje
 ##### Conocimiento
 - Entender la infraestructura de comunicación móvil, y quién posee qué partes de esta infraestructura.
-- Entender dónde están las vulnerabilidades: ¿quién puede o podría acceder a su comunicación o datos y en qué puntos?.
+- Entender dónde están las vulnerabilidades: ¿quién puede o podría acceder a su comunicación o datos y en qué puntos?
 - Comprender las diferencias entre las redes celulares (incluyendo 3G/4G) y el Wi-Fi.
 
 
@@ -46,7 +46,7 @@ Esta sesión se puede hacer con cualquier número de participantes.
 - @[material]()Papel A4
 - @[material]()Bolígrafos
 - @[material]()Tarjetas - Cómo funciona la comunicación móvil
-- @[material]() Folleto Privacidad para llevar móvil
+- @[material]()Folleto - Privacidad para llevar móvil
 
 
 ## Actividad: "¿Cómo funciona la comunicación móvil?"
