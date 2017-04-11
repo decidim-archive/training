@@ -42,7 +42,8 @@ description:  ¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a 
 - [Quema tu móvil](https://quematumovil.pimienta.org/), (Pimienta)
 - [Mobile Safety](https://www.level-up.cc/curriculum/mobile-safety/) (Level-Up Trainers' Curriculum)
 - [Umbrella app for Android](https://play.google.com/store/apps/details?id=org.secfirst.umbrella&hl=en) (Security First)
-
+- [El Problema con los Teléfonos Móviles](https://ssd.eff.org/es/module/el-problema-con-los-tel%C3%A9fonos-m%C3%B3viles) (Electronic Frontier Foundation)
+- [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard) (Electronic Frontier Foundation)
 
 ### Materiales y equipamiento necesario
 - @[material]()Proyector
@@ -84,7 +85,7 @@ La siguiente actividad muestra cómo funciona un teléfono móvil y cómo se uti
 @[activity]()
 
 ### Etapa 4: ¿Qué puede hacer? Trucos para gestionar sus rastros (20 min)
-Acompañe las participantes a través de la lista práctica del documento de _referencia Móviles. Tenga en cuenta que esta no es una sesión práctica, por ello ciñese en explicar la visión general de cada etapa. 
+Acompañe las participantes a través de la lista práctica del documento de referencia Móviles. Tenga en cuenta que esta no es una sesión práctica, por ello ciñese en explicar la visión general de cada etapa. 
 
 ### Etapa 6: Cuestionario de refuerzo (10 min)
 Descargue el cuestionario sobre comunicaciones móviles. El cuestionario se puede proyectar, se pueden leer las preguntas, o se puede hacer individualmente utilizando formularios impresos.
@@ -93,7 +94,7 @@ Descargue el cuestionario sobre comunicaciones móviles. El cuestionario se pued
 ### Etapa 06: Conclusión: Preguntas, aclaraciones y recursos (10 min)
 1. Mire si algo no ha quedado claro, y responda a las preguntas.
 2. Oriente las participantes hacia los recursos.
-3. Entregue el Folleto Privacidad para llevar Móvil de Tactical Tech si cuenta con copias para si distribución.
+3. Entregue el Folleto Privacidad para llevar Móvil de Tactical Tech si cuenta con copias para su distribución.
 
 
 -------------------------------

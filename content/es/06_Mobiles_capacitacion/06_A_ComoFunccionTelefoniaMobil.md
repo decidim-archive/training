@@ -31,7 +31,7 @@ Esta sesión se puede hacer con cualquier número de participantes.
 ### Objetivos de aprendizaje
 ##### Conocimiento
 - Entender la infraestructura de comunicación móvil, y quién posee qué partes de esta infraestructura.
-- Entender dónde están las vulnerabilidades: ¿quién puede o podría acceder a su comunicación o datos y en qué puntos?.
+- Entender dónde están las vulnerabilidades: ¿quién puede o podría acceder a su comunicación o datos y en qué puntos?
 - Comprender las diferencias entre las redes celulares (incluyendo 3G/4G) y el Wi-Fi.
 
 
@@ -46,7 +46,7 @@ Esta sesión se puede hacer con cualquier número de participantes.
 - @[material]()Papel A4
 - @[material]()Bolígrafos
 - @[material]()Tarjetas - Cómo funciona la comunicación móvil
-- @[material]() Folleto Privacidad para llevar móvil
+- @[material]()Folleto - Privacidad para llevar móvil
 
 
 ## Actividad: "¿Cómo funciona la comunicación móvil?"
@@ -74,7 +74,7 @@ Usando las tarjetas, pregunta a las participantes  que muestren la diferencia en
 1. ¿Qué partes del teléfono móvil y la infraestructura de telefonía móvil están involucradas?
 2. ¿Quién tiene o podría tener acceso a qué datos e información y en qué puntos del camino?
 
-### Opción 2 – PAPEL Y LAPIZ (40 min)
+### Opción 2 – PAPEL Y LÁPIZ (40 min)
 
 #### Dibuja la infraestructura de telefonía móvil
 1. Entregue papel y lápiz a cada participante, y escriba algunas palabras claves en el rotafolio: torre de teléfono celular, 3G/4G, empresa de telecomunicación, triangulación.
