@@ -1,19 +1,19 @@
 ﻿# Cuida los datos
 --- meta
-título:  Cuida los datos
+title:  Cuida los datos
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  concienciación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  concienciación
+tags: 
   - Discusión
   - Selección de herramientas
   - Política de los datos
   - Sombra Digital
   - Modelos de negocios
   - Navegador
-duración: 150
-descripción: Entender la economía y política detrás de los datos y nuestras identidades conectadas: ¿Quien y qué hacen con nuestros datos, cómo se generan negocios con ellos y de qué manera somos rastreadas, vigiladas y/o discriminadas?
+duration:  150
+description:  Entender la economía y política detrás de los datos y nuestras identidades conectadas: ¿Quien y qué hacen con nuestros datos, cómo se generan negocios con ellos y de qué manera somos rastreadas, vigiladas y/o discriminadas?
 ---
 
 ## Meta información

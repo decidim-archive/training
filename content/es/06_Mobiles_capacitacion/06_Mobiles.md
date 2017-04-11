@@ -1,15 +1,15 @@
 ﻿# Comunicación Móviles
 --- meta
-título:  Comunicación Móviles
+title:  Comunicación Móviles
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  capacitación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  capacitación
+tags: 
    - Móviles
    - Ejercicios dibujo
-duración: 140
-descripción: ¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a su información por el camino? ¿Y qué puede hacer para recuperar algún control sobre la información a la que otros tienen acceso?
+duration:  140
+description:  ¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a su información por el camino? ¿Y qué puede hacer para recuperar algún control sobre la información a la que otros tienen acceso?
 ---
 
 ## Meta información

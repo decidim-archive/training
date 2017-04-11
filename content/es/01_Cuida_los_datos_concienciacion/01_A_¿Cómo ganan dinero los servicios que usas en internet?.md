@@ -1,32 +1,32 @@
 ﻿# ¿Cómo ganan dinero los servicios que usas en internet?
 --- meta
-título:  ¿Cómo ganan dinero los servicios que usas en internet?
-uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  concienciación
-etiquetas:
+title:  ¿Cómo ganan dinero los servicios que usas en internet?
+uuid:
+locale: es
+source: Tactical Tech
+category:  concienciación
+tags:
   - Rastreo y perfilaje
   - Corredores de datos
   - GAFAM
   - Modelos de negocios
-duración: 45
-descripción: ¿Cómo ganan dinero los servicios que usas en internet? Analizar cuales son los modelos de negocios de las grandes empresas que proveen servicios en internet (Google, Amazon, Facebook, Apple, Microsoft) permite entender sus motivaciones y practicas y como estas nos pueden afectar.
+duration:  45
+description:  ¿Cómo ganan dinero los servicios que usas en internet? Analizar cuales son los modelos de negocios de las grandes empresas que proveen servicios en internet (Google, Amazon, Facebook, Apple, Microsoft) permite entender sus motivaciones y practicas y como estas nos pueden afectar.
 ---
 
 ## Meta información
 
-### Descripción 
+### Descripción
 ¿Cómo ganan dinero los servicios que usas en internet? Analizar cuales son los modelos de negocios de las grandes empresas que proveen servicios en internet (Google, Amazon, Facebook, Apple, Microsoft) permite entender sus motivaciones y practicas y como estas nos pueden afectar.
 
 ### Estructura
 1. Mapeo de las tecnologías favoritas de las participantes (10 min)
-2. Modelos de negocios de estas empresas (35 min) 
+2. Modelos de negocios de estas empresas (35 min)
 
 ### Duración
 45 minutos.
 
-### Número ideal de participantes 
+### Número ideal de participantes
 10-20 participantes.
 
 ### Objetivos de aprendizaje
@@ -36,7 +36,7 @@ descripción: ¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 ### Materiales y equipamiento necesario
 - @[material]()Ordenador
 - @[material]()Proyector
-- @[material]()Sistema de audio 
+- @[material]()Sistema de audio
 - @[material]()Rotafolio
 - @[material]()Marcadores
 - @[material]()Papel A4
@@ -44,7 +44,7 @@ descripción: ¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 
 ## Actividad: "¿Cómo ganan dinero los servicios que usas en internet?"
 --- meta
-uuid: 
+uuid:
 ---
 
 #### Preparación
@@ -56,10 +56,10 @@ uuid:
 
 ### Etapa 1: Mapeo de las tecnologías favoritas de las participantes (10 min)
 
-Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favorita, prepara un post it para cada una de ellas y pide a las participantes que te ayuden a clasificar estas debajo de la empresa a la cual pertenecen: Google, Amazon, Facebook, Apple, Microsoft. Si las participantes no lo saben, ves organizando las entradas. Las tecnologías que no pertenecen a ninguna de estas empresas se quedan en otra zona de la pared. Pregunta a las participantes que les sugiere esta concentración de servicios entre pocas manos. 
+Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favorita, prepara un post it para cada una de ellas y pide a las participantes que te ayuden a clasificar estas debajo de la empresa a la cual pertenecen: Google, Amazon, Facebook, Apple, Microsoft. Si las participantes no lo saben, ves organizando las entradas. Las tecnologías que no pertenecen a ninguna de estas empresas se quedan en otra zona de la pared. Pregunta a las participantes que les sugiere esta concentración de servicios entre pocas manos.
 
-#### Etapa 2: Modelos de negocios de estas empresas (35 min) 
-1. Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc” y que luego se junten por números. 
+#### Etapa 2: Modelos de negocios de estas empresas (35 min)
+1. Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc” y que luego se junten por números.
 2. Pide a cada grupo que se especialice en buscar datos acerca de una de estas empresas: Google, Amazon, Facebook, Apple o Microsoft. Tienen 10 minutos para encontrar cuanto ganan anualmente, donde están localizadas, cuando se crearon. Debes guiar un retorno ordenado de estos datos y escribir las respuestas debajo del cartel de cada una de las empresas.
 3. Pregunte como cada empresa genera dinero, en el caso de Apple, Microsoft o Amazon el modelo de negocio suele aparecer rápidamente (venden ordenadores, software, productos por internet) pero los modelos de negocios de Facebook y Google pueden costar mas tiempo en aparecer, guía las participantes con preguntas apuntando al rol de la publicidad por ejemplo.
 4. Invita las participantes a comentar los resultados. Preguntales si existen conceptos específicos que no están claros y que se necesitan aclarar. Introduce la próxima etapa donde presentara un vídeo y/o una presentación acerca de la política de los datos.
@@ -73,4 +73,3 @@ Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favo
 <!---
 BCN_currículo/Concienciación/TEMPLATE
 -->
-

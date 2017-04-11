@@ -1,17 +1,17 @@
 ﻿# ¿Cómo funciona la comunicación móvil?
 --- meta
-título:  ¿Cómo funciona la comunicación móvil?
+title:  ¿Cómo funciona la comunicación móvil?
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  capacitación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  capacitación
+tags: 
   - Móviles
   - Navegador
   - Soberanía Tecnológica y cómo elegir alternativas 
   - Ejercicios dibujo
-duración: 60
-descripción: ¿Cómo funciona realmente la comunicación móvil? Entender a qué información tienen acceso las personas terceras a lo largo del camino.
+duration:  60
+description:  ¿Cómo funciona realmente la comunicación móvil? Entender a qué información tienen acceso las personas terceras a lo largo del camino.
 ---
 
 ## Meta información

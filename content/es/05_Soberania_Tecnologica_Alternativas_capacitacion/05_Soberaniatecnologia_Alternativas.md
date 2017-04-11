@@ -1,17 +1,17 @@
 # Soberanía Tecnológica y cómo elegir alternativas 
 --- meta
-título:  Elegir Alternativas
+title:  Elegir Alternativas
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  concienciación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  concienciación
+tags: 
   - Elegir herramientas
   - Móviles
   - Mensajerías seguras
   - Navegadores
-duración: 60
-descripción: ¿En qué se diferencian las herramientas y servicios comerciales y no comerciales? ¿Por qué eso importa? Esta actividad ofrece un marco sencillo para hacer elecciones informadas, e introduce el concepto de soberanía tecnológica así como algunas opciones alternativas.
+duration:  60
+description:  ¿En qué se diferencian las herramientas y servicios comerciales y no comerciales? ¿Por qué eso importa? Esta actividad ofrece un marco sencillo para hacer elecciones informadas, e introduce el concepto de soberanía tecnológica así como algunas opciones alternativas.
 ---
 
 ## Meta información

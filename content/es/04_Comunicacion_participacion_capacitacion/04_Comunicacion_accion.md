@@ -1,18 +1,18 @@
 # Comunicación para la participación
 --- meta
-título:  Comunicación para la acción
+title:  Comunicación para la acción
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  capacitación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  capacitación
+tags: 
   - Discusión
   - Selección de herramientas
   - Plan de comunicación 
   - Audiencia e impacto
   - Alternativas y soberanía tecnológica
-duración: 125
-descripción: ¿Como mejorar la difusión e impacto de los procesos de participación ciudadanas?. Metodologías y procesos para saber como analizar y diseñar un plan de comunicación para las  iniciativas ciudadanas. 
+duration:  125
+description:  ¿Como mejorar la difusión e impacto de los procesos de participación ciudadanas?. Metodologías y procesos para saber como analizar y diseñar un plan de comunicación para las  iniciativas ciudadanas. 
 ---
 
 ## Meta información

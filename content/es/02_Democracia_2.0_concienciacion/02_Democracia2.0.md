@@ -1,18 +1,18 @@
 # Democracia 2.0
 --- meta
-título:  Democracia 2.0
+title:  Democracia 2.0
 uuid: 
-lan: sp
-fuente: Tactical Tech
-categoría:  concienciación
-etiquetas:
+locale: es
+source: Tactical Tech
+category:  concienciación
+tags: 
   - Discusión
   - Selección de herramientas
   - Participación política
   - Cualidad Democrática
   - Alternativas y soberanía tecnológica
-duración: 205
-descripción: Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y modelos de democracia en el contexto de la ciudad de Barcelona pero también mas allá. Después se profundiza en los tipos de usos creativos que se están dando de internet y qué plataformas  pueden facilitar la participación ciudadana.
+duration:  205
+description:  Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y modelos de democracia en el contexto de la ciudad de Barcelona pero también mas allá. Después se profundiza en los tipos de usos creativos que se están dando de internet y qué plataformas  pueden facilitar la participación ciudadana.
 ---
 
 ## Meta información
