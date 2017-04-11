@@ -131,3 +131,33 @@ resultados finales dieron satisfacción al grupo entero.
 [^condorcet]: https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet
 [^schulze]:   https://es.wikipedia.org/wiki/M%C3%A9todo_Schulze
 [^civs]:      http://civs.cs.cornell.edu/
+
+# Recompilación automática de convocatorias y noticias para el 15M Barcelona
+
+Los meses y años después del 15M fueron marcados por una efervescencia en los
+movimientos sociales, tanto por sectores (en partes siguiendo el trabajo de las
+comisiones de la Plaça Catalunya) como por zonas geográficas (barrios y vilas
+que mantuvieron asambleas).
+
+L'Espai de Coordinació se propuso como espacio de intercambio y coordinación
+entre estas diferentes iniciativas una vez desaparecido el espacio físico de la
+Plaça Catalunya. El Grup Tècnic de l'Espai de Coordinació publicó hasta junio
+2015, un boletín semanal de información agrupando las convocatorias y noticias
+relacionadas con estos movimientos.
+
+Al principio este boletín estaba redactado manualmente de manera colaborativa a
+través de pads [^pad]. Pero al pasar los años, vieron el interés a automatizar
+esta tarea. Muchos de los grupos o barrios que seguían movilizados tenían su
+propio blog y un miembro del l'Espai de Coordinació que sabía programar
+escribió un programa [^social-digest] para agregar automáticamente todas estas
+fuentes de información, publicarlas en la web de l'Espai de Coordinació
+[^noticies] y la web de l'Acampada BCN, enviar un email a una serie de
+contactos y generar un calendario en formato iCalendar.
+
+El programa se dejó de utilizar cuando se dejó de publicar este boletín en
+2015. Aunque el código del programa estuviera publicado, no parece haber sido
+reutilizado en otro contexto.
+
+[^pad]:           https://titanpad.com/accions12m15mBCN
+[^social-digest]: https://github.com/pepe84/social-digest
+[^noticies]:      https://web-beta.archive.org/web/20130609015254/http://espaicoordinacio.net:80/noticies-2/
