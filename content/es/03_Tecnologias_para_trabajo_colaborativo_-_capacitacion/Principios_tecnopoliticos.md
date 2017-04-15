@@ -56,6 +56,8 @@ XXX: Escribir una introducción:
     Wordpress própia (y no en wordpress.com), podrá personalizarla muchísimo a
     través de las plantillas y las extensiones disponibles o incluso
     escribiendo código propio.
-  - Contraejemplo: 
+  - Contraejemplo: El programa Etherpad no permite a grupos mantener una
+    biblioteca de sus pads, organizarlos y controlar el acceso a ellos para que
+    solo sus miembros los puedan visualizar o editar.
 
 - **Sostenibilidad**
