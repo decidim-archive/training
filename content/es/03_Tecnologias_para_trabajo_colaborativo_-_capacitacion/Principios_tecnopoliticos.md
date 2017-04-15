@@ -60,4 +60,12 @@ XXX: Escribir una introducción:
     biblioteca de sus pads, organizarlos y controlar el acceso a ellos para que
     solo sus miembros los puedan visualizar o editar.
 
-- **Sostenibilidad**
+- **Sostenibilidad**: La herramienta seguirá funcionando todo el tiempo que la
+  necesitaremos? Puede cambiar a nuestro pesar? Cuantos recursos será necesario
+  para mantenerla (trabajo, dinero, conocimientos, etc.)? Como nos aseguraremos
+  disponer de estos recursos al largo del tiempo?
+  - Ejemplo: Alojar sus propias herramientas requiere más trabajo (y quizás más
+    dinero) pero nos da más protagonismo a la hora de decidir de su futuro.
+  - Contraejemplo: Algunas herramientas online gratis se vuelven de pago, dejan
+    de existir o cambian de funcionalidades en funcción de las necesidades del
+    mercado.
