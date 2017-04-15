@@ -12,7 +12,7 @@ XXX: Escribir una introducción:
     sus usuarios.
   - Contraejemplo: Los emails de GMail son propiedad de una empresa que tiene
     como modelo de negocio el análisis de nuestras comunicaciones privadas para
-    vender publicidad a empresas anunciadoras.
+    vender espacio publicitario a empresas anunciadoras.
 
 - **Soberanía**: Cual es la relación entre los usuarios de la herramienta y sus
   propietarios? Los usuarios pueden influir sobre el desarrollo y la gestión de
