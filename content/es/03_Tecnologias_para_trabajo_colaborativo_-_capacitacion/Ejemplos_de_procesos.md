@@ -153,8 +153,8 @@ pasar los años, sintieron la necesidad de automatizar esta tarea.
 Un miembro del l'Espai de Coordinació que sabía programar
 escribió un programa [^social-digest] para agregar automáticamente todas estas
 fuentes de información, publicarlas en la web de l'Espai de Coordinació
-[^noticies] y la web de l'Acampada BCN, enviar un email a una serie de
-contactos y generar un calendario en formato iCalendar.
+[^noticies], en la web de l'Acampada BCN y enviar un email a una serie de
+contactos.
 
 El programa se dejó de utilizar cuando se dejó de publicar este boletín en
 2015. Aunque el código del programa estuviera publicado, no parece haber sido
