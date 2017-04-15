@@ -46,12 +46,12 @@ XXX: Escribir una introducción:
     asistir a la asamblea puedan seguir los debates.
   - Contraejemplo: Muchas herramientas digitales o páginas webs son
     inaccesibles a personas que tiene algun problema de vista (ceguera,
-    presbicia, daltonismo, etc.) y todos tendremos uno algun día. 
+    presbicia, daltonismo, etc.) y todos tendremos uno algun día.
 
 - **Adaptabilidad**: Es posible adaptar la herramienta a las necesidades
   especificas de la organización? En la práctica o solo en la teoría (todas las
   herramientas de software libre se pueden adaptar pero la organización quizás
-  no tiene la capacidad de hacerlo)? 
+  no tiene la capacidad de hacerlo)?
   - Ejemplo: Si la organización tiene capacidad de alojar su página web
     Wordpress própia (y no en wordpress.com), podrá personalizarla muchísimo a
     través de las plantillas y las extensiones disponibles o incluso
