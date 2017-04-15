@@ -1,3 +1,6 @@
+Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+=======================================================================================
+
 Damos aquí un listado de los principales principios tecnopolíticos que deberían
 salir en el taller. Estos principios son interrelacionados. Por ejemplo:
 
