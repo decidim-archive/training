@@ -1,7 +1,20 @@
-XXX: Escribir una introducción:
-       - Damos aquí un listado de los principales principios tecnopolíticos...
-       - No hay herramienta perfecta y siempre hay que sacrificar algo.
-       - Los principios son interrelacionados.
+Damos aquí un listado de los principales principios tecnopolíticos que deberían
+salir en el taller. Estos principios son interrelacionados. Por ejemplo:
+
+- Más *soberanía* suele venir con más *privacidad*.
+- Si optamos por herramientas comerciales porque tienen mejor *usabilidad*,
+  solemos perder en *privacidad*.
+- Una herramienta con poca *usabilidad* generará seguramente también problemas
+  de *inclusión*.
+
+La idea entonces es que los participantes se vuelvan conscientes de estos
+principios y sus interrelaciones a la hora de elegir una herramienta o pensar
+un proceso colaborativo. No hay herramienta perfecta y ser consciente de ello
+permite decidir mejor a que principios queremos dar prioridad y que otros
+dejaremos más de lado y porque.
+
+Véase también el documento de referencia *Elegir herramientas* y el taller 5
+*Soberanía tecnológica y alternativas (capacitación)*.
 
 - **Privacidad**: La herramienta respecta la privacidad de la gente que la
   utiliza? Quien tiene acceso a los datos manipulados por la herramienta? Que
