@@ -145,10 +145,12 @@ Plaça Catalunya. El Grup Tècnic de l'Espai de Coordinació publicó hasta juni
 2015, un boletín semanal de información agrupando las convocatorias y noticias
 relacionadas con estos movimientos.
 
-Al principio este boletín estaba redactado manualmente de manera colaborativa a
-través de pads [^pad]. Pero al pasar los años, vieron el interés a automatizar
-esta tarea. Muchos de los grupos o barrios que seguían movilizados tenían su
-propio blog y un miembro del l'Espai de Coordinació que sabía programar
+Muchos de los grupos o barrios que seguían movilizados tenían sus propios blogs
+o listas de correo par difundir sus actividades y una persona de l'Espai de
+Coordinació recopilaba manualmente toda esta información cada semana. Pero al
+pasar los años, sintieron la necesidad de automatizar esta tarea.
+
+Un miembro del l'Espai de Coordinació que sabía programar
 escribió un programa [^social-digest] para agregar automáticamente todas estas
 fuentes de información, publicarlas en la web de l'Espai de Coordinació
 [^noticies] y la web de l'Acampada BCN, enviar un email a una serie de
@@ -158,6 +160,5 @@ El programa se dejó de utilizar cuando se dejó de publicar este boletín en
 2015. Aunque el código del programa estuviera publicado, no parece haber sido
 reutilizado en otro contexto.
 
-[^pad]:           https://titanpad.com/accions12m15mBCN
 [^social-digest]: https://github.com/pepe84/social-digest
 [^noticies]:      https://web-beta.archive.org/web/20130609015254/http://espaicoordinacio.net:80/noticies-2/
