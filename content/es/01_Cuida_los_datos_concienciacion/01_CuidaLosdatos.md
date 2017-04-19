@@ -44,7 +44,7 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - Para algunos perfiles de participantes, aprender a usar herramientas y extensiones que permiten visualizar sus sombras digitales y exponer como somos rastreadas cuando navegamos por internet o usamos el teléfono móvil.
 
 ##### Actitudes
--  Entender que nuestra navegación en internet y nuestro uso de los móviles tienen consecuencias que van mas allá del tema de la vigilancia e implican también a medio y largo termino nuevas formas de discriminación y exclusión social. 
+-  Entender que nuestra navegación en internet y nuestro uso de los móviles tienen consecuencias que van más allá del tema de la vigilancia e implican también a medio y largo termino nuevas formas de discriminación y exclusión social. 
 
 ### Referencias
 - [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective)
@@ -100,7 +100,7 @@ y a todos las participantes:
 Las siguientes actividades permiten a las participantes entender los fundamentos del rastreo y negocio de datos.
 
 ##### Actividad A: "Visualizando el rastreo en nuestros navegadores" 
-Para ciudadanas que participan en procesos de participación política y/o usan de manera mas o menos activas internet para su trabajo o activismo.
+Para ciudadanas que participan en procesos de participación política y/o usan de manera más o menos activas internet para su trabajo o activismo.
 @[activity]()
 
 ##### Actividad B: "¿Cómo funciona internet?" 

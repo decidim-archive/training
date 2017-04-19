@@ -12,13 +12,13 @@ tags:
   - Calidad Democrática
   - Alternativas y soberanía tecnológica
 duration:  205
-description: Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y sobre modelos de democracia en el contexto de la ciudad de Barcelona pero también mas allá. Después se profundiza en los tipos de usos creativos que se están dando en internet y qué plataformas digitales pueden facilitar la participación ciudadana.
+description: Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y sobre modelos de democracia en el contexto de la ciudad de Barcelona pero también más allá. Después se profundiza en los tipos de usos creativos que se están dando en internet y qué plataformas digitales pueden facilitar la participación ciudadana.
 ---
 
 ## Meta información
 
 ### Descripción 
-Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y sobre modelos de democracia en el contexto de la ciudad de Barcelona pero también mas allá. Después se profundiza en los tipos de usos creativos que se están dando en internet y qué plataformas digitales pueden facilitar la participación ciudadana.
+Esta sesión introduce elementos de reflexión sobre qué es la participación política y ciudadana y sobre modelos de democracia en el contexto de la ciudad de Barcelona pero también más allá. Después se profundiza en los tipos de usos creativos que se están dando en internet y qué plataformas digitales pueden facilitar la participación ciudadana.
 
 ### Estructura
 1. Introducción (10 min)
