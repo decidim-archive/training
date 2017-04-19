@@ -101,3 +101,33 @@ uuid: 2c06216d-1383-4ec0-9048-5c5cc51cdde0
 tags:
   - material
 ---
+
+
+## Documento de referencia para móviles
+--- meta
+uuid: 2c06116x-1383-4ec0-9048-5c5cc51cdde0
+tags:
+  - material
+---
+
+## Folleto - Privacidad para llevar móvil
+--- meta
+uuid: 2c06106x-9383-4ec0-9048-5c5cc51cdde0
+tags:
+  - material
+---
+
+## Desglose del teléfono móvil en 4 capas
+--- meta
+uuid: 1qc06106x-9383-4ec0-9048-5c5cc51cdde0
+tags:
+  - material
+---
+
+
+## Cuadrícula vacía “Elegir herramientas”
+--- meta
+uuid: 1qu06106x-9183-4ec0-9048-5c5cc51cdde0
+tags:
+  - material
+---
