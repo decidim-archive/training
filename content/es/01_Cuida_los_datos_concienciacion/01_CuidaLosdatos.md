@@ -67,9 +67,9 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - @[material]()Bolígrafos
 
 ### Materiales y folletos opcionales
-- @[material]() Folleto Privacidad para llevar móvil
-- @[material]() Folleto Privacidad para llevar navegador
-- @[material]() Vídeo Corredores de datos
+- @[material]()Folleto Privacidad para llevar móvil
+- @[material]()Folleto Privacidad para llevar navegador
+- @[material]()Vídeo Corredores de datos
 - @[material]()Tarjetas - Cómo funciona Internet
 - @[material]()Tarjetas - Cómo funciona la comunicación móvil
 
