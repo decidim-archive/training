@@ -52,7 +52,7 @@ uuid:
 2. Prepárate para saber como clasificar las tecnologías favoritas desglosadas por las participantes y poder agruparlas bajo la empresa a la cual pertenecen. El sector de los servicios en Internet esta agrupado en pocas manos (oligopolios) y es necesario entender que cuando usamos servicios aparentemente diferentes si estos pertenecen a la misma empresa, esta concentración tiene consecuencias diferentes en cuanto a la capacidad de rastrear, perfilar y hacer negocio con los datos de las personas. Puedes demostrar esta situación con los siguientes dos escenarios:
  -  Cuando Facebook compra Whatsapp y plantea juntar los datos de ambos servicios, ¿que puede saber Facebook de nosotras?
  -  Cuando se juntan todos los servicios que usamos a diario de Google, ¿que puede saber Google de nosotras?
-3. Revisa cuales son los modelos de negocios de estos servicios, por ejemplo Microsoft vende software, Mac vende ordenadores y móviles, Facebook vende publicidad, etc.
+3. Revisa cuales son los modelos de negocios de estos servicios, por ejemplo Microsoft vende software, Apple vende ordenadores y móviles, Facebook vende publicidad, etc.
 
 ### Etapa 1: Mapeo de las tecnologías favoritas de las participantes (10 min)
 
