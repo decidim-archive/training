@@ -47,8 +47,8 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 -  Entender que nuestra navegación en internet y nuestro uso de los móviles tienen consecuencias que van más allá del tema de la vigilancia e implican también a medio y largo termino nuevas formas de discriminación y exclusión social. 
 
 ### Referencias
-- [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective)
-- [Vivir con algoritmos](https://myshadow.org/resources/algorithms?locale=en), (Tactical Technology Collective)
+- [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective, en inglés)
+- [Vivir con algoritmos](https://myshadow.org/resources/algorithms?locale=en), (Tactical Technology Collective, en inglés)
 - [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
 - [Manual Zen y el arte de que la tecnología trabaje para ti](http://ttc.io/zen), (Tactical Technology Collective)
 - ["Chupadados: El lado oscuro de nuestras mascotas tecnológicas"](https://chupadados.codingrights.org/es/), (Coding Rights)
