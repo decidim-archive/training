@@ -1,0 +1,25 @@
+@import '../configuration';
+
+.section{
+  padding-top: $base-padding*2.5;
+  padding-bottom: $base-padding*2.5;
+}
+
+.largesection{
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.container-fluid {
+  padding:0;
+}
+.container.fullwidth {
+  width:100% !important;
+}
+.container.fullwidth > .row{
+  margin-left:0;
+  margin-right:0;
+}
+.wrap {
+  display: flex;
+}

@@ -1,0 +1,72 @@
+
+// classes used for extensions
+.column-heading {
+  padding: $base-padding*1.5 $base-padding $base-padding*1.5 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  h3 {
+    margin: 0;
+    vertical-align: text-top;
+  }
+  span.badge {
+    padding: $base-padding/2;
+    font-size: $body-font-size;
+    margin-left: $base-padding/2;
+    border-radius: $base-padding;
+    display: inline-flex;
+    align-items: baseline;
+    .actions {
+      pointer-events: auto;
+      a {
+        border: 0;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+    }
+  }
+  .tip {
+    font-size: $font-size-small;
+    margin-left: $base-padding/5;
+    padding: 0;
+    cursor: pointer;
+  }
+  p {
+    margin-top: $base-padding/2;
+  }
+}
+
+
+.summary-block {
+  margin: $base-padding 0;
+  font-size: $font-size-small;
+  padding: $base-padding 0 0 $base-padding;
+  div {
+    margin-bottom: $base-padding;
+  }
+  ul.materials {
+    display: flex;
+    flex-flow: row wrap;
+    margin-bottom: $base-padding/2;
+    li {
+      color: $badge-color;
+      margin: 0 0 2px 4px;
+      padding: 0px 6px;
+      border-radius: 4px;
+      background-color: $badge-background-color;
+    }
+  }
+  ul.attachments {
+    padding: 0 0 0 $base-padding/2;
+    .title {
+      margin-left: -$base-padding/2;
+    }
+    li {
+      margin: 0;
+      padding: 0;
+      list-style: disc;
+    }
+  }
+}

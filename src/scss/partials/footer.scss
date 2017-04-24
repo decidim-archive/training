@@ -1,0 +1,21 @@
+@import '../configuration';
+
+.footer {
+  padding-top: $base-padding*2.5;
+  background: $footer-background;
+
+  a {
+    color: $footer-link-color;
+    text-decoration: underline;
+  }
+  color:white;
+  h4 {
+    color: $footer-font-color;
+  }
+  li {
+    list-style: none;
+    a {
+      color: $footer-link-color;
+    }
+  }
+}

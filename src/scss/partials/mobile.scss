@@ -1,0 +1,227 @@
+@import '../configuration';
+
+.logonav,.navbar-right {
+
+  display:inline-block;
+
+  li.dropdown {
+    float:left;
+  }
+}
+
+
+.intro {
+  padding: inherit;
+  padding-left: $base-padding*3;
+}
+
+// setting  sticky at top - Mobile view
+.main-content {
+  #filters, #selection {
+    position: absolute;
+    width: 75%;
+    background-color: $session-background-color;
+    z-index: 600;
+    height: 100%;
+    label.btn {
+      position: absolute;
+      min-width: $base-padding*2;
+      min-height: $base-padding*2;
+      padding: 4px 8px;
+    }
+    label.btn.close {
+      font-size: $font-size-small;
+      display: none;
+    }
+  }
+  #sessions {
+    position: relative;
+    .heading {
+      padding: $base-padding $base-padding/2 $base-padding/2 $base-padding*2;
+    }
+  }
+  #filters {
+    left: -74.5%;
+    border: $border-style $border-color;
+    label.btn {
+      top: $base-padding;
+      background-color: $filter-background-color;
+      right: -42px;
+      border-radius: 0px 5px 5px 0;
+      border: $border-style $border-color;
+      > div {
+        pointer-events: none;
+        text-shadow: none;
+      }
+    }
+    label.btn.close {
+      display: block;
+      opacity: 1;
+      top: -$base-padding/2;
+    }
+  }
+  #selection {
+    right: -74.5%;
+    border: $border-style $border-color;
+    background-color: $selection-background-color;
+    overflow: visible;
+    margin-top: 0;
+    padding-top: 0;
+    .heading {
+      label.btn {
+        left: -58px;
+        z-index: 600;
+        top: $base-padding;
+        border: $border-style $border-color;
+        background-color: $selection-background-color;
+        padding: 4px 0 0 5px;
+        pointer-events: auto;
+        * {
+          pointer-events: none;
+        }
+        .actions {
+          display: none;
+          a {
+            pointer-events: auto;
+          }
+        }
+        > div {
+          display: block;
+          font-size: 0.8em;
+          text-shadow: none;
+        }
+      }
+      label.btn.close {
+        font-size: 0.8em;
+        opacity: 1;
+        }
+    }
+  }
+
+  .scrolled {
+    #sessions {
+      position: relative;
+      left: 0;
+      .heading {
+        justify-content: center;
+        width: 100%;
+        left: 0;
+        padding: $base-padding/2 $base-padding;
+      }
+    }
+    #filters, #selection {
+      position: fixed;
+      top: 52px;
+      label.btn {
+        top: -$base-padding;
+        border: 0;
+        box-shadow: none;
+      }
+      .heading {
+        position: relative;
+        pointer-events: none;
+      }
+    }
+    #filters {
+      .filters.btn {
+        top: -50px;
+        right: -60px;
+        pointer-events: auto;
+      }
+      .filters.btn.close {
+        display: block;
+        right: -$base-padding;
+        top: -$base-padding/2;
+      }
+    }
+    #selection {
+      .selections.btn {
+        left: -79px;
+        top: -50px;
+      }
+    }
+  }
+}
+
+// Selections panel expanded
+.main-content.selections {
+  #selection {
+    right: 0;
+    max-height: 100%;
+    overflow-y: scroll;
+
+    .heading {
+      background-color: transparent;
+    }
+
+    label.btn {
+      top: 0;
+      right: 0;
+      padding: 0;
+      background: none;
+      border: 0;
+      z-index: 0;
+      left: 0;
+      position: relative;
+      min-height: 0;
+      pointer-events: none;
+      margin: 0 $base-padding 0 $base-padding/2;
+
+      .actions {
+        display: inline-block;
+       }
+      > div {
+        display: none;
+      }
+    }
+    label.btn.close {
+      pointer-events: all;
+      left: 5px;
+      top: 5px;
+      opacity: 1;
+      font-size: $font-size-small;
+      display: block;
+      > div {
+        display: block;
+      }
+    }
+  }
+  .scrolled {
+    #selection {
+      .heading {
+        padding: $base-padding/2 0 $base-padding;
+        width: 100%;
+      }
+      label.btn {
+        left: 0;
+        pointer-events: none;
+        top: 0;
+      }
+      label.btn.close {
+        pointer-events: auto;
+        top: $base-padding/2;
+        margin: 0;
+      }
+      .export {
+        pointer-events: auto;
+      }
+    }
+  }
+}
+
+// filters panel expanded
+.main-content.filters {
+  #filters {
+    left: 0;
+    max-height: 100%;
+    overflow-y: scroll;
+
+    label.btn {
+      right: 0;
+      top: 0;
+      border: 0 !important;
+      box-shadow: none;
+    }
+  }
+
+}

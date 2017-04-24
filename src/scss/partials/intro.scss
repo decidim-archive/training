@@ -1,0 +1,21 @@
+@import '../configuration';
+
+.intro {
+  @include header-background;
+  padding: $base-padding;
+  position: relative;
+  * {
+    color: $header-font-color;
+  }
+
+  p.subs {
+    font-size: $font-size-medium;
+  }
+}
+
+// Hide header if set in config file
+@if $display-header == false {
+  .intro {
+    display: none !important;
+  }
+}

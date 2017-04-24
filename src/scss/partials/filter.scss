@@ -1,0 +1,74 @@
+#filters {
+  .heading {
+    // @extend .column-heading;
+    padding: 36px $base-padding $base-padding*1.5 $base-padding/2;
+    span.badge {
+      content: " " !important;
+      background-color: transparent;
+    }
+    h3 {
+      margin: 0 0 14px 0;
+    }
+  }
+  ul.items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  h4 {
+    margin: 0 0 $base-padding $base-padding/2;
+  }
+  .filter.btn > i {
+    pointer-events: none;
+  }
+  li.filter {
+    margin: 2%;
+    width: 20%;
+    margin-bottom: $base-padding;
+  }
+  input[type=checkbox] {
+      clip: rect(0,0,0,0);
+      position: absolute;
+  }
+  .checkbox ~ label {
+    color: $body-font-color;
+    line-height: 1;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
+    span {
+      text-align: center;
+    }
+  }
+  .checkbox ~ label i.fa {
+    font-weight: normal;
+    border-radius: 12px;
+    padding: 13px 1px 0 0;
+    color: $body-font-color;
+    display: block;
+    height: 48px;
+    width: 48px;
+    font-size: $font-size-medium;
+    border: 1px solid $border-color;
+    margin-bottom: $base-padding/4;
+}
+  .checkbox ~ label:hover i.fa {
+    background-color: $checkbox-background-color;
+  }
+  .checkbox ~ label:active i.fa {;
+    background-color: $checkbox-background-color;
+  }
+  .checkbox:checked ~ label i.fa {
+    background-color: $checkbox-background-color;
+  }
+  .checked:checked ~ label:hover i.fa {
+    background-color: $checkbox-background-color;
+  }
+  .filter-label, .filter-count {
+    font-size: $font-size-small;
+  }
+}

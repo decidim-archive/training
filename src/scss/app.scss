@@ -1,0 +1,28 @@
+
+
+@import 'partials/main';
+@import 'partials/typo';
+@import 'partials/buttons';
+
+// Components
+@import 'partials/intro';
+@import 'partials/filter';
+@import 'partials/session';
+@import 'partials/selection';
+@import 'partials/affix';
+
+// Print
+@import 'partials/print';
+
+// Customise your styles by overriding the variables in this file
+@import 'configuration';
+
+// Mobile only
+@media only screen and (max-width : 992px) {
+  @import 'partials/mobile';
+}
+
+// Desktop only
+@media only screen and (min-width : 993px) {
+  @import 'partials/desktop';
+}

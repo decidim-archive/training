@@ -1,0 +1,12 @@
+{
+  "extends": "../../.eslintrc.json",
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    // Mocha can't deal with the scope rules of arrow functions.
+    "prefer-arrow-callback": 0,
+    // We don't want to name all function callbacks.
+    "func-names": 0
+  }
+}

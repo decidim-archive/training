@@ -1,0 +1,186 @@
+@import '../configuration';
+
+@media print {
+
+  @page {
+    size: 8.5in 11in;
+    margin: 2cm;
+    widows: 4;
+    orphans: 3;
+  }
+
+  body {
+    margin:0;
+  }
+
+}
+
+#print-page {
+  background-color: #FFF;
+  margin: -$base-padding*2 0 0 0;
+  padding: $base-padding*2;
+  .hidden-print {
+    margin: 0 -$base-padding*2;
+    display: flex;
+    flex-flow: row nowrap;
+    padding: $base-padding;
+    justify-content: space-between;
+    margin-bottom: $base-padding*2;
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    .title {
+      font-size: $font-size-big;
+    }
+    .home-link {
+      padding: 3px $base-padding/4;
+      margin: 0;
+      display: block;
+      border-radius: $base-padding/4;
+      font-size: $font-size-small;
+    }
+    button {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  /* visible when printing */
+  #print {
+    padding: $base-padding;
+    color: $print-font-color !important;
+    font-family: $print-font-family;
+    font-size: $body-font-size;
+    padding: 0px;
+    .collapse, .getting-started.hide, .sessions-breakdown.hide {
+      display: block !important;
+    }
+    a::after {
+      content:" (" attr(href) ") ";
+      font-weight: normal;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    h1, h2, h3, h4, h5, h6, a {
+      color: $print-font-color;
+      font-family: $print-font-family;
+    }
+    h1, h2 {
+      margin-top: $base-padding*2;
+    }
+    h3, h4, h5 {
+      margin-top: $base-padding;
+    }
+    ul, ol, li {
+      color: $print-font-family !important;
+    }
+
+    // TOC
+    .sessions {
+      margin-left: $base-padding;
+      .session {
+        margin-bottom: $base-padding;
+      }
+      .title {
+        font-size: $font-size-medium;
+        font-weight: bold;
+      }
+      i {
+        font-size: $body-font-size;
+        margin-left: $base-padding/2;
+        padding: 3;
+        border-radius: $base-padding/4;
+      }
+      span.item-type {
+        display: inline-block;
+        margin: 0px 0px 0 $base-padding/4;
+        font-size: $font-size-small;
+        font-weight: 500;
+      }
+    }
+
+    // Summary
+    .summary {
+      margin: $base-padding 0;
+      padding: $base-padding 0 $base-padding $base-padding;
+      li {
+        margin-left: $base-padding*2;
+      }
+      .count, .duration {
+        margin: 0 0 $base-padding/2 0;
+      }
+      .title {
+        font-size: 2em;
+        font-weight: normal;
+        margin: 0 0 $base-padding/2;
+      }
+      .materials {
+        padding: 0;
+      }
+      .attachments {
+        margin-top: $base-padding;
+        padding: 0;
+        .title {
+          font-size: $font-size-medium;
+        }
+      }
+    }
+
+    // session pages
+    ol.session-items > li {
+      list-style: none;
+      margin: 0 -$base-padding*2.5;
+      padding: 0;
+    }
+    .session-item {
+      page-break-before: always;
+      h2 {
+        line-height: $font-size-medium;
+      }
+      h4 {
+        margin: 0;
+      }
+      .duration {
+        font-style: italic;
+        font-size: $font-size-small;
+      }
+      .tabs, label.btn, .tags {
+        display: none;
+      }
+      p {
+        margin: 0;
+      }
+      .section {
+        padding: 0;
+      }
+      .block {
+        margin: $base-padding/2 0 $base-padding*1.5;
+        .hide {
+          display: none !important;
+        }
+        .author h5 {
+          display: inline-block;
+          margin-right: $base-padding/4;
+        }
+
+        > div {
+          margin: $base-padding/4 0 $base-padding/2;
+          > ul, ol {
+            margin-bottom: $base-padding/2;
+          }
+          ul {
+            h1, h2, h3, h4, h5, h6 {
+              font-size: 1em;
+              font-weight: normal;
+              margin: 0 !important;
+              padding: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}

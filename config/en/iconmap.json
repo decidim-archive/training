@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Mobile",
+    "icon": "fa-mobile"
+  },
+  {
+    "label": "Hands-on",
+    "icon": "fa-hand-pointer-o"
+  },
+  {
+    "label": "Secure messaging",
+    "icon": "fa-envelope-o"
+  },
+  {
+    "label": "Choosing tools",
+    "icon": "fa-wrench"
+  },
+  {
+    "label": "Browser",
+    "icon": "fa-desktop"
+  },
+  {
+    "label": "Social media",
+    "icon": "fa-user-plus"
+  },
+  {
+    "label": "Drawing exercise",
+    "icon": "fa-pencil"
+  },
+  {
+    "label": "Role-play exercise",
+    "icon": "fa-users"
+  },
+  {
+    "label": "Collecting ideas",
+    "icon": "fa-lightbulb-o"
+  },
+  {
+    "label": "Debate",
+    "icon": "fa-exchange"
+  },
+  {
+    "label": "Quiz",
+    "icon": "fa-question-circle-o"
+  },
+  {
+    "label": "Reference document",
+    "icon": "fa-file-text-o"
+  },
+  {
+    "label": "Workshop",
+    "icon": "fa-rocket"
+  },
+  {
+    "label": "Activity",
+    "icon": "fa-motorcycle"
+  }
+]
