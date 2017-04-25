@@ -22,7 +22,7 @@ export default class Filter extends React.Component {
 
   render() {
     const afils = this.props.fils;
-    const phrase = data.phrases();
+    const phrase = this.props.phrases;
 
     const typeFilters =
       (_.size(afils.items > 1)) ?

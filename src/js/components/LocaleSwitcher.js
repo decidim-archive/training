@@ -1,8 +1,5 @@
 import _ from 'lodash';
 import React from 'react';
-// import DropDownList from 'react-widgets/lib/DropDownList';
-import sessions from '../lib/session';
-import filters from '../lib/filters';
 import locales from '../lib/locales';
 import data from '../lib/data';
 
@@ -37,6 +34,7 @@ export default class LocaleSwticher extends React.Component {
           this.props.selectedLocale.code :
           defaultLocale.code}
       >
+        <option id="select language">...</option>
         {_.map(locales, (loc, idx) =>
           <option id={loc.code} key={loc.code} value={loc.code}>{loc.name}</option>
         )}

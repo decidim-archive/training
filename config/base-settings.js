@@ -9,13 +9,13 @@
 
 const locales = [
   {
-    code: 'en',
-    name: 'English',
-  },
-  {
     code: 'es',
     name: 'Español',
   },
+  // {
+  //   code: 'en',
+  //   name: 'English',
+  // },
 ];
 
 // Default language

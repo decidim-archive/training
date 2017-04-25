@@ -11,13 +11,13 @@ import {Link} from 'react-router';
 export default class Selection extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {sels: [], phrases: []};
+    this.state = {sels: []};
   }
 
   componentDidMount() {
     selections.reset();
     const selectionsP = selections.toItemsProperty();
-    selectionsP.onValue(sels => this.setState({sels, phrases: data.phrases()}));
+    selectionsP.onValue(sels => this.setState({sels}));
   }
 
   render() {
@@ -25,7 +25,7 @@ export default class Selection extends React.Component {
     const sels = this.state.sels;
     const selectionsExist = !_.isEmpty(sels);
     const summary = selections.selectionSummary(sels);
-    const phrase = this.state.phrases;
+    const phrase = data.phrases();
     const selectionClear =
       <div className="actions clear">
         <a className="deselect-all"
@@ -87,6 +87,7 @@ export default class Selection extends React.Component {
 Selection.displayName = 'Selection';
 
 Selection.propTypes = {
+  phrases: React.PropTypes.array,
   tabSelected: React.PropTypes.func,
   showTab: React.PropTypes.string,
 };

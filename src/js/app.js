@@ -22,6 +22,6 @@ ReactDOM.render(
   document.getElementById('curricula-ui')
 );
 
-// Promise.all([data.fetch(defaultLocale.code)])
-//   .then(() => session.reset(data.sessions()))
-//   .then(() => filters.set());
+Promise.all([data.fetch(defaultLocale.code)])
+  .then(() => session.reset(data.sessions()))
+  .then(() => filters.set());

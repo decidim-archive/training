@@ -35,16 +35,12 @@ export const fetch = (locale) => {
     `${dataURL}/${l}-data.json`,
     `${dataURL}/${l}-ui.json`,
   ];
-  http.get(urls)
+  return http.get(urls)
     .then(data => {
       _.each(data[0][0], (v, k) => {appData[k] = v;});
-      _.merge(appUI, { phrases: data[1][0].phrasing, icons: data[0][1].iconmap });
-    });
-  // http.get(`${dataURL}/${l}-data.json`)
-  // .tap(data => _.each(data, (v, k) => {appData[k] = v;}));
-
-  // http.get(`${dataURL}/${l}-ui.json`)
-  // .tap(data =>  _.merge(appUI, { phrases: data.phrasing, icons: data.iconmap }));
+      _.merge(appUI, { phrases: data[1][0].phrasing, icons: data[1][0].iconmap });
+    })
+    .tap(() => console.log(appUI));
 }
 
 export default {

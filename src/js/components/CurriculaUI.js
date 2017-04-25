@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import React from 'react';
 import Bacon from 'baconjs';
+import Promise from 'bluebird';
 
 import data from '../lib/data';
 import session from '../lib/session';
@@ -40,27 +41,22 @@ export default class CurriculaUI extends React.Component {
   componentDidMount() {
     window.addEventListener('scroll', this.affixer);
     this.startPos = document.getElementById('filters').style.top;
-    const showTabP = 'sessions';
-    data.fetch(data.defaultLocale().code);
-    session.reset(data.sessions());
-    filters.set();
+    const showTab = 'sessions';
+    const phrases = data.phrases();
+    const icons = data.icons();
     const sessionsP = session.toItemsProperty();
     const selectionsP = selections.toItemsProperty();
     const filtersP = filters.toItemsProperty();
     const localesP = locales.toItemsProperty();
-    const phrasesP = data.phrases();
-    const iconsP = data.icons();
     const appState = Bacon.combineTemplate({
       fils: filtersP,
-      showTab: showTabP,
       locale: localesP,
       sessions: sessionsP,
       selections: selectionsP,
-      phrases: phrasesP,
-      icons: iconsP,
     });
 
     appState.onValue(state => this.setState(state));
+    this.setState({icons, phrases, showTab});
   }
 
   componentWillUnmount() {
@@ -95,9 +91,9 @@ export default class CurriculaUI extends React.Component {
 
   changeLocale(e) {
     locales.update(e.target.value);
-    data.fetch(e.target.value);
-    session.reset(data.sessions());
-    filters.set();
+    Promise.all([data.fetch(e.target.value)])
+      .then(() => session.reset(data.sessions()))
+      .then(() => filters.set());
   }
 
   componentWillUpdate(nextProps, nextState) {
@@ -129,6 +125,7 @@ export default class CurriculaUI extends React.Component {
               icons={icons}
               tabSelected={this.tabSelected}
               superSize={superSize}
+              phrases={phrases}
               />
             <Selection
               selections={this.state.selections}

@@ -13,11 +13,6 @@ export default class Session extends React.Component {
     this.state = {sessions: this.props.sessions , phrases: data.phrases(), superSize: _.size(data.sessions())};
   }
 
-  componentDidMount() {
-    // const sessionsP = session.toItemsProperty();
-    //
-    // this.unsubscribe = sessionsP.onValue(sessions => this.setState({sessions}));
-  }
 
   componentWillReceiveProps(nextProps) {
     this.setState({state: nextProps})
@@ -37,7 +32,7 @@ export default class Session extends React.Component {
   }
   render() {
     const currs = this.props.sessions;
-    const phrase = this.state.phrases;
+    const phrase = this.props.phrases;
     const sortedSessions = _.sortBy(currs, 'title');
     const resetButton =
       <label className="tip" onClick={_.partial(fils.set)}>reset</label>;

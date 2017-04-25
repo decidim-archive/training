@@ -28,8 +28,8 @@ const filterSessions = (prev, update) => {
 };
 
 
-const setSessions = (sessions) => {
-  const curr = _.map(sessions);
+const setSessions = () => {
+  const curr = _.map(data.sessions());
   return _.each(curr, (c) => {
     _.merge(c, {selected: false});
   });
