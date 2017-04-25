@@ -27,9 +27,6 @@ export default class Session extends React.Component {
       `${_.size(this.props.sessions)} of ${this.props.superSize}`;
   }
 
-  componentWillUnmount() {
-    this.unsubscribe();
-  }
   render() {
     const currs = this.props.sessions;
     const phrase = this.props.phrases;
