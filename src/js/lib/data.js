@@ -39,8 +39,7 @@ export const fetch = (locale) => {
     .then(data => {
       _.each(data[0][0], (v, k) => {appData[k] = v;});
       _.merge(appUI, { phrases: data[1][0].phrasing, icons: data[1][0].iconmap });
-    })
-    .tap(() => console.log(appUI));
+    });
 }
 
 export default {
