@@ -16,7 +16,7 @@ new Metalsmith(__dirname)
   // TODO:10 This is not nice, I should whitelist directories, rather than
   //       blacklisting.
   .ignore(['node_modules', 'index.html', '.git', 'metalsmith.js', '.babelrc', '.eslintrc.json',
-  '_*.md', '.gitignore', 'test.json', 'lib', '**/*.pdf', 'package.json', 'README'])
+  '_*.md', '.gitignore', 'test.json', 'lib', '**/*.png', '**/*.pdf', 'package.json', 'README'])
   .source('./content')
   .destination('./public/data')
   .use(drafts())

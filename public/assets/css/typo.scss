@@ -1,4 +1,11 @@
 @font-face {
+  font-family: 'Source Sans Pro';
+  src: url('../../public/assets/fonts/source-sans-pro/SourceSansPro-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
  font-family: 'Museo Sans';
  src: url('../../public/assets/fonts/MuseoSans_500-webfont.eot');
  src: url('../../public/assets/fonts/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'), url('../../public/assets/fonts/MuseoSans_500-webfont.woff') format('woff'), url('../../public/assets/fonts/MuseoSans_500-webfont.ttf') format('truetype'), url('../../public/assets/fonts/MuseoSans_500-webfont.svg#museo_sans_500regular') format('svg');

@@ -4,7 +4,7 @@
 
 // Switch page elements on or off here ******************************
 
-$display-header: false;
+$display-header: true;
 
 // Customise GENERAL STYLES here ************************************
 
@@ -15,9 +15,11 @@ $border-color:        #333;
 
 // Customise FONTS and LINKS here **********************************
 
-$body-font:           "Museo Sans", helvetica, arial, "Sans serif";
+// $body-font:           "Museo Sans", helvetica, arial, "Sans serif";
+$body-font:           "Source Sans Pro", Helvetica, Roboto, Arial, sans-serif;
 $body-font-size:      16px;
-$body-font-color:     #262626;
+// $body-font-color:     #262626;
+$body-font-color:     #3d393c;
 $body-line-height:    20px;
 
 $font-size-smallest:  55%;
@@ -29,23 +31,36 @@ $font-size-big:       160%;
 $font-size-biggest:   500%;
 
 $link-color: #262626;
-$link-hover-color: #262626;
+// $link-hover-color: #262626;
+$link-hover-color: #EB3922;
 $link-text-decoration: none;
 $link-hover-text-decoration: underline;
 
 // Customise HEADINGS here *******************************************
 
+.logo {
+  height: 60px;
+  width: auto;
+  margin: 10px 0;
+}
+
 @mixin headerStyles {
-  color: #262626;
-  font-family: "Museo Sans", helvetica, arial, "Sans serif";
-  font-weight: 400;
+  // color: #262626;
+  color: $link-hover-color;
+  // font-family: "Museo Sans", helvetica, arial, "Sans serif";
+  font-family: "Source Sans Pro", Helvetica, Roboto, Arial, sans-serif;
+  // font-weight: 400;
 }
 
 h1 {
   @include headerStyles;
-  font-size:    $font-size-biggest;
-  font-weight:  400;
-  line-height:  70px;
+  // font-size:    $font-size-biggest;
+  // color: #FFF !important;
+  // font-size:    $font-size-medium;
+  // font-weight:  400;
+  // line-height:  70px;
+  color: #FFF !important;
+  background-image: url('../../public/assets/images/decidim-logo.png');
 }
 
 .section h1 {
@@ -71,14 +86,21 @@ h5, h6 {
 
 // Customise HEADER / TOP ROW here **********************************
 
-$header-font:             "Museo Sans", helvetica, arial, "Sans serif";
-$header-font-color:       #FFF;
+// $header-font:             "Museo Sans", helvetica, arial, "Sans serif";
+$header-font:             "Source Sans Pro", Helvetica, Roboto, Arial, sans-serif;
+// $header-font-color:       #FFF;
+ $header-font-color:      $body-font-color;
 
 @mixin header-background() {
-  background: linear-gradient(to top, rgba(100,100,100,.8), transparent);
-  background-size: cover;
-  background-position: center 91%;
-  border-bottom: 2px solid #FFF;
+  // background: linear-gradient(to top, rgba(100,100,100,.8), transparent);
+  // background-size: cover;
+  // background-position: center 91%;
+  // border-bottom: 2px solid #FFF;
+  background-color: #000;
+}
+
+.intro {
+  padding: 0;
 }
 
 // Customise FILTER / LEFT COLUMN here ********************************
@@ -89,7 +111,8 @@ $filter-background-color: #FFF;
 
 $session-background-color: #FFF;
 $session-left-border-style: 5px solid;
-$session-left-border-color: orange;
+// $session-left-border-color: orange;
+$session-left-border-color: #EF604D;
 
 // Customise SELECTION / RIGHT COLUMN here ****************************
 
@@ -134,12 +157,17 @@ $checkbox-background-color: #FFF;
 $button-background-color: #FFF;
 $button-background-hover-color: #FFF;
 $button-border-style: 1px solid;
-$button-color: green;
-$button-hover-color: orange;
-$button-warning-color: red;
-$button-warning-hover-color: orange;
+// $button-color: green;
+$button-color: #599aa6;
+// $button-hover-color: orange;
+$button-hover-color: #EF604D;
+// $button-warning-color: red;
+$button-warning-color: #EF604D;
+// $button-warning-hover-color: orange;
+$button-warning-hover-color: #EF604D;
 $filter-button-color: #000;
 $filter-button-border-color: #000;
-$filter-button-selected-hover-color: green;
+// $filter-button-selected-hover-color: green;
+$filter-button-selected-hover-color: #599aa6;
 $badge-background-color: #B0B0B0;
 $badge-color: #FFF;
