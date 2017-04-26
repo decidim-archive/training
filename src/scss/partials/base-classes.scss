@@ -28,7 +28,7 @@
     }
   }
   .tip {
-    font-size: $font-size-small;
+    font-size: $font-size-smaller;
     margin-left: $base-padding/5;
     padding: 0;
     cursor: pointer;
@@ -41,8 +41,8 @@
 
 .summary-block {
   margin: $base-padding 0;
-  font-size: $font-size-small;
-  padding: $base-padding 0 0 $base-padding;
+  font-size: $font-size-smaller;
+  padding: $base-padding/2;
   div {
     margin-bottom: $base-padding;
   }

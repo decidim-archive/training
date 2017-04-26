@@ -20,8 +20,9 @@ $body-font-size:      16px;
 $body-font-color:     #262626;
 $body-line-height:    20px;
 
-$font-size-smallest:  70%;
-$font-size-small:     80%;
+$font-size-smallest:  55%;
+$font-size-small:     60%;
+$font-size-smaller:   80%;
 $font-size-bigger:    110%;
 $font-size-medium:    130%;
 $font-size-big:       160%;
@@ -60,7 +61,7 @@ h3 {
 }
 
 h4, .heading {
-  font-size: $font-size-bigger;
+  font-size: $body-font-size;
 }
 
 h5, h6 {

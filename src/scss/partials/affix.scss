@@ -1,12 +1,15 @@
-@import '../configuration';
+@import '../../../public/assets/css/configuration';
 
 .scrolled {
   #filters, #selection, #sessions .heading {
     position: fixed;
-    padding: $base-padding/2+1 $base-padding;
+    padding: $base-padding/2 0;
     p, div.sub-title {
       display: none;
     }
+  }
+  #sessions .heading {
+    padding: $base-padding/2;
   }
   #filters {
     .heading {
@@ -22,7 +25,7 @@
     margin-top: $base-padding*2;
     z-index: 250;
     padding-top: $base-padding*2;
-    
+
     .heading {
       padding: $base-padding/2 $base-padding $base-padding/2 $base-padding*1.5;
       position: fixed;

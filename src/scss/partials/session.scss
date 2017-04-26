@@ -1,9 +1,9 @@
-@import '../configuration';
+@import '../../../public/assets/css/configuration';
 @import 'base-classes';
 
 #sessions {
 
-  padding: 0 $base-padding $base-padding*2.5 $base-padding;
+  padding: 0 0 $base-padding*2.5 0;
 
   .heading {
     @extend .column-heading;

@@ -1,7 +1,7 @@
 
 
 @import 'partials/main';
-@import 'partials/typo';
+@import '../../public/assets/css/typo';
 @import 'partials/buttons';
 
 // Components
@@ -20,6 +20,11 @@
 // Mobile only
 @media only screen and (max-width : 992px) {
   @import 'partials/mobile';
+}
+
+// Mobile only
+@media only screen and (max-width : 1200px) {
+  @import 'partials/medium';
 }
 
 // Desktop only

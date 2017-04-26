@@ -1,4 +1,4 @@
-@import '../configuration';
+@import '../../../public/assets/css/configuration';
 
 .logonav,.navbar-right {
 
@@ -32,6 +32,9 @@
     label.btn.close {
       font-size: $font-size-small;
       display: none;
+    }
+    .filter-label {
+      font-size: $font-size-smallest;
     }
   }
   #sessions {
