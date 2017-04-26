@@ -1,0 +1,144 @@
+
+
+// Customise yours styles by overriding the variables in this file
+
+// Switch page elements on or off here ******************************
+
+$display-header: false;
+
+// Customise GENERAL STYLES here ************************************
+
+$body-background:     #f8f8f8;
+$base-padding:        20px;
+$border-style:        1px solid;
+$border-color:        #333;
+
+// Customise FONTS and LINKS here **********************************
+
+$body-font:           "Museo Sans", helvetica, arial, "Sans serif";
+$body-font-size:      16px;
+$body-font-color:     #262626;
+$body-line-height:    20px;
+
+$font-size-smallest:  70%;
+$font-size-small:     80%;
+$font-size-bigger:    110%;
+$font-size-medium:    130%;
+$font-size-big:       160%;
+$font-size-biggest:   500%;
+
+$link-color: #262626;
+$link-hover-color: #262626;
+$link-text-decoration: none;
+$link-hover-text-decoration: underline;
+
+// Customise HEADINGS here *******************************************
+
+@mixin headerStyles {
+  color: #262626;
+  font-family: "Museo Sans", helvetica, arial, "Sans serif";
+  font-weight: 400;
+}
+
+h1 {
+  @include headerStyles;
+  font-size:    $font-size-biggest;
+  font-weight:  400;
+  line-height:  70px;
+}
+
+.section h1 {
+    color: #FFF;
+}
+
+h2 {
+  font-size: $font-size-big;
+}
+
+h3 {
+  font-size: $font-size-medium;
+}
+
+h4, .heading {
+  font-size: $font-size-bigger;
+}
+
+h5, h6 {
+  font-size: $body-font-size;
+  font-weight: bold;
+}
+
+// Customise HEADER / TOP ROW here **********************************
+
+$header-font:             "Museo Sans", helvetica, arial, "Sans serif";
+$header-font-color:       #FFF;
+
+@mixin header-background() {
+  background: linear-gradient(to top, rgba(100,100,100,.8), transparent);
+  background-size: cover;
+  background-position: center 91%;
+  border-bottom: 2px solid #FFF;
+}
+
+// Customise FILTER / LEFT COLUMN here ********************************
+
+$filter-background-color: #FFF;
+
+// Customise SESSION / MIDDLE COLUMN here *****************************
+
+$session-background-color: #FFF;
+$session-left-border-style: 5px solid;
+$session-left-border-color: orange;
+
+// Customise SELECTION / RIGHT COLUMN here ****************************
+
+$selection-background-color: #FFF;
+
+// Customise FOOTER / LOWER ROW here **********************************
+
+$footer-background: #D8D8D8;
+$footer-link-color: #FFF;
+$footer-font-color: #FFF;
+
+// Customise PRINT view here *****************************************
+
+$print-font-color:  #000;
+$print-font-family: Arial, "Times New Roman";
+
+#print {
+  h1 {
+    font-size: 150%;
+  }
+  h2 {
+    font-size: 140%;
+  }
+  h3 {
+    font-size: 130%;
+  }
+  h4 {
+    font-size: 120%;
+  }
+  h5 {
+    font-size: 110%;
+  }
+  h6 {
+    font-weight: 100%;
+    font-weight: bold;
+  }
+}
+
+// Customise BUTTONS and CHECKBOXES here **************************************************
+
+$checkbox-background-color: #FFF;
+$button-background-color: #FFF;
+$button-background-hover-color: #FFF;
+$button-border-style: 1px solid;
+$button-color: green;
+$button-hover-color: orange;
+$button-warning-color: red;
+$button-warning-hover-color: orange;
+$filter-button-color: #000;
+$filter-button-border-color: #000;
+$filter-button-selected-hover-color: green;
+$badge-background-color: #B0B0B0;
+$badge-color: #FFF;
