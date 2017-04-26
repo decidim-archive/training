@@ -19,7 +19,7 @@
     "build-ui": "touch public/index.html && node scripts/build.js",
     "clean-data": "$npm_package_cleanData",
     "clean-site": "$npm_package_cleanSite",
-    "clean-all": "$npm_package_cleanData && $npm_package_cleanSite",
+    "clean": "$npm_package_cleanData && $npm_package_cleanSite",
     "test": "node scripts/test.js --env=jsdom"
   },
   "dependencies": {
