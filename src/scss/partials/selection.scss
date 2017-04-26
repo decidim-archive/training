@@ -22,7 +22,7 @@
   }
   .heading {
     @extend .column-heading;
-    padding: $base-padding*1.5 $base-padding;
+    padding: $base-padding;
 
 
     .selections.btn {

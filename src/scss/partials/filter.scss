@@ -1,7 +1,7 @@
 #filters {
   .heading {
     // @extend .column-heading;
-    padding: 36px $base-padding $base-padding*1.5 $base-padding/2;
+    padding: $base-padding $base-padding $base-padding $base-padding/2;
     span.badge {
       content: " " !important;
       background-color: transparent;
