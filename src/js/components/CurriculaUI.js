@@ -8,6 +8,7 @@ import session from '../lib/session';
 import filters from '../lib/filters';
 import selections from '../lib/selection';
 import locales from '../lib/locales';
+import { defaultLocale } from '../../../config/base-settings';
 
 import LocaleSwitcher from './LocaleSwitcher';
 import Selection from './Selection';
@@ -38,6 +39,13 @@ export default class CurriculaUI extends React.Component {
     this.changeLocale = this.changeLocale.bind(this);
   }
 
+  onBackButtonEvent(e) {
+    e.preventDefault();
+    Promise.all([data.fetch(defaultLocale.code)])
+      .then(() => session.reset(data.sessions()))
+      .then(() => filters.set());
+  }
+
   componentDidMount() {
     window.addEventListener('scroll', this.affixer);
     this.startPos = document.getElementById('filters').style.top;
@@ -57,6 +65,7 @@ export default class CurriculaUI extends React.Component {
 
     appState.onValue(state => this.setState(state));
     this.setState({icons, phrases, showTab});
+    window.onpopstate = this.onBackButtonEvent;
   }
 
   componentWillUnmount() {
