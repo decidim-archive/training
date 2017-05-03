@@ -1,5 +1,6 @@
 @import '../../../public/assets/css/configuration';
 
+
 .intro {
   @include header-background;
   padding: $base-padding;
@@ -17,5 +18,17 @@
 @if $display-header == false {
   .intro {
     display: none !important;
+  }
+
+  #language-switcher {
+    margin: $base-padding/2 $base-padding/2 0 $base-padding/2;
+  }
+}
+
+@if $display-header == true {
+  #language-switcher {
+    position: absolute;
+    top: $base-padding/2;
+    right: $base-padding/2;
   }
 }

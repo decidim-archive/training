@@ -116,12 +116,14 @@ export default class CurriculaUI extends React.Component {
       <div className="container-fluid">
         <div className={`main-content ${this.state.showTab}`}>
           <IntroSection phrases={phrases} />
-          <div id="wrap" className="wrap" ref={(ref) => { this.affixWrapper = ref; } }>
+          <div id="language-switcher">
             <LocaleSwitcher
               locales={this.state.locales}
               selectedLocale={this.state.locale}
               changeLocale={(e) => this.changeLocale(e)}
             />
+          </div>
+          <div id="wrap" className="wrap" ref={(ref) => { this.affixWrapper = ref; } }>
             <Filter
               icons={icons}
               phrases={phrases}

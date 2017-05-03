@@ -13,6 +13,10 @@
 .intro {
   padding: inherit;
   padding-left: $base-padding*3;
+
+  h1, h2 {
+    margin: $base-padding/2;
+  }
 }
 
 // setting  sticky at top - Mobile view
