@@ -19,7 +19,7 @@ This guide will walk you through the installation, customisation.
 
 
 ## About
-CurryCooler consists of 2 components.
+Session UI consists of 2 components.
 
 1. **The Data** - A collection of markdown files that consist of Workshops, Activities and Materials.
 2. **The UI** - A web-based front end for users to browse, select and export units from **the data**

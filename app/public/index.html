@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>Session UI</title>
+    <meta content="Session UI" property="og:title">
+    <meta content="Compile your session documents for printing" name="description">
+
+    <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/css/font-awesome.min.css">
+    {{#css}}
+      <link href="{{{.}}}" rel="stylesheet">
+    {{/css}}
+  </head>
+  <body>
+    <div id="curricula-ui"></div>
+    {{#js}}
+      <script src="{{{.}}}"></script>
+    {{/js}}
+  </body>
+</html>
