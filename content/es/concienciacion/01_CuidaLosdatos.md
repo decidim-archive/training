@@ -82,7 +82,7 @@ Las etapas 1 y 2 varían según el tipo de grupo a quien se orienta la formació
 Las etapas 4, 5 y 6  presentan “meta-conceptos” que permiten reflexionar acerca de lo que son los datos y qué se puede hacer para cuidar los datos y mejorar  nuestros niveles de privacidad y seguridad.
 
 
-### Preparación
+#### Preparación
 
 1. Revisa los materiales listados en referencias.
 2. Prepárate para manejar definiciones relativas a la sombra digital, el big data y sus cinco V (volumen, velocidad, variedad, veracidad, valor), las burbujas de filtro y los algoritmos.
@@ -116,7 +116,7 @@ Para personas que participan en procesos de participación política y/o usan de
 
 ##### Actividad B: "¿Cómo funciona internet?" (45 min)
 Para personas jubiladas y/o que usan desde hace poco internet y no entienden cómo funciona la infraestructura.
-@[activity]()
+@[activity](7effca32-568a-49fb-ab2f-7e835662fc96)
 
 Para introducir la siguiente actividad recomendamos mostrar algunos elementos visuales de la infraestructura de internet como por ejemplo un mapa del backbone de internet (http://submarine-cable-map-2016.telegeography.com/) y una granja de servidores (https://www.youtube.com/watch?v=7kjSH67BIX8) .
 
