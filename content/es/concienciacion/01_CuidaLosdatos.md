@@ -4,7 +4,7 @@ title:  Cuida los datos
 uuid: 28506aff-51ff-4186-893c-3c70b152523d
 lan: sp
 source: Tactical Tech
-category:  concienciación
+category: concienciación
 tags:
   - Discusión
   - Selección de herramientas
