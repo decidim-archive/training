@@ -33,7 +33,8 @@ Session UI consists of 2 components.
 
 
 ## Installation
-- Clone this repository. `git clone https://github.com/decidim/training.git`
+- Install [Nodejs](https://nodejs.org/en/)
+- clone this repository. `git clone https://github.com/decidim/training.git`
 - navigate to the cloned repository. `cd training`
 - run `npm install`
 - after installing and until we have fixed this you have to go app/node_modules/session-ui-npm/config/config.js and set the language settings to this in case you only have Spanish:
