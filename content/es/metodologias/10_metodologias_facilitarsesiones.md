@@ -1,7 +1,7 @@
 # Title
 --- meta
 title: Organizar una formación
-uuid:
+uuid: ecb1aa03-e3e5-4281-9096-e3fe5cab21f3
 locale: es
 source: Tactical Tech
 category:metodologías
@@ -17,9 +17,12 @@ descripción:Esta sesión describe elementos claves a tener en cuenta cuando se 
 ## Meta información
 
 ### Descripción
+
 Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
 
+
 #### Contenidos
+
 1. Organizar una formación
 - Elegir un lugar
 - Logística
@@ -30,10 +33,11 @@ Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla un
 - Calendario y Horarios
 - Diseño de sesiones individuales
 
-   3. Desarrollo de la formación
-	   - Inicios
-        - Finales
-        - Elementos generales a tener en cuenta para la facilitación 
+3. Desarrollo de la formación
+- Inicios
+- Finales
+- Elementos generales a tener en cuenta para la facilitación
+
 
 ### Organizar una formación
 
@@ -42,7 +46,7 @@ Al organizar una formación, pregúntate primero cual será su formato. Este dep
 
 1. Taller corto de pocas horas
 2. Una formación mas larga de un, dos o tres días
-2. Uno a uno 
+2. Uno a uno
 4. Grupos de debate
 5. "Hacklab" informal
 
@@ -50,28 +54,30 @@ Piensa también a medio y largo plazo: ¿Existe la posibilidad de desarrollar al
 
 Mapea los parámetros básicos:
 - Duración: ¿De cuánto tiempo dispones? ¿Que es lo que puede resultar  realista?
-- Número de participantes y número de facilitadoras (idealmente se debería contar con una facilitadora por cada 8 participantes pudiendo ser ampliado a 1:15 para talleres cortos (una, dos o tres horas). En general, siempre es mejor contar con un mínimo de dos personas facilitadoras. 
+- Número de participantes y número de facilitadoras (idealmente se debería contar con una facilitadora por cada 8 participantes pudiendo ser ampliado a 1:15 para talleres cortos (una, dos o tres horas). En general, siempre es mejor contar con un mínimo de dos personas facilitadoras.
 - Perfil de participantes: ¿se trata de un grupo específico? (Edad, perfil socio-económico, género, intereses y motivaciones, vecinos de un barrio etc.)
 - Espacio donde se dará la formación: ¿Con qué recursos materiales se cuenta (internet, alargo, enchufes, retroproyector, pizarra, etc)?
 - Necesidades formativas: ¿Cuáles son las necesidades de las participantes? Puedes leer más acerca de como diseñar una evaluación de estas necesidades más adelante en este documento.
 
+
 #### Elegir un lugar
 ¿Qué necesita un espacio para facilitar un buen aprendizaje?
-- Cierta informalidad 
+- Cierta informalidad
 - Ser lo suficientemente grande y contar con suficientes sillas
 - Estar bien iluminado y aireado
 - Contar con suficiente espacio en la pared para desarrollar las actividades
 - Contar con suficientes enchufes y/o alargos
 - Contar con suficiente espacio para actividades en grupos pero también para poder tener grupos trabajando de manera separada
-- No ser un espacio ruidoso y estar un poco aislado (que no estén pasando personas ajenas a las formación por ejemplo) 
+- No ser un espacio ruidoso y estar un poco aislado (que no estén pasando personas ajenas a las formación por ejemplo)
 - Si ese espacio también acoge otros grupos, puede ser bueno comprobar qué grupos están usando el edificio o espacio al mismo tiempo.
+
 
 #### Logística
 ###### Materiales
 ¿Qué materiales necesitas? ¿Quién los proporcionará? No olvides incluir las necesidades materiales de las facilitadores en tu planificación (por ejemplo, necesitan una impresora, ¿tiene suficiente tinta?). Si vas a necesitar conexión a Internet, comprueba la fiabilidad de esta conexión de antemano y piensa en descargar el software recomendando en varias llaves USB o tarjetas SD para que las participantes puedan instalarlo si no hay una conexión de bastante calidad para todas.
 - Como mínimo necesitarás:
  - Lapices suficientes (al menos una por persona)
- - Papel 
+ - Papel
 - Puede que también necesitarás:
  - Marcadores
  - Rota-folios / pizarra blanca
@@ -81,20 +87,24 @@ Mapea los parámetros básicos:
  - Altavoces y cables de conexión
  - Cinta adhesiva (para pegar papel en las paredes o para fijar alargos en el suelo)
 
+
 ###### Comida
 La comida es importante, pero a menudo la pasamos por alto. No obstante es una parte fundamental para crear un espacio de formación en el cual las participantes se sientan relajadas y cómodas.
   - Trata de tener en cuenta las dietas especificas y las alergias de las participantes
-  - Es importante que las comidas se sirvan a la hora ya que cualquier retraso puede afectar tu programa de formación 
+  - Es importante que las comidas se sirvan a la hora ya que cualquier retraso puede afectar tu programa de formación
 - Asegúrate que la comida no sea demasiado pesada (pero también de que haya suficiente!)
- - Siempre ten a disposición: café, tes, agua. 
+ - Siempre ten a disposición: café, tes, agua.
  - Otras indispensables: variedades de nueces, barritas de cereales, fruta fresca.
  - Si la formación dura un día o más, idealmente se debería contar con frutas, zumos, galletas para las personas que se perdieron el desayuno.
+
 
 ###### Básicos
 No olvides de prestar atención a lo básico! Asegúrate de que hay suficiente papel higiénico, jabón, tampones, agua corriente, etc.
 
+
 ### Planificando tu programa de formación
 Antes de diseñar tu formación, averigua si puedes, cuáles son las necesidades de las participantes que la atenderán. Resulta útil contemplar una evaluación que tenga en cuenta tanto las necesidades de aprendizaje asi como los aspectos prácticos y logísticos.
+
 
 #### Evaluación de las necesidades de formación
 La evaluación de estas necesidades debe centrarse en lo que las participantes ya saben o ya pueden hacer, y cuáles son sus carencias y necesidades respecto a nuevos conocimientos o habilidades.
@@ -104,26 +114,29 @@ La evaluación de estas necesidades será diferente dependiendo del enfoque de l
 - los conceptos y terminologías asociadas con  ordenadores y teléfonos móviles.
 - diagnostico y evaluación de los riesgos a los cuales se exponen.
 
+
 #### Evaluación de necesidades prácticas
 Una evaluación de las necesidades práctica se puede usar para determinar elementos como:  ¿De cuánto tiempo de preparación disponen las participantes antes de que empiece la formación? ; ¿ Cuánto tiempo podrían necesitar durante la formación para atender temas externos?; ¿Cuál es su estilo general de aprendizaje (visual, auditivo, kinetico)?
 
 Las preguntas pueden incluir elementos como:
 - ¿Dispones de tiempo para leer los siguientes documentos antes de la formación? Si no, ¿de cuanto tiempo dispones para prepararte?
-- ¿Podrás dedicarte solamente a la formación o deberás atender  peticiones externas durante la formación? 
+- ¿Podrás dedicarte solamente a la formación o deberás atender  peticiones externas durante la formación?
 - ¿Tiendes a aprender mejor a través de la lectura, la escucha o haciendo cosas?
 
 Las respuestas a estas evaluaciones deben informar tu diseño de la  formación, y también deben ayudar en el desarrollo de la documentación previa a la formación. Si las participantes disponen de tiempo siempre resulta útil hacerles llegar documentos que puedan leer. Estos pueden incluir:
 - El programa de formación
-- Lecturas sobre temas tratados durante la formación 
+- Lecturas sobre temas tratados durante la formación
 - Normas que se aplicarán durante la formación (escucha activa, comunicación no violenta, respecto hacia opiniones diferentes etc.)
 
 También recuerda tener en cuenta los perfiles generales de las participantes: idioma, edad, genero, movilidad etc.
 
+
 ### Programa y horarios
 Para formaciones que duran medio día o más:
 - La hora de inicio debe plantearse 30 minutos antes de que la formación empiece realmente. Esto da tiempo a la gente de charlar, tomar un café, aclimatarse al espacio y al trabajo que va a suceder, y permite a las personas llegando tarde poder acomodarse a tiempo.
-- Las formaciones son participativas y colaborativas, esto requiere bastante esfuerzo y concentración. Trata de no exceder el tiempo de aprendizaje más allá de 6 horas por día, ya que más allá la capacidad de apropiarse nuevos conocimientos tiende a disminuir. Lo ideal sería hacer una pausa de dos horas para la comida para que las participantes tengan la oportunidad de atender otros temas, darse un paseo o desconectar durante un rato antes de retomar la formación. 
+- Las formaciones son participativas y colaborativas, esto requiere bastante esfuerzo y concentración. Trata de no exceder el tiempo de aprendizaje más allá de 6 horas por día, ya que más allá la capacidad de apropiarse nuevos conocimientos tiende a disminuir. Lo ideal sería hacer una pausa de dos horas para la comida para que las participantes tengan la oportunidad de atender otros temas, darse un paseo o desconectar durante un rato antes de retomar la formación.
 - Cuando se trata de armar contenidos, elije la intensidad sobre el volumen!
+
 
 ##### Ejemplo de horario:
 9:30 Inicio
@@ -134,16 +147,19 @@ Para formaciones que duran medio día o más:
 
 15: 00-18: 00 Trabajo (con al menos una pausa para el té de 15 - 20 minutos en el medio). Esto da tiempo para dos sesiones mas de 1h15.
 
-Los horarios pueden ser negociados con las participantes, pero ten cuidado de no forzar el "consenso" sobre temas como los descansos ya que la gente suele cortarse a la hora de pedir mas tiempo para descansar. 
+Los horarios pueden ser negociados con las participantes, pero ten cuidado de no forzar el "consenso" sobre temas como los descansos ya que la gente suele cortarse a la hora de pedir mas tiempo para descansar.
+
 
 #### Diseño de sesiones individuales
 Cuando estés diseñando sesiones individuales, asegúrate de que cada sesión esté diseñada para corresponder realmente al tiempo que le has asignado, teniendo en cuenta los tiempos de presentación y las preguntas al final. Es importante comenzar y terminar a tiempo y respetar los descansos programados.
 
-##### ADIDS 
-La metodología ADIDS proporciona un marco ideal para estructurar una sesión de aprendizaje orientada hacia adultos y suele dividir las sesiones de aprendizaje en cinco momentos diferenciados (Actividad / Discusión / Input / Profundización / Síntesis) que deben tener coherencia entre ellos. 
+
+##### ADIDS
+La metodología ADIDS proporciona un marco ideal para estructurar una sesión de aprendizaje orientada hacia adultos y suele dividir las sesiones de aprendizaje en cinco momentos diferenciados (Actividad / Discusión / Input / Profundización / Síntesis) que deben tener coherencia entre ellos.
 
 El proyecto Level-Up proporciona una explicación detallada sobre cómo utilizar ADIDS en la planificación de una sesión, por ahora solo esta disponible en ingles:
 https://level-up.cc/before-an-event/preparing-sessions-using-adids/#preparing-sessions-with-adids
+
 
 ### Desarrollo de la formación
 #### Inicios
@@ -159,11 +175,11 @@ El inicio de una formación es realmente importante, ya que es cuando se estable
 - El espacio donde estamos
 - No se toleran actitudes racistas, sexistas, homofobas, ableistas, etc
 - Diferencias de opiniones, conocimientos e identidades
-- Gentileza en dar/recibir criticas 
-- No asumir acerca de las otras personas 
-- La puntualidad y un uso consciente del tiempo 
+- Gentileza en dar/recibir criticas
+- No asumir acerca de las otras personas
+- La puntualidad y un uso consciente del tiempo
 - Poner los móviles en silencio + desconectar el wifi del móvil
-- No usar los ordenadores o móviles si no se esta desarrollando una sesión centrada en herramientas 
+- No usar los ordenadores o móviles si no se esta desarrollando una sesión centrada en herramientas
 
 #### Comunicación y participación
 - Escucha activa y no violenta
@@ -177,7 +193,7 @@ El inicio de una formación es realmente importante, ya que es cuando se estable
 
 #### Confidencialidad y privacidad
 - El grupo tiene que decidir si esta cómodo con que las participantes tomen fotografías del espacio o publiquen en medios sociales acerca de la formación. En cualquier caso esas actividades no deberán llevarse a cabo mientras transcurra la formación.
-- Preguntar si se quieren aplicar las reglas de la casa de Chatham durante la formación. Estas reglas permiten a las participantes contar las historias compartidas fuera del espacio de la formación pero sin decir quien las contó y/o que organizaciones estuvieron presentes. 
+- Preguntar si se quieren aplicar las reglas de la casa de Chatham durante la formación. Estas reglas permiten a las participantes contar las historias compartidas fuera del espacio de la formación pero sin decir quien las contó y/o que organizaciones estuvieron presentes.
 
 #### Cierres
 - Preguntas: Da tiempo para preguntas y para aclarar todo lo que no quedo claro.
@@ -188,7 +204,7 @@ El inicio de una formación es realmente importante, ya que es cuando se estable
 #### Evaluación
 Las evaluaciones son una parte importante de cualquier formación, ya que pueden ayudarte a ver lo que funciona y lo que necesita cambiar. Asegúrate de reservar unos minutos para estas evaluaciones, sea  al final de cada sesión o, para una formación más larga, al final de cada día. Las evaluaciones se pueden hacer de varias maneras. Dos opciones sencillas son:
 
--  Plus/Delta: Para cada sesión realizada, pega un pedazo de papel con dos columnas: ¿Plus: qué te gustó? Y ¿Delta: qué podría ser mejorado?. Los comentarios de las participantes pueden ser escritos en notas adhesivas y pegados en la columna correspondiente. Asegúrate de dejar espacio a las participantes para que puedan dejar sus notas con privacidad. 
+-  Plus/Delta: Para cada sesión realizada, pega un pedazo de papel con dos columnas: ¿Plus: qué te gustó? Y ¿Delta: qué podría ser mejorado?. Los comentarios de las participantes pueden ser escritos en notas adhesivas y pegados en la columna correspondiente. Asegúrate de dejar espacio a las participantes para que puedan dejar sus notas con privacidad.
 -  Formulario de evaluación: Prepara previamente un formulario básico de evaluación e imprime una copia para cada participante. Las preguntas pueden incluir cosas como:
 ¿Qué funcionó?
 ¿Qué podría hacerse de manera diferente la próxima vez?
@@ -197,7 +213,7 @@ Las evaluaciones son una parte importante de cualquier formación, ya que pueden
 
 - Seguimiento: Si es posible, propón un canal de comunicación y un tiempo durante el cual te puedes hacer disponible para responder a preguntas una vez haya finalizado la formación.
 
-#### Elementos generales a tomar en cuenta para la facilitación 
+#### Elementos generales a tomar en cuenta para la facilitación
 - Respecta las propias palabras de las participantes. Evita escuchar a alguien y luego responder con "Creo que lo que quieres decir es ..." o "Voy a resumir lo que has dicho como ..." e imponer tu propia interpretación. (aunque, por supuesto, la reformulación puede ser útil si sólo la estás utilizando para comprobar tu propia comprensión!)
 
 - Fomenta la participación
