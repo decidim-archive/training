@@ -101,3 +101,24 @@ uuid: 2c06216d-1383-4ec0-9048-5c5cc51cdde0
 tags:
   - material
 ---
+
+## Tijeras
+--- meta
+uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
+tags:
+  - materials
+---
+
+## Pegamento
+--- meta
+uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
+tags:
+  - materials
+---
+
+## Periódicos y revistas recicladas
+--- meta
+uuid: b0810a5c-e587-43be-8cb0-174ba3006356
+tags:
+  - materials
+---
