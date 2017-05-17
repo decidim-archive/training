@@ -37,25 +37,7 @@ Session UI consists of 2 components.
 - clone this repository. `git clone https://github.com/decidim/training.git`
 - navigate to the cloned repository. `cd training`
 - run `npm install`
-- after installing and until we have fixed this you have to go app/node_modules/session-ui-npm/config/config.js and set the language settings to this in case you only have Spanish:
-`// List available languages
-const locales = [
-  {
-    code: 'es',
-    name: 'Español',
-  },/*,
-  {
-    code: 'en',
-    name: 'English',
-  },*/
-];
-
-// Default language
-const defaultLocale = {
-  code: 'es',
-  name: 'Español',
-};`
-
+- go to `conf/conf.js` and set the languages
 
 ## Build the project
 - `npm run build` will build the data and ui to the `_site/` folder which can be copied to a webserver or served locally

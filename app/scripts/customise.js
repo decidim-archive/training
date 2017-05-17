@@ -10,6 +10,9 @@ const childProcess = require('child_process');
 
 /** Configuration ***/
 
+const pathToConfSrc = '../config';
+const pathToConfDest = 'config/config.js';
+const confFile = 'config.js';
 const pathToCustomFiles = '../customisations';
 const pathToSrcAssets = '../assets/';
 const pathToDestAssets = 'public/assets/';
@@ -21,7 +24,8 @@ const moduleScss = 'src/scss/';
 
 /********************/
 
-let needsRebuilt = false;
+const configFileSrc = buildPath(pathToConfSrc, confFile);
+const configFileDest = buildPath(pathToModule, pathToConfDest);
 const destAssets = buildPath(pathToModule, pathToDestAssets);
 const pathToModuleScss = buildPath(pathToModule, moduleScss);
 const moduleBuildScript = buildPath(pathToModule, buildScript);
@@ -30,26 +34,26 @@ const configurationScssFileDest = buildPath(pathToModuleScss, configScss);
 const typoScssFileSrc = buildPath(pathToCustomFiles, typoScss);
 const typoScssFileDest = buildPath(pathToModuleScss, typoScss);
 
+// Copying config
+console.log('Copying configuration files into Session UI NPM module...');
+copyFiles(configFileSrc, configFileDest);
 
 // Copying styles
 if (fs.existsSync(pathToCustomFiles)) {
     console.log('Copying custom styles into Session UI NPM module...');
     copyFiles(configurationScssFileSrc, configurationScssFileDest);
     copyFiles(typoScssFileSrc, typoScssFileDest);
-    needsRebuilt = true;
 }
 
 // Copying assets
 if (fs.existsSync(pathToSrcAssets)) {
   console.log('Copying assets into Session UI NPM module...');
   copyFiles(pathToSrcAssets, destAssets);
-  needsRebuilt = true;
 }
 
 // Rebuilding module
-if (needsRebuilt) {
-  rebuildModule();
-}
+rebuildModule();
+
 
 
 
