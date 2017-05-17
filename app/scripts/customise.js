@@ -11,8 +11,8 @@ const childProcess = require('child_process');
 /** Configuration ***/
 
 const pathToCustomFiles = '../customisations';
-const pathToSrcAssets = '../assets';
-const pathToDestAssets = 'public/assets/images/';
+const pathToSrcAssets = '../assets/';
+const pathToDestAssets = 'public/assets/';
 const pathToModule = './node_modules/session-ui-npm';
 const buildScript = 'scripts/build.js';
 const configScss = 'configuration.scss';

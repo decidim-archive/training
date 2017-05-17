@@ -6,7 +6,7 @@ import fs from 'fs';
 import {toHtml, subSections, cutHeading, sectionTitle,
         metaSection, transform} from 'transmark';
 
-import settings from '../../content/base-settings';
+import settings from '../../config/base-settings';
 
 const compactObj = obj =>
   _.reduce((memo, [key, value]) =>

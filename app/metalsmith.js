@@ -22,9 +22,9 @@ new Metalsmith(__dirname)
   .use(drafts())
   .use(paths())
   .use(collections({
-    activities: '**/*/Activities/*.md',
+    activities: '**/*/capacitaction/*.md',
     materials: '**/*/Materials.md',
-    curriculas: '**/*/Workshops/*.md',
+    curriculas: '**/*/concienciacion/*.md',
   }))
   .use(parse({extensions: [markdownMetaMarker('material'),
                            markdownMetaMarker('activity')],
