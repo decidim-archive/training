@@ -129,3 +129,10 @@ uuid: f354da89-49e4-497a-83f0-a941b087bfff
 tags:
   - materials
 ---
+
+## Ordenadores para las participantes
+--- meta
+uuid: f3101c53-49e1-45dd-b804-002c922c7e01
+tags:
+  - materials
+---
