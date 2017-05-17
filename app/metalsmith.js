@@ -22,7 +22,7 @@ new Metalsmith(__dirname)
   .use(drafts())
   .use(paths())
   .use(collections({
-    activities: '**/*/capacitaction/*.md',
+    activities: '**/*/capacitacion/*.md',
     materials: '**/*/Materials.md',
     curriculas: '**/*/concienciacion/*.md',
   }))
