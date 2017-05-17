@@ -36,8 +36,25 @@ Session UI consists of 2 components.
 - Clone this repository. `git clone https://github.com/decidim/training.git`
 - navigate to the cloned repository. `cd training`
 - run `npm install`
+- after installing and until we have fixed this you have to go app/node_modules/session-ui-npm/config/config.js and set the language settings to this in case you only have Spanish:
+`// List available languages
+const locales = [
+  {
+    code: 'es',
+    name: 'Español',
+  },/*,
+  {
+    code: 'en',
+    name: 'English',
+  },*/
+];
 
-This will install all the dependencies that you need to **build** the project locally.
+// Default language
+const defaultLocale = {
+  code: 'es',
+  name: 'Español',
+};`
+
 
 ## Build the project
 - `npm run build` will build the data and ui to the `_site/` folder which can be copied to a webserver or served locally
@@ -66,6 +83,15 @@ content
 - The contents of each language should be in a sub-directory of the `content` directory.
 - `Activities` and `Workshops` are organised in sub-directories within each language directory. To be compiled correctly, they have to strictly conform to the [template](https://github.com/decidim/training/blob/master/content/es/Template) provided.
 - Materials are listing in a single file, one such file for each language.
+
+Note that you can rename the Activities and Workshops folders if you change the app/metalsmith settings accordingly:
+
+`  .use(collections({
+    activities: '**/*/your-folder-name-here/*.md',
+    materials: '**/*/Materials.md',
+    curriculas: '**/*/your-other-folder-name-here/*.md',
+  }))
+`
 
 ## Managing languages
 ### The Data
@@ -99,23 +125,23 @@ const defaultLocale = {
   - name: ISO 630 Native name. This is the label displayed in the language switcher widget.
 
 ## Customising the UI
-All UI strings can be translated. for each of the available languages please make sure a corresponding set of UI language customisations exist. These are organised in the `config` directory with a sub-directory for each language, each containing 2 files.
+All UI strings can be translated. for each of the available languages please make sure a corresponding set of UI language customisations exist. These are organised in the `content` directory with a sub-directory for each language, each containing 2 files.
 - `phrasing.json` - These are the section titles, sub-titles, button and link labels of the UI.
 - `iconmap.json` - This contains a list of all tags used in the content, each mapped to an icon name from the [font-awesome](http://fontawesome.io/icons/) icon library. These icons are used as icons for the filters in the UI.
   - The labels are case sensitive and should match exactly the tags being used.
   - The icon eg. `fa-cogs` should match the icon class names as specified by font-awesome.
 
 ## Customising the base html, fonts and styles.
+
 ### HTML
-- The base html template is in `public/index.html` file.
+- The base html template is in `app/public/index.html` file.
 - Please ensure that a `<div id="curricula-ui"></div>` element exists.
 - You can edit metadata, title, add external styles and js in here.
 
 ### Fonts
-- Custom fonts for the UI can be added to the `public/assets/fonts`
-- Please include fonts in `.eot, .svg, .woff, .woff2, .otf, .ttf` formats
-- add a `@font-face` declaration for each font in `public/assets/css/typo.scss` (use one of the existing declarations as an example)
+- Custom fonts for the UI can be added to the `customisations` folder and then added to `typo.scss` file.
 
 ### styles
-- In `public/assets/css/configuration.scss` you can override or customise the styles of the UI
+- In `customisations` you can override or customise the styles of the UI
 - the stylesheet is in scss format.
+- by convention any `configuration.scss` and `typo.scss` file in the `customisations` directory will overwrite styles of the session-ui-npm package.
