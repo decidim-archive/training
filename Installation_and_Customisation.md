@@ -59,7 +59,7 @@ const defaultLocale = {
 
 ## Build the project
 - `npm run build` will build the data and ui to the `_site/` folder which can be copied to a webserver or served locally
-- 'npm run start' will start the development server on your computer. In this mode you can preview the final output live in a browser, make edits and preview them.
+- `npm run start` will start the development server on your computer. In this mode you can preview the final output live in a browser, make edits and preview them.
 - see other build options by running `npm run`
 
 ## Content Management guidelines - The Data

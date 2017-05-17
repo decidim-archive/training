@@ -102,32 +102,37 @@ tags:
   - material
 ---
 
-
-## Documento de referencia para móviles
+## Tijeras
 --- meta
-uuid: 2c06116x-1383-4ec0-9048-5c5cc51cdde0
+uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
 tags:
-  - material
+  - materials
 ---
 
-## Folleto - Privacidad para llevar móvil
+## Pegamento
 --- meta
-uuid: 2c06106x-9383-4ec0-9048-5c5cc51cdde0
+uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
 tags:
-  - material
+  - materials
 ---
 
-## Desglose del teléfono móvil en 4 capas
+## Periódicos y revistas recicladas
 --- meta
-uuid: 1qc06106x-9383-4ec0-9048-5c5cc51cdde0
+uuid: b0810a5c-e587-43be-8cb0-174ba3006356
 tags:
-  - material
+  - materials
 ---
 
-
-## Cuadrícula vacía “Elegir herramientas”
+## Conexión a Internet
 --- meta
-uuid: 1qu06106x-9183-4ec0-9048-5c5cc51cdde0
+uuid: f354da89-49e4-497a-83f0-a941b087bfff
 tags:
-  - material
+  - materials
+---
+
+## Ordenadores para las participantes
+--- meta
+uuid: f3101c53-49e1-45dd-b804-002c922c7e01
+tags:
+  - materials
 ---

@@ -14,11 +14,12 @@
     "url": "git@gitlab.com:ttc/session-ui.git"
   },
   "scripts": {
+    "start": "cd _site && python -m SimpleHTTPServer 8000",
     "metalsmith": "babel-node metalsmith.js",
-    "build": "npm run metalsmith -s && npm run customise && npm run inject && cp -R ./node_modules/session-ui-npm/_site/static/* $npm_package_config_staticDest",
+    "build": "npm run metalsmith -s && npm run inject && cp -R ./node_modules/session-ui-npm/_site/static/* $npm_package_config_staticDest",
     "inject": "injectassets -s $npm_package_config_staticSrc/index.html -o $npm_package_config_staticDest/index.html -d './node_modules/session-ui-npm/_site/static/' -g '**/main*.{css,js}'",
     "clean": "rm -rf $npm_package_config_staticDest",
-    "prebuild": "npm run clean -s && mkdir $npm_package_config_staticDest && cp -R $npm_package_config_staticSrc/* $npm_package_config_staticDest",
+    "prebuild": "npm run clean -s && mkdir $npm_package_config_staticDest && cp -R $npm_package_config_staticSrc/* $npm_package_config_staticDest && npm run customise",
     "customise": "node scripts/customise.js"
   },
   "dependencies": {
