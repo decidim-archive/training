@@ -1,4 +1,4 @@
-# Title
+# Organizar una formación
 --- meta
 title: Organizar una formación
 uuid: ecb1aa03-e3e5-4281-9096-e3fe5cab21f3
@@ -6,12 +6,12 @@ locale: es
 source: Tactical Tech
 category: metodologías
 tags:
-  -educación adultos
-  -tecnologías
-  -facilitación
-  -ADIDS
+  - educación adultos
+  - tecnologías
+  - facilitación
+  - ADIDS
 duration:
-descripción: Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
+description: Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
 ---
 
 ## Meta información
@@ -110,7 +110,7 @@ Antes de diseñar tu formación, averigua si puedes, cuáles son las necesidades
 La evaluación de estas necesidades debe centrarse en lo que las participantes ya saben o ya pueden hacer, y cuáles son sus carencias y necesidades respecto a nuevos conocimientos o habilidades.
 
 La evaluación de estas necesidades será diferente dependiendo del enfoque de la formación. Una formación enfocada hacia seguridad digital/privacidad podría, por ejemplo, incluir la siguientes preguntas para determinar qué sistemas operativos, aplicaciones y servicios usan, así como cuales son sus niveles de familiaridad con:
--  el uso, configuración y resolución de problemas con ordenadores y teléfonos móviles.
+- el uso, configuración y resolución de problemas con ordenadores y teléfonos móviles.
 - los conceptos y terminologías asociadas con  ordenadores y teléfonos móviles.
 - diagnostico y evaluación de los riesgos a los cuales se exponen.
 

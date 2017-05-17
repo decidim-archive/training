@@ -1,4 +1,4 @@
-﻿# ¿Cómo funciona la comunicación móvil?
+# ¿Cómo funciona la comunicación móvil
 --- meta
 title: ¿Cómo funciona la comunicación móvil?
 uuid: f6fcb8e1-7221-4aec-83c2-09165c74d40c
@@ -10,7 +10,7 @@ tags:
   - Navegador
   - Soberanía tecnológica y cómo elegir alternativas
   - Ejercicios dibujo
-duration:  60
+duration: 60
 description: ¿Cómo funciona realmente la comunicación móvil? Entender a qué información tienen acceso terceras personas a lo largo del camino.
 ---
 
@@ -65,7 +65,7 @@ uuid: 541f7a7b-e83f-4018-8646-b86fcbccca4
 	- a través de redes de telefonía móvil o redes celulares (Voz/SMS, aplicaciones de chat).
 	- a través de Wi-Fi (por ejemplo, aplicaciones de chat o navegación).
 3. Si aún no se ha cubierto, prepárate también para dibujar la infraestructura de Internet, incluyendo cómo funciona cuando se utiliza una VPN, un proxy y Tor. Podría ser útil tener un diagrama a mano como guía.
-4. Tarjetas: Si está utilizando la versión con tarjetas de esta actividad, imprime las tarjetas ya listas desde la [página de materiales de MyShadow.org] (https://myshadow.org/materials) o crea las tuyas propias. Necesitarás al menos dos juegos de tarjetas: las de infraestructura móvil y las de infraestructura de internet. Si el grupo es grande, es posible que necesites imprimir varias series de tarjetas. Lo ideal sería que cada persona tuviera una tarjeta.
+4. Tarjetas: Si está utilizando la versión con tarjetas de esta actividad, imprime las tarjetas ya listas desde la [página de materiales de MyShadow.org](https://myshadow.org/materials) o crea las tuyas propias. Necesitarás al menos dos juegos de tarjetas: las de infraestructura móvil y las de infraestructura de internet. Si el grupo es grande, es posible que necesites imprimir varias series de tarjetas. Lo ideal sería que cada persona tuviera una tarjeta.
 5. Papel y lápiz: Si estás realizando esta actividad sin tarjetas, asegúrate de contar con suficiente papel, bolígrafos y marcadores. Cada participante debe tener a disposición varias hojas de papel.
 
 

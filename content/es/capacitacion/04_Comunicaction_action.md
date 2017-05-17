@@ -12,7 +12,7 @@ tags:
   - Audiencia e impacto
   - Alternativas y soberanía tecnológica
 duration: 125 - 155
-¿Cómo mejorar la difusión e impacto de los procesos de participación ciudadanas? Metodologías y procesos para saber cómo analizar y diseñar un plan de comunicación para las iniciativas ciudadanas.
+description: ¿Cómo mejorar la difusión e impacto de los procesos de participación ciudadanas? Metodologías y procesos para saber cómo analizar y diseñar un plan de comunicación para las iniciativas ciudadanas.
 ---
 
 ## Meta información
