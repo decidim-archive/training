@@ -1,14 +1,14 @@
 ﻿# ¿Cómo funciona la comunicación móvil?
 --- meta
 title: ¿Cómo funciona la comunicación móvil?
-uuid: 
+uuid: f6fcb8e1-7221-4aec-83c2-09165c74d40c
 locale: es
 source: Tactical Tech
 category: capacitación
-tags: 
+tags:
   - Móviles
   - Navegador
-  - Soberanía tecnológica y cómo elegir alternativas 
+  - Soberanía tecnológica y cómo elegir alternativas
   - Ejercicios dibujo
 duration:  60
 description: ¿Cómo funciona realmente la comunicación móvil? Entender a qué información tienen acceso terceras personas a lo largo del camino.
@@ -16,17 +16,23 @@ description: ¿Cómo funciona realmente la comunicación móvil? Entender a qué
 
 ## Meta información
 
-### Descripción 
+### Descripción
+
 ¿Cómo funciona realmente la comunicación móvil? Entender a qué información tienen acceso terceras personas a lo largo del camino.
 
+
 ### Duración
+
 45 - 60 minutos.
 
-### Número ideal de participantes 
+
+### Número ideal de participantes
+
 Esta sesión se puede hacer con cualquier número de participantes.
 
 
 ### Objetivos de aprendizaje
+
 ##### Conocimiento
 - Entender la infraestructura de comunicación móvil, y quién posee qué partes de esta infraestructura.
 - Entender dónde están las vulnerabilidades: ¿quién puede o podría acceder a tu comunicación o datos y en qué puntos?
@@ -38,13 +44,13 @@ Esta sesión se puede hacer con cualquier número de participantes.
 
 
 ### Materiales y equipamiento necesario
-- @[material]()Rotafolio
-- @[material]()Marcadores
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)Rotafolio
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)Marcadores
+- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)Papel A4
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
 - @[material]()Documento de referencia para móviles
-- @[material]()Papel A4
-- @[material]()Bolígrafos
-- @[material]()Tarjetas - Cómo funciona la comunicación móvil
-- @[material]()Folleto - Privacidad para llevar móvil
+- @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)Tarjetas - Cómo funciona la comunicación móvil
+- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)Folleto - Privacidad para llevar móvil
 
 
 ## Actividad: "¿Cómo funciona la comunicación móvil?"
@@ -53,6 +59,7 @@ uuid: 541f7a7b-e83f-4018-8646-b86fcbccca4
 ---
 
 #### Preparación
+
 1. Elije si vas a explicar "Cómo funciona la comunicación móvil" utilizando (1) las tarjetas - Cómo funciona la comunicación móvil o utilizando (2) papel y lápiz.
 2. Para ambas opciones, prepárate para demostrar cómo funciona la comunicación móvil en los siguientes dos escenarios:
 	- a través de redes de telefonía móvil o redes celulares (Voz/SMS, aplicaciones de chat).
@@ -61,16 +68,19 @@ uuid: 541f7a7b-e83f-4018-8646-b86fcbccca4
 4. Tarjetas: Si está utilizando la versión con tarjetas de esta actividad, imprime las tarjetas ya listas desde la [página de materiales de MyShadow.org] (https://myshadow.org/materials) o crea las tuyas propias. Necesitarás al menos dos juegos de tarjetas: las de infraestructura móvil y las de infraestructura de internet. Si el grupo es grande, es posible que necesites imprimir varias series de tarjetas. Lo ideal sería que cada persona tuviera una tarjeta.
 5. Papel y lápiz: Si estás realizando esta actividad sin tarjetas, asegúrate de contar con suficiente papel, bolígrafos y marcadores. Cada participante debe tener a disposición varias hojas de papel.
 
+
 ### Opción 1 - TARJETAS (40 min)
 
 #### ¿Cómo se ve la infraestructura de la red de telefonía móvil?
 1. Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos. Da a cada grupo un juego de tarjetas y pídeles que pongan las tarjetas en el orden correcto, mostrando cómo un teléfono móvil se conecta a otro teléfono móvil a través de una red de telefonía móvil.
 2. Comparad los resultados y luego revisad el orden juntos. Pregunta a las personas participantes si existen conceptos específicos que no están claros y que se necesitan aclarar.
 
+
 #### ¿Cómo se conecta un teléfono móvil a Internet?
 Usando las tarjetas, pide a las participantes  que muestren la diferencia entre (1) conectarse a internet a través de una red de telefonía móvil y torres de teléfonos celulares 3G / 4G - y (2) conectarse a través de Wi-Fi.
 1. ¿Qué partes del teléfono móvil y la infraestructura de telefonía móvil están involucradas?
 2. ¿Quién tiene o podría tener acceso a qué datos e información y en qué puntos del camino?
+
 
 ### Opción 2 – PAPEL Y LÁPIZ (40 min)
 
