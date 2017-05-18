@@ -4,7 +4,7 @@ title:  Decidim, capacitación
 uuid: b4e0e08a-dc2c-4d3b-a98f-34cad0a6bc35
 locale: es
 source: Tactical Tech
-category: capacitación
+item: Workshop
 tags:
   - Participación política
   - Nuevas tecnologías

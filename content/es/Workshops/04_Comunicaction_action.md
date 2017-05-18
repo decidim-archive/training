@@ -4,15 +4,15 @@ title: Comunicación para la acción
 uuid: 5de50344-919a-401a-a7e5-48ff689aa327
 locale: es
 source: Tactical Tech
-category: capacitación
+item: Workshop
 tags:
   - Discusión
   - Selección de herramientas
   - Plan de comunicación
   - Audiencia e impacto
   - Alternativas y soberanía tecnológica
-duration: 125 - 155
-¿Cómo mejorar la difusión e impacto de los procesos de participación ciudadanas? Metodologías y procesos para saber cómo analizar y diseñar un plan de comunicación para las iniciativas ciudadanas.
+duration: 125
+description: "¿Cómo mejorar la difusión e impacto de los procesos de participación ciudadanas? Metodologías y procesos para saber cómo analizar y diseñar un plan de comunicación para las iniciativas ciudadanas."
 ---
 
 ## Meta información
@@ -78,14 +78,14 @@ En inglés:
 - @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)Post-its
 - @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)Papel A4
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
-- @[material]()Documento de referencia Matriz plan de comunicación
-- @[material]()Documento de referencia Ejemplos de plan de comunicación exitosos
+- Documento de referencia Matriz plan de comunicación
+- Documento de referencia Ejemplos de plan de comunicación exitosos
 
 ### Materiales y folletos opcionales
 - @[material](efd50bd8-fe20-4618-a410-47ec1e427b4a)Tijeras
 - @[material](a1a11819-845b-4f4d-894c-f1c03d67c6bf)Pegamento
 - @[material](b0810a5c-e587-43be-8cb0-174ba3006356)Periódicos y revistas recicladas
-k
+
 
 ## Etapas
 

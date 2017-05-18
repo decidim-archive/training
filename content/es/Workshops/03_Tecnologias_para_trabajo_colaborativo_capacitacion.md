@@ -4,7 +4,7 @@ title: Tecnologías para el trabajo colaborativo
 uuid: b1da3647-5354-4959-9f57-0492ffbcf74c
 locale: es
 source: Tactical Tech
-category: capacitación
+item: Workshop
 tags:
   - Selección de herramientas
   - Alternativas y soberanía tecnológica

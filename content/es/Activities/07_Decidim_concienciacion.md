@@ -4,7 +4,7 @@ title: Decidim, concienciación
 uuid: 26c8b4bf-cc5d-46c9-abb9-7669a87a293a
 locale: es
 source: Tactical Tech
-category: SLE
+item: Activity
 tags:
   - Participación política
   - Nuevas tecnologías

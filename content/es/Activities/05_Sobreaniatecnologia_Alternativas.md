@@ -4,14 +4,14 @@ title:  Elegir Alternativas
 uuid: 23b04675-1589-4c71-8a4a-0765af26f23c
 locale: es
 source: Tactical Tech
-category:  concienciación
+item: Activity
 tags:
   - Elegir herramientas
   - Móviles
   - Mensajerías seguras
   - Navegadores
 duration:  85
-description:  ¿En qué se diferencian las herramientas y servicios comerciales y no comerciales? ¿Por qué eso importa? Esta actividad ofrece un marco sencillo para hacer elecciones informadas, e introduce el concepto de soberanía tecnológica así como algunas opciones alternativas.
+description:  "¿En qué se diferencian las herramientas y servicios comerciales y no comerciales? ¿Por qué eso importa? Esta actividad ofrece un marco sencillo para hacer elecciones informadas, e introduce el concepto de soberanía tecnológica así como algunas opciones alternativas."
 ---
 
 ## Meta información
@@ -54,8 +54,8 @@ description:  ¿En qué se diferencian las herramientas y servicios comerciales 
 
 ### Materiales y equipamiento necesario
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
-- @[material]() Cuadrícula vacía y llena “Elegir herramientas”
-- @[material]() Documento de referencia “Estrategias para cambiar las tecnologías”
+- Cuadrícula vacía y llena “Elegir herramientas”
+- Documento de referencia “Estrategias para cambiar las tecnologías”
 
 
 ## Actividad: "Elegir herramientas"
@@ -66,7 +66,7 @@ uuid: bc9d5aee-0106-41dd-9164-7f2157e16260
 #### Preparación
 
 1. Imprima un documento de "Selección de herramientas" para cada participante - asegúrese de que se trata del documento vacío y no del que contiene las respuestas.
-2. Descargue una cuadrícula ya rellenada con herramientas específicas (algunas se pueden descargar de la página [Materiales] (https://myshadow.org/materials) en MyShadow.org), o rellena una cuadrícula tu mismo poniendo las herramientas y servicios que te interesa analizar con el grupo (por ejemplo, motores de búsqueda, aplicaciones de mensajería, alternativas a servicios de Google). Puedes imprimir ese documento para los participantes, o proyectarlo en la pared.
+2. Descargue una cuadrícula ya rellenada con herramientas específicas (algunas se pueden descargar de la página [Materiales](https://myshadow.org/materials) en MyShadow.org), o rellena una cuadrícula tu mismo poniendo las herramientas y servicios que te interesa analizar con el grupo (por ejemplo, motores de búsqueda, aplicaciones de mensajería, alternativas a servicios de Google). Puedes imprimir ese documento para los participantes, o proyectarlo en la pared.
 
 
 #### Lluvia de idea de aplicaciones y herramientas (10 min)

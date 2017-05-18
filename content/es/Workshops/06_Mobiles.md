@@ -1,15 +1,16 @@
-﻿# Comunicación Móviles
+# Comunicación Móviles
+
 --- meta
-title:  Comunicación Móviles
+title: Comunicación Móviles
 uuid: 0c78a136-7552-47d0-901e-04ebda5c4715
 locale: es
 source: Tactical Tech
-category:  capacitación
+item: Workshop
 tags:
-   - Móviles
-   - Ejercicios dibujo
+  - Móviles
+  - Ejercicios dibujo
 duration:  140
-description: ¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a su información por el camino? ¿Y qué puede hacer para recuperar algún control sobre la información a la que otros tienen acceso?
+description: "¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a su información por el camino? ¿Y qué puede hacer para recuperar algún control sobre la información a la que otros tienen acceso?"
 ---
 
 ## Meta información
@@ -89,7 +90,6 @@ La siguiente actividad permite a las participantes ver cómo funciona realmente 
 
 
 ##### Actividad: "¿Cómo funciona la comunicación móvil?"
-@[activity]()
 
 
 ### Etapa 3: ¿Cómo funciona un teléfono? ¿Qué terceros tienen acceso y a qué partes? (40 min)
@@ -97,7 +97,6 @@ La siguiente actividad muestra cómo funciona un teléfono móvil y cómo se uti
 
 
 ##### Actividad: "Tu teléfono: un desglose en cuatro capas"
-@[activity]()
 
 
 ### Etapa 4: ¿Qué puedes hacer? Trucos para gestionar tus rastros (20 min)

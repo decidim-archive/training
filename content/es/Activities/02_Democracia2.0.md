@@ -4,7 +4,7 @@ title: Democracia 2.0
 uuid: e5804754-f92b-4b38-bac0-a52a9b37da51
 locale: es
 source: Tactical Tech
-category: concienciación
+item: Activity
 tags:
   - Discusión
   - Selección de herramientas

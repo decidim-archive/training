@@ -1,10 +1,10 @@
 # Cuida los datos
 --- meta
-title:  Cuida los datos
+title: Cuida los datos
 uuid: 28506aff-51ff-4186-893c-3c70b152523d
-lan: sp
+lan: es
 source: Tactical Tech
-category: concienciación
+item: Activity
 tags:
   - Discusión
   - Selección de herramientas
@@ -12,8 +12,8 @@ tags:
   - Sombra Digital
   - Modelos de negocios
   - Navegador
-duration: 155 - 165
-description: Entender la economía y política detrás de los datos y nuestras identidades conectadas: ¿Quien y qué hacen con nuestros datos, cómo se generan negocios con ellos y de qué manera somos rastreadas, vigiladas y/o discriminadas?
+duration: 155
+description: "Entender la economía y política detrás de los datos y nuestras identidades conectadas: ¿Quien y qué hacen con nuestros datos, cómo se generan negocios con ellos y de qué manera somos rastreadas, vigiladas y/o discriminadas?"
 ---
 
 ## Meta información
@@ -69,9 +69,9 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
 
 ### Materiales y folletos opcionales
-- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849) Folleto Privacidad para llevar móvil
-- @[material](Folleto Privacidad para llevar navegador) Folleto Privacidad para llevar navegador
-- @[material](Vídeo Corredores de datos) Vídeo Corredores de datos
+- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)Folleto Privacidad para llevar móvil
+- @[material](c0358b51-fe16-47ae-9686-927ec39d18f6)Folleto Privacidad para llevar navegador
+- @[material](417fc8a5-400f-4553-a23e-faa949beb239)Vídeo Corredores de datos
 - @[material](67c7149b-44f9-4b7a-b4ee-c8bf786b50dc)Tarjetas - Cómo funciona internet
 - @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)Tarjetas - Cómo funciona la comunicación móvil
 
@@ -112,17 +112,15 @@ Las siguientes actividades permiten a las participantes entender los fundamentos
 
 ##### Actividad A: "Visualizando el rastreo en nuestros navegadores" (45 min)
 Para personas que participan en procesos de participación política y/o usan de manera más o menos activas internet para su trabajo o activismo.
-@[activity]()
+
 
 ##### Actividad B: "¿Cómo funciona internet?" (45 min)
 Para personas jubiladas y/o que usan desde hace poco internet y no entienden cómo funciona la infraestructura.
-@[activity](7effca32-568a-49fb-ab2f-7e835662fc96)
 
 Para introducir la siguiente actividad recomendamos mostrar algunos elementos visuales de la infraestructura de internet como por ejemplo un mapa del backbone de internet (http://submarine-cable-map-2016.telegeography.com/) y una granja de servidores (https://www.youtube.com/watch?v=7kjSH67BIX8) .
 
 ##### Actividad C: "¿Cómo ganan dinero los servicios que usas en internet?" (60 min)
 Para personas jóvenes y/o que usan mucho el móvil e internet pero desconocen su historia.
-@[activity]()
 
 
 ### Etapa 3: Presentación Política de los datos (20 min)
