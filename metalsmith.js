@@ -15,7 +15,7 @@ new Metalsmith(__dirname)
   })
   // TODO:10 This is not nice, I should whitelist directories, rather than
   //       blacklisting.
-  .ignore(['node_modules', 'index.html', '.git', 'metalsmith.js', '.babelrc', '.eslintrc.json',
+  .ignore(['node_modules', 'index.html', '.git', 'metalsmith.js', '.babelrc', '.eslintrc',
   '_*.md', '.gitignore', 'test.json', 'lib', '**/*.png', '**/*.pdf', 'package.json', 'README'])
   .source('./content')
   .destination('./public/data')
@@ -23,9 +23,9 @@ new Metalsmith(__dirname)
   // #done:0 Remove the dependency to metalsmith-paths.
   .use(paths())
   .use(collections({
-    activities: '**/*/capacitacion/*.md',
+    activities: '**/*/Activities/*.md',
     materials: '**/*/Materials.md',
-    curriculas: '**/*/concienciacion/*.md',
+    curriculas: '**/*/Workshops/*.md',
   }))
   .use(parse({extensions: [markdownMetaMarker('material'),
                            markdownMetaMarker('activity')],

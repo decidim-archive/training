@@ -18,7 +18,6 @@ export default class SessionTag extends React.Component {
   }
 
   render() {
-
     const icon = getIcon(this.props.data);
     return (
       <i className={`fa ${icon} tag ${this.high}`} title={this.props.data}/>

@@ -15,7 +15,7 @@ export default class SessionItem extends React.Component {
     this.state = {previewState: false};
   }
 
-  moreLess(e) {
+  moreLess() {
     this.setState({previewState: !this.state.previewState});
   }
 

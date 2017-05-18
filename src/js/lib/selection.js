@@ -90,8 +90,13 @@ const selectionSummary = (selections) => {
 // Public API
 
 export default {
-  selectionSummary, selection,
-  getMaterials, getDurations, getDurationsSum, getDurationsUnique, getTags,
+  selectionSummary,
+  selection,
+  getMaterials,
+  getDurations,
+  getDurationsSum,
+  getDurationsUnique,
+  getTags,
 
   toItemsProperty: () =>
     Bacon.update(

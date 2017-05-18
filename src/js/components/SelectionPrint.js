@@ -42,7 +42,7 @@ export default class SelectionPrint extends React.Component {
             <div className="toc">
               <h2>{phrases.selectedSessionsLabel}</h2>
               <ol className="sessions">
-                {_.map(seles, ({id, title, item, sections, activities}) =>
+                {_.map(seles, ({id, title, item, sections}) =>
                 <li key={id} className="session">
                   <div className="title">
                     {title}
@@ -52,7 +52,7 @@ export default class SelectionPrint extends React.Component {
                     </span>
                   </div>
                   <ul>
-                    {_.map(sections, (elem, key) =>
+                    {_.map(sections, (elem) =>
                       <li key={elem.title}>{elem.title}</li>
                     )}
                   </ul>

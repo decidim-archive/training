@@ -1,10 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 
-import FilterItem from './FilterItem';
-
 import filters from '../lib/filters';
-import data from '../lib/data';
+
+import FilterItem from './FilterItem';
 
 export default class Filter extends React.Component {
   constructor(props) {
@@ -14,8 +13,6 @@ export default class Filter extends React.Component {
 
   componentDidMount() {
     const filtersP = filters.toItemsProperty();
-    // const localeP = locales.toItemsProperty();
-
     filtersP.onValue(fils => this.setState({fils}));
   }
 
@@ -70,8 +67,7 @@ export default class Filter extends React.Component {
               checkedState={e} />
           )}
         </ul>
-      </div>
-	);
+      </div>);
   }
 }
 

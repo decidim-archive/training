@@ -11,10 +11,10 @@ import locales from '../lib/locales';
 import { defaultLocale } from '../../../config/base-settings';
 
 import LocaleSwitcher from './LocaleSwitcher';
-import Selection from './Selection';
-import Session from './Session';
 import IntroSection from './IntroSection';
 import Filter from './Filter';
+import Session from './Session';
+import Selection from './Selection';
 
 import '../../scss/app.scss';
 
@@ -37,13 +37,15 @@ export default class CurriculaUI extends React.Component {
     this.tabSelected = this.tabSelected.bind(this);
     this.affixer = this.affixer.bind(this);
     this.changeLocale = this.changeLocale.bind(this);
+    this.onBackButtonEvent = this.onBackButtonEvent.bind(this);
   }
 
   onBackButtonEvent(e) {
     e.preventDefault();
     Promise.all([data.fetch(defaultLocale.code)])
       .then(() => session.reset(data.sessions()))
-      .then(() => filters.set());
+      .then(() => filters.set())
+      .then(() => selections.reset());
   }
 
   componentDidMount() {
@@ -102,11 +104,10 @@ export default class CurriculaUI extends React.Component {
     locales.update(e.target.value);
     Promise.all([data.fetch(e.target.value)])
       .then(() => session.reset(data.sessions()))
-      .then(() => filters.set());
+      .then(() => filters.set())
+      .then(() => selections.reset());
   }
 
-  componentWillUpdate(nextProps, nextState) {
-  }
 
   render() {
     const phrases = this.state.phrases;

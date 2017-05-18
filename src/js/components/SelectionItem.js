@@ -38,7 +38,7 @@ export default class SelectionItem extends React.Component {
   }
 
   render() {
-    const { item,} = this.props;
+    const { item } = this.props;
     const duration = durationFormat(item.duration);
     return (
       <li key={item.id} className={item.item}>
@@ -55,8 +55,7 @@ export default class SelectionItem extends React.Component {
         <ul className="actionButtons">
           <li>
             <Link className="print"
-              to={{pathname: 'print',
-              state: {sels: [item]}}} >
+              to={{pathname: 'print', state: {sels: [item]}}} >
                 <i className="fa fa-print" />
             </Link>
           </li>

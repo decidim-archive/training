@@ -10,12 +10,15 @@ export default class Session extends React.Component {
     super(props);
     this.showSize = this.showSize.bind(this);
     this.checkSize = this.checkSize.bind(this);
-    this.state = {sessions: this.props.sessions , phrases: data.phrases(), superSize: _.size(data.sessions())};
+    this.state = {
+      sessions: this.props.sessions,
+      phrases: data.phrases(),
+      superSize: _.size(data.sessions())};
   }
 
 
   componentWillReceiveProps(nextProps) {
-    this.setState({state: nextProps})
+    this.setState({state: nextProps});
   }
 
   checkSize() {

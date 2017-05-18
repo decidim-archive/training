@@ -18,15 +18,15 @@ export default class LocaleSwticher extends React.Component {
     // data.fetch(this.props.selectedLocale.code);
     // sessions.reset(data.sessions());
     // filters.set();
-    const localesP = locales.toItemsProperty();
-    localesP.onValue(ls => this.setState({locale: data.locales(), defaultLocale: data.defaultLocale()}));
+    // const localesP = locales.toItemsProperty();
+    // localesP.onValue(ls =>
+    // this.setState({locale: data.locales(), defaultLocale: data.defaultLocale()}));
   }
 
   render() {
-    const locales = data.locales();
     const defaultLocale = data.defaultLocale();
     const switcher =
-      (_.size(locales) > 1) ?
+      (_.size(this.state.locale) > 1) ?
       <select
         className="language-switcher"
         onChange={this.props.changeLocale}
@@ -35,7 +35,7 @@ export default class LocaleSwticher extends React.Component {
           defaultLocale.code}
       >
         <option id="select language">...</option>
-        {_.map(locales, (loc, idx) =>
+        {_.map(locales, (loc) =>
           <option id={loc.code} key={loc.code} value={loc.code}>{loc.name}</option>
         )}
       </select>

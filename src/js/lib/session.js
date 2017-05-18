@@ -54,7 +54,7 @@ const updatersP = Bacon.combineTemplate({
 
 // check for new selection or filter click and update the displayed sessions
 updatersP.onValue(updater => {
-  _.each(updater, (v, k) => {updaters[k] = v;});
+  _.each(updater, (v, k) => { updaters[k] = v; });
   d.push('filter', updaters);
 });
 

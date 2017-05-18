@@ -1,12 +1,12 @@
 import _ from 'lodash';
 import React from 'react';
+import { Link } from 'react-router';
 
 import selections from '../lib/selection';
 import data from '../lib/data';
 
-import SelectionItem from './SelectionItem';
-import SelectionSummary from './SelectionSummary';
-import {Link} from 'react-router';
+import { SelectionItem } from './SelectionItem';
+import { SelectionSummary } from './SelectionSummary';
 
 export default class Selection extends React.Component {
   constructor(props) {
@@ -21,7 +21,6 @@ export default class Selection extends React.Component {
   }
 
   render() {
-
     const sels = this.state.sels;
     const selectionsExist = !_.isEmpty(sels);
     const summary = selections.selectionSummary(sels);
@@ -38,7 +37,7 @@ export default class Selection extends React.Component {
       <div className="actions export">
         <Link className="print"
           to={{pathname: 'print',
-                  state: {sels}}} >
+            state: {sels}}} >
           <i className="fa fa-print" />
           <span className="tip">{phrase.selectionExport}</span>
         </Link>

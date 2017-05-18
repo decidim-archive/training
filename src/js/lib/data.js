@@ -4,12 +4,12 @@ import http from './http';
 import { dataSource, dataSourcePath, defaultLocale, locales } from '../../../config/base-settings';
 
 const sections = ['curriculas',
-                  'icebreakers',
-                  'materials',
-                  'activities',
-                  'filters',
-                  'phrases',
-                  'icons'];
+  'icebreakers',
+  'materials',
+  'activities',
+  'filters',
+  'phrases',
+  'icons'];
 
 const uiElements = [
   'phrases',
@@ -30,17 +30,17 @@ const dataURL = (dataSource === 'local') ?
   dataSourcePath;
 
 export const fetch = (locale) => {
-  const l = locale ? locale : defaultLocale.code;
+  const l = locale || defaultLocale.code;
   const urls = [
     `${dataURL}/${l}-data.json`,
     `${dataURL}/${l}-ui.json`,
   ];
   return http.get(urls)
     .then(data => {
-      _.each(data[0][0], (v, k) => {appData[k] = v;});
+      _.each(data[0][0], (v, k) => { appData[k] = v; });
       _.merge(appUI, { phrases: data[1][0].phrasing, icons: data[1][0].iconmap });
     });
-}
+};
 
 export default {
   fetch,

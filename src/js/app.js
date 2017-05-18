@@ -1,5 +1,5 @@
 import React from 'react';
-import { Router, Route, browserHistory} from 'react-router';
+import { Router, Route, browserHistory } from 'react-router';
 import ReactDOM from 'react-dom';
 import Promise from 'bluebird';
 
@@ -19,7 +19,7 @@ ReactDOM.render(
     <Route path="/" component={CurriculaUI} />
     <Route path="/print" component={SelectionPrint} />
   </Router>,
-  document.getElementById('curricula-ui')
+  document.getElementById('curricula-ui'),
 );
 
 Promise.all([data.fetch(defaultLocale.code)])

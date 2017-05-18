@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 import { getIcon, getCounts } from '../lib/utils';
 import filters from '../lib/filters';
 
@@ -15,8 +14,8 @@ export default class FilterItem extends React.Component {
     filters.update(e.target.id, e.target.checked, e.target.className);
   }
 
-  render() {
 
+  render() {
     const icon = getIcon(this.props.name);
     const c = getCounts(this.props.name, this.props.filterType);
     return (
