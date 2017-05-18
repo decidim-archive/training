@@ -104,8 +104,7 @@ export default class CurriculaUI extends React.Component {
     locales.update(e.target.value);
     Promise.all([data.fetch(e.target.value)])
       .then(() => session.reset(data.sessions()))
-      .then(() => filters.set())
-      .then(() => selections.reset());
+      .then(() => filters.set());
   }
 
 

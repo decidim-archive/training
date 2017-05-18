@@ -5,10 +5,11 @@ import { Link } from 'react-router';
 import selections from '../lib/selection';
 import data from '../lib/data';
 
-import { SelectionItem } from './SelectionItem';
-import { SelectionSummary } from './SelectionSummary';
+import SelectionItem from './SelectionItem';
+import SelectionSummary from './SelectionSummary';
 
 export default class Selection extends React.Component {
+
   constructor(props) {
     super(props);
     this.state = {sels: []};
@@ -25,6 +26,7 @@ export default class Selection extends React.Component {
     const selectionsExist = !_.isEmpty(sels);
     const summary = selections.selectionSummary(sels);
     const phrase = data.phrases();
+
     const selectionClear =
       <div className="actions clear">
         <a className="deselect-all"
@@ -70,14 +72,14 @@ export default class Selection extends React.Component {
           <label className="selections btn" onClick={this.props.tabSelected}>
             <span className="selections badge">
               {summary.size}
-              {selectionsExist ? selectionClear : ''}
+              {selectionsExist ? selectionClear : ' '}
             </span>
             <div>{this.props.showTab === 'selections' ? '' : 'selections'}</div>
           </label>
-          {selectionsExist ? selectionExport : ''}
+          {selectionsExist ? selectionExport : ' '}
           <p>{phrase.selectionInstruction}</p>
         </div>
-        {selectionsExist ? showSelections : ''}
+        {selectionsExist ? showSelections : ' '}
       </div>
     );
   }
