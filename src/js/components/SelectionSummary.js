@@ -10,6 +10,9 @@ export default class SelectionSummary extends React.Component {
     const {summary} = this.props;
     const phrases = data.phrases();
     const uniqMaterials = _.uniqBy(summary.materials, 'id');
+    console.log('Materials');
+    console.log(uniqMaterials);
+    console.log(materialsTitle('0d1c2469-bc55-41da-8207-63edf8fd307b'));
     const attachments = getAttachments(_.uniq(_.map(uniqMaterials, 'id')));
     return (
       <div className="summary">
@@ -23,6 +26,11 @@ export default class SelectionSummary extends React.Component {
           <span>{phrases.materialsNeeded} </span>
           {_.map(uniqMaterials, ({id: v}, k) =>
               <li key={k}>{materialsTitle(v)}</li>
+          )}
+          {_.map(uniqMaterials, ({id: v}, k) => {
+            console.log(k);
+            console.log(v);
+          }
           )}
         </ul>
         <ul className={`attachments ${_.isEmpty(attachments) ? 'hide' : ''}`}>
