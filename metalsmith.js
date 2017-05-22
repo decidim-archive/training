@@ -1,4 +1,5 @@
 import Metalsmith from 'metalsmith';
+import _ from 'lodash';
 import collections from 'metalsmith-collections';
 import paths from 'metalsmith-paths';
 import {parse, transform} from 'metalsmith-transmark';
@@ -8,6 +9,9 @@ import {plugin as drafts} from './lib/drafts';
 import {plugin as render} from './lib/render';
 
 import {material, activity, methodology} from './lib/transformation';
+import {sections} from './config/base-settings';
+
+const order = _.map(sections, 'title');
 
 new Metalsmith(__dirname)
   .metadata({
@@ -28,18 +32,20 @@ new Metalsmith(__dirname)
     curriculas: '**/*/Workshops/*.md',
     methodologies: '**/*/Methodologies/*.md',
   }))
-  .use(parse({extensions: [
-    markdownMetaMarker('methodology'),
-    markdownMetaMarker('material'),
-    markdownMetaMarker('activity')
-  ],
+  .use(parse({
+    extensions: [
+      markdownMetaMarker('methodology'),
+      markdownMetaMarker('material'),
+      markdownMetaMarker('activity')
+    ],
     meta: {
       activities: [],
       materials: [],
       methodologies: []
-    }
+    },
+    order
   }))
-  .use(transform({handlers: {material, activity, methodology}}))
+  .use(transform({handlers: {material, activity, methodology}, order}))
   .use(render())
   .build(err => {
     if (err) { throw err; }
