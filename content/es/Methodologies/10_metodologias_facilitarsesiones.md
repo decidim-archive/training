@@ -6,12 +6,12 @@ locale: es
 source: Tactical Tech
 item: Methodology
 tags:
-  -educación adultos
-  -tecnologías
-  -facilitación
-  -ADIDS
-duration:
-descripción:Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
+  - educación adultos
+  - tecnologías
+  - facilitación
+  - ADIDS
+duration: 30
+descripción: Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
 ---
 
 ## Meta información
@@ -206,10 +206,10 @@ Las evaluaciones son una parte importante de cualquier formación, ya que pueden
 
 -  Plus/Delta: Para cada sesión realizada, pega un pedazo de papel con dos columnas: ¿Plus: qué te gustó? Y ¿Delta: qué podría ser mejorado?. Los comentarios de las participantes pueden ser escritos en notas adhesivas y pegados en la columna correspondiente. Asegúrate de dejar espacio a las participantes para que puedan dejar sus notas con privacidad.
 -  Formulario de evaluación: Prepara previamente un formulario básico de evaluación e imprime una copia para cada participante. Las preguntas pueden incluir cosas como:
-¿Qué funcionó?
-¿Qué podría hacerse de manera diferente la próxima vez?
-¿Qué aprendiste de nuevo?
-¿Qué implementarás en el futuro?
+  - ¿Qué funcionó?
+  - ¿Qué podría hacerse de manera diferente la próxima vez?
+  - ¿Qué aprendiste de nuevo?
+  - ¿Qué implementarás en el futuro?
 
 - Seguimiento: Si es posible, propón un canal de comunicación y un tiempo durante el cual te puedes hacer disponible para responder a preguntas una vez haya finalizado la formación.
 
@@ -241,3 +241,8 @@ Las evaluaciones son una parte importante de cualquier formación, ya que pueden
 - Práctica. Facilitar es un arte basado en la práctica. No se puede aprender de un libro, o de una tutorial. Así que anímate, practica...
 
 ¡Y diviértete!
+
+-------------------------------
+<!---
+BCN_currículo/Capacitación/TEMPLATE
+-->
