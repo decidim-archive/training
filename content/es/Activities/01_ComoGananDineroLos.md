@@ -44,6 +44,9 @@ description: "¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
 
 ## Actividad:"¿Cómo ganan dinero los servicios que usas en internet?"
+--- meta
+uuid: 7effca32-568a-49fb-ab2f-7e835662fc96
+---
 
 #### Preparación
 1. Revisa para las siguientes empresas los servicios que ofrecen y qué empresas les pertenecen: Google, Amazon, Facebook, Apple, Microsoft. En general, estas mantienen sus entradas en la Wikipedia actualizadas y puedes hacerte una idea de la lista de servicios que ofrecen así como la lista de empresas propiedad suyas (puedes ver que suelen apostar hacia nuevos servicios y productos del futuro como coches sin conductor, robots, viajes espaciales, salud, etc.)

@@ -58,15 +58,15 @@ Esta sesión introduce elementos de reflexión sobre las potencialidades de la p
 - [Decidim](https://www.decidim.barcelona/), (Ayuntamiento de Barcelona)
 
 ### Materiales y equipamiento necesario
-- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)Ordenador
-- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)Proyector
-- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)Rotafolio
-- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)Marcadores
-- @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)Post-its
-- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)Papel A4
-- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
-- @[material](f354da89-49e4-497a-83f0-a941b087bfff)Conexión a Internet
-- @[material]()Documento de referencia Decidim
+- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
+- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)
+- @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)
+- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
+- @[material](f354da89-49e4-497a-83f0-a941b087bfff)
+- @[material](2e72f1b7-6d2a-41c1-a07f-d7c79994d201)
 
 ## Etapas
 ﻿

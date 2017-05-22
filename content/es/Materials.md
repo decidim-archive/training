@@ -75,6 +75,9 @@ uuid: 9392dacf-999c-4c33-a6d8-4545c1aee849
 tags:
   - material
 locale: es
+links:
+  - label: Folleto Privacidad para llevar móvil
+    link: "https://myshadow.org/ckeditor_assets/attachments/229/mobile_es_complete.pdf"
 ---
 
 
@@ -84,6 +87,9 @@ uuid: c0358b51-fe16-47ae-9686-927ec39d18f6
 tags:
   - material
 locale: es
+links:
+  - label: Folleto Privacidad para llevar navegador
+    link: "https://myshadow.org/ckeditor_assets/attachments/228/browser_es_complete.pdf"
 ---
 
 
@@ -93,6 +99,9 @@ uuid: 417fc8a5-400f-4553-a23e-faa949beb239
 tags:
   - material
 locale: es
+links:
+  - label: Vídeo Corredores de datos
+    link: ""
 ---
 
 
@@ -102,6 +111,9 @@ uuid: 67c7149b-44f9-4b7a-b4ee-c8bf786b50dc
 tags:
   - material
 locale: es
+links:
+  - label: Cómo funciona la comunicación móvil
+    link: ""
 ---
 
 
@@ -111,17 +123,16 @@ uuid: 2c06216d-1383-4ec0-9048-5c5cc51cdde0
 tags:
   - material
 locale: es
+links:
+  - label: Cómo funciona la comunicación móvil
+    link: ""
 ---
 
 ## Tijeras
 --- meta
 uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
 tags:
-<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
   - materials
-=======
-  - material
->>>>>>> organised content folders with example for downloadable materials
 locale: es
 ---
 
@@ -129,12 +140,7 @@ locale: es
 --- meta
 uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
 tags:
-<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
-  - materials
-=======
   - material
->>>>>>> organised content folders with example for downloadable materials
-locale: es
 ---
 
 ## Periódicos y revistas recicladas
@@ -170,4 +176,48 @@ locale: es
 links:
   - label: Documento de referencia Matriz analítica de participación política
     link: "assets/downloads/matriz_participation.pdf"
+---
+
+## Documento de referencia Procesos de participación política
+--- meta
+uuid: 8e2044e0-6201-47bd-9066-8bc5ff6df500
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Procesos de participación política
+    link: "assets/downloads/Democracia2.0.pdf"
+---
+
+## Elegir herramientas - Cuadrícula vacía
+--- meta
+uuid: 6399e12d-c34c-436b-9ac9-4c79506bf8a8
+tags:
+  - material
+locale: es
+links:
+  - label: Elegir herramientas - Cuadrícula vacía
+    link: "assets/downloads/Elegir_herramientas_vacio.pdf"
+---
+
+## Elegir herramientas - Cuadrícula lleno
+--- meta
+uuid: 6ad9de95-0fe5-4bff-b1c5-7796ef49ef20
+tags:
+  - material
+locale: es
+links:
+  - label: Elegir herramientas - Cuadrícula lleno
+    link: "assets/downloads/Elegir_herramientas_lleno.pdf"
+---
+
+## Documento de referencia “Estrategias para cambiar las tecnologías”
+--- meta
+uuid: 10cae4b7-5625-41d1-abbb-16c1ebd1ce9f
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia “Estrategias para cambiar las tecnologías”
+    link: "assets/downloads/Estrategias_cambios_tecnologias.pdf"
 ---
