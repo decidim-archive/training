@@ -80,14 +80,10 @@ const activitiesTitle = (ids) => {
 };
 const getMaterials = (ids) => {
   const material = _.filter(data.materials(), (ext) => ext.id === ids);
-  console.log('AAAAAAAAAAAAAAA');
-  console.log(data.materials());
   return material;
 };
 const materialsTitle = (ids) => {
   const a = getMaterials(ids);
-  console.log('getMaterials');
-  console.log(a);
   const title = _.map(a, 'title');
   return title;
 };
