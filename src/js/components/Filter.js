@@ -22,7 +22,6 @@ export default class Filter extends React.Component {
     const phrase = this.props.phrases;
 
     const typeFilters =
-      (_.size(afils.items > 1)) ?
       <ul className="items">
         {_.map(afils.items, (e, i) =>
           <FilterItem
@@ -32,9 +31,7 @@ export default class Filter extends React.Component {
             displayName={i}
             checkedState={e} />
         )}
-      </ul>
-      :
-      '';
+      </ul>;
 
     return (
       <div className="col col-md-3" id="filters">
