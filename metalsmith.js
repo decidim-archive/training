@@ -7,7 +7,7 @@ import {markdownMetaMarker} from 'transmark';
 import {plugin as drafts} from './lib/drafts';
 import {plugin as render} from './lib/render';
 
-import {material, activity} from './lib/transformation';
+import {material, activity, methodology} from './lib/transformation';
 
 new Metalsmith(__dirname)
   .metadata({
@@ -16,7 +16,7 @@ new Metalsmith(__dirname)
   // TODO:10 This is not nice, I should whitelist directories, rather than
   //       blacklisting.
   .ignore(['node_modules', 'index.html', '.git', 'metalsmith.js', '.babelrc', '.eslintrc',
-  '_*.md', '.gitignore', 'test.json', 'lib', '**/*.png', '**/*.pdf', 'package.json', 'README'])
+    '_*.md', '.gitignore', 'test.json', 'lib', '**/*.png', '**/*.pdf', 'package.json', 'README'])
   .source('./content')
   .destination('./public/data')
   .use(drafts())
@@ -26,11 +26,20 @@ new Metalsmith(__dirname)
     activities: '**/*/Activities/*.md',
     materials: '**/*/Materials.md',
     curriculas: '**/*/Workshops/*.md',
+    methodologies: '**/*/Methodologies/*.md',
   }))
-  .use(parse({extensions: [markdownMetaMarker('material'),
-                           markdownMetaMarker('activity')],
-              meta: {activities: [], materials: []}}))
-  .use(transform({handlers: {material, activity}}))
+  .use(parse({extensions: [
+    markdownMetaMarker('methodology'),
+    markdownMetaMarker('material'),
+    markdownMetaMarker('activity')
+  ],
+    meta: {
+      activities: [],
+      materials: [],
+      methodologies: []
+    }
+  }))
+  .use(transform({handlers: {material, activity, methodology}}))
   .use(render())
   .build(err => {
     if (err) { throw err; }
