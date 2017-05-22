@@ -35,13 +35,13 @@ description: "¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 - Entender los fundamentos del rastreo y negocio de datos: ¿Qué metodologías se usan para perfilar a las personas y cuales son los modelos de negocios de las grandes empresas que nos ofrecen servicios en internet?.
 
 ### Materiales y equipamiento necesario
-- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)Ordenador
-- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)Proyector
-- @[material](0d1c5569-bc55-41db-8207-11edf8fd307b)Sistema de audio
-- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)Rotafolio
-- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)Marcadores
-- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)Papel A4
-- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
+- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
+- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)
+- @[material](0d1c5569-bc55-41db-8207-11edf8fd307b)
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)
+- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
 
 ## Actividad:"¿Cómo ganan dinero los servicios que usas en internet?"
 
