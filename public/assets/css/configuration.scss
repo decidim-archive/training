@@ -30,7 +30,7 @@ $font-size-medium:    130%;
 $font-size-big:       160%;
 $font-size-biggest:   500%;
 
-$link-color: #262626;
+$link-color: #EB3922;
 // $link-hover-color: #262626;
 $link-hover-color: #EB3922;
 $link-text-decoration: none;
@@ -76,7 +76,8 @@ h3 {
 }
 
 h4, .heading {
-  font-size: $body-font-size;
+  font-size: $font-size-medium;
+  font-weight: bold;
 }
 
 h5, h6 {

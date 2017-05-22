@@ -8,7 +8,6 @@ tags:
 locale: es
 ---
 
-
 ## Ordenador
 --- meta
 uuid: 0d1c2469-bc55-41da-8207-63edf8fd307b
@@ -16,7 +15,6 @@ tags:
   - material
 locale: es
 ---
-
 
 ## Sistema de audio
 --- meta
