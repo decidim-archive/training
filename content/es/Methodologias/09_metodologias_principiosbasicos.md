@@ -1,10 +1,10 @@
-# Title
+# Principios básicos educación adultos
 --- meta
 title: Principios básicos educación adultos
 uuid: d965a5be-d4fc-4e88-b702-231537a6c141
 locale: es
 source: Tactical Tech
-category:metodologías
+item: Methodology
 tags:
   -educación adultos
   -tecnologías
