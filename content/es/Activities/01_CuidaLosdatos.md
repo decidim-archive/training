@@ -2,7 +2,7 @@
 --- meta
 title: Cuida los datos
 uuid: 28506aff-51ff-4186-893c-3c70b152523d
-lan: es
+locale: es
 source: Tactical Tech
 item: Activity
 tags:
