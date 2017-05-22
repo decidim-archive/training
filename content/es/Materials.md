@@ -117,7 +117,11 @@ locale: es
 --- meta
 uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
 tags:
+<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
   - materials
+=======
+  - material
+>>>>>>> organised content folders with example for downloadable materials
 locale: es
 ---
 
@@ -125,7 +129,11 @@ locale: es
 --- meta
 uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
 tags:
+<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
   - materials
+=======
+  - material
+>>>>>>> organised content folders with example for downloadable materials
 locale: es
 ---
 
@@ -133,7 +141,7 @@ locale: es
 --- meta
 uuid: b0810a5c-e587-43be-8cb0-174ba3006356
 tags:
-  - materials
+  - material
 locale: es
 ---
 
@@ -141,7 +149,7 @@ locale: es
 --- meta
 uuid: f354da89-49e4-497a-83f0-a941b087bfff
 tags:
-  - materials
+  - material
 locale: es
 ---
 
@@ -149,6 +157,17 @@ locale: es
 --- meta
 uuid: f3101c53-49e1-45dd-b804-002c922c7e01
 tags:
-  - materials
+  - material
 locale: es
+---
+
+## Documento de referencia Matriz analítica de participación política
+--- meta
+uuid: 05774c5f-20ae-4cd7-ac6e-80702eb8175e
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Matriz analítica de participación política
+    link: "assets/downloads/matriz_participation.pdf"
 ---
