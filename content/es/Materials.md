@@ -221,3 +221,14 @@ links:
   - label: Documento de referencia “Estrategias para cambiar las tecnologías”
     link: "assets/downloads/Estrategias_cambios_tecnologias.pdf"
 ---
+
+## Documento de referencia Decidim
+--- meta
+uuid: 2e72f1b7-6d2a-41c1-a07f-d7c79994d201
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Decidim
+    link: "assets/downloads/decidim.pdf"
+---
