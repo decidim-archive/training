@@ -37,20 +37,25 @@ export default class CurriculaUI extends React.Component {
     this.tabSelected = this.tabSelected.bind(this);
     this.affixer = this.affixer.bind(this);
     this.changeLocale = this.changeLocale.bind(this);
-    this.onBackButtonEvent = this.onBackButtonEvent.bind(this);
+    this.resetData = this.resetData.bind(this);
   }
 
-  onBackButtonEvent(e) {
-    e.preventDefault();
+  resetData() {
     Promise.all([data.fetch(defaultLocale.code)])
       .then(() => session.reset(data.sessions()))
       .then(() => filters.set())
       .then(() => selections.reset());
   }
 
+  back(e) {
+    e.preventDefault();
+    this.resetData();
+  }
+
   componentDidMount() {
     window.addEventListener('scroll', this.affixer);
     this.startPos = document.getElementById('filters').style.top;
+    this.resetData();
     const showTab = 'sessions';
     const phrases = data.phrases();
     const icons = data.icons();
@@ -67,11 +72,12 @@ export default class CurriculaUI extends React.Component {
 
     appState.onValue(state => this.setState(state));
     this.setState({icons, phrases, showTab});
-    window.onpopstate = this.onBackButtonEvent;
+    window.onpopstate = this.back;
   }
 
   componentWillUnmount() {
     window.removeEventListener('scroll', this.affixer);
+    this.resetData();
   }
 
   tabSelected(e) {

@@ -32,5 +32,6 @@
     "summaryTitle": "Resumen",
     "selectedSessions": "Sesiones Seleccionadas: ",
     "gettingStartedTab": "Empezando",
-    "sessionBreakdownTab": "Desglose de la sesión"
+    "sessionBreakdownTab": "Desglose de la sesión",
+    "back": "Reset and go back"
 }

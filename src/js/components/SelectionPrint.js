@@ -29,7 +29,7 @@ export default class SelectionPrint extends React.Component {
         {/* hide on print */}
         <div className="hidden-print intro session">
           <IndexLink to="/" className="home-link">
-            <i className="fa fa-chevron-left" /> Back
+            <i className="fa fa-chevron-left" />{phrases.back}
           </IndexLink>
           <div className="title">Print Preview</div>
           <div className="printout">
