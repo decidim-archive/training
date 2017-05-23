@@ -17,7 +17,13 @@ const setFilters = () => {
     {});
 
   const obj = _.each(newObj, (v, k) => _.merge(fObj.tags, {[k]: false}));
-  const nObj = _.merge(fObj, {items: {Activity: false, Workshop: false}, tags: obj});
+  const nObj = _.merge(fObj, {
+    items: {
+      Activity: false,
+      Workshop: false,
+      Methodology: false
+    },
+    tags: obj});
   return nObj;
 };
 

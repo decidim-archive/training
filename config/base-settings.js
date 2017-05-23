@@ -1,12 +1,16 @@
-//
-// DATA AND UI SETTINGS.
-// These are the settings that are used for both the DATA repository
-// and the Curricula-UI repository.
-//
-
-// List available languages
+/* eslint object-shorthand: 0 */
 
 
+/**
+* Configuration settings for your project.
+*/
+
+
+/**
+* UI settings
+*
+* Set the languages that the content is availble in
+*/
 const locales = [
   {
     code: 'es',
@@ -18,7 +22,9 @@ const locales = [
   // },
 ];
 
-// Default language
+/**
+* Set the default language
+*/
 const defaultLocale = {
   code: 'es',
   name: 'Espanol',
@@ -37,9 +43,53 @@ const dataSourcePath = 'data';
 // export const dataSource = 'remote';
 // export const dataSourcePath = 'http://localhost:8000/data/'
 
+//
+//
+
+/**
+* CONTENT SETTINGS
+*
+* Set the sections of content you would like to publish.
+* Each item in the list below should have a correspoding folder in the content/<language>/ folder.
+*
+*/
+
+const sections = [
+  {
+    title: 'materials', // The name to be used for the collection
+    metaTitle: 'material', // The keyword used by transmark for referencing
+    files: '**/*/Materials.md', // The glob path to the markdown files
+    parse: true, // Flag this collection for parsing
+    transform: true // Flag this collection for tranformation
+  },
+  {
+    title: 'activities', // The name to be used for the collection
+    metaTitle: 'activity', // The keyword used by transmark for referencing
+    files: '**/*/Activities/*.md', // The glob path to the markdown files
+    parse: true, // Flag this collection for parsing
+    transform: true // Flag this collection for tranformation
+  },
+  {
+    title: 'methodologies', // The name to be used for the collection
+    metaTitle: 'methodology', // The keyword used by transmark for referencing
+    files: '**/*/Methodology/*.md', // The glob path to the markdown files
+    parse: true, // Flag this collection for parsing
+    transform: true // Flag this collection for tranformation
+  },
+  {
+    title: 'curriculas', // The name to be used for the collection
+    metaTitle: 'curricula', // The keyword used by transmark for referencing
+    files: '**/*/Workshops/*.md', // The glob path to the markdown files
+    parse: true, // Flag this collection for parsing
+    transform: true // Flag this collection for tranformation
+  }
+];
+
+
 module.exports = {
   locales: locales,
   defaultLocale: defaultLocale,
   dataSource: dataSource,
   dataSourcePath: dataSourcePath,
-}
+  sections: sections,
+};
