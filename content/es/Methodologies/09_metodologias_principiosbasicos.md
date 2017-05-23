@@ -21,7 +21,7 @@ descripción: Esta sesión describe elementos claves a tener en cuenta cuando se
 Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una sesión de concienciación o capacitación sobre tecnologías orientadas hacia públicos compuestos por personas adultas.
 
 
-### Principios básicos de educación a las tecnologías para adultos
+## Principios básicos de educación a las tecnologías para adultos
 
 Las formaciones orientadas hacia personas adultas suelen tener lugar durante períodos de tiempo cortos pero intensos. Por ello, querrás asegurarte de que cada sesión sea lo más eficiente posible.
 
