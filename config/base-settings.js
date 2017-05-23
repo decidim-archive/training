@@ -72,7 +72,7 @@ const sections = [
   {
     title: 'methodologies', // The name to be used for the collection
     metaTitle: 'methodology', // The keyword used by transmark for referencing
-    files: '**/*/Methodology/*.md', // The glob path to the markdown files
+    files: '**/*/Methodologies/*.md', // The glob path to the markdown files
     parse: true, // Flag this collection for parsing
     transform: true // Flag this collection for tranformation
   },
@@ -80,8 +80,8 @@ const sections = [
     title: 'curriculas', // The name to be used for the collection
     metaTitle: 'curricula', // The keyword used by transmark for referencing
     files: '**/*/Workshops/*.md', // The glob path to the markdown files
-    parse: true, // Flag this collection for parsing
-    transform: true // Flag this collection for tranformation
+    parse: false, // Flag this collection for parsing
+    transform: false // Flag this collection for tranformation
   }
 ];
 

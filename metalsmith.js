@@ -1,3 +1,5 @@
+/* eslint no-return-assign: 0 */
+/* eslint no-unused-vars: 0 */
 import Metalsmith from 'metalsmith';
 import _ from 'lodash';
 import collections from 'metalsmith-collections';
@@ -11,7 +13,31 @@ import {plugin as render} from './lib/render';
 import {material, activity, methodology} from './lib/transformation';
 import {sections} from './config/base-settings';
 
-const order = _.map(sections, 'title');
+
+const order = _.map(sections, 'title'); // set the order collections in the data.json file
+
+// create an object to supply to the metaalsmith-collections plugin
+const collectionsObj = _.reduce(sections, (memo, section) =>
+  _.merge(memo, {[section.title]: section.files})
+, {});
+
+// create an object to supply to the metalsmith-transmark.parse plugin's extension argument
+const parseExtNames = _.filter(sections, (section) => (section.parse));
+const parseExtensions = () => {
+  let parseStr = '[\u000A';
+  _.forEach(parseExtNames, (ext) =>
+    parseStr = `${parseStr} markdownMetaMarker('${ext.metaTitle}'), \u000A`
+  );
+  parseStr = `${parseStr}\u000A]`;
+  return parseStr;
+};
+
+const parserMeta = _.reduce(parseExtNames, (memo, section) =>
+  _.merge(memo, {[section.title]: []})
+, {});
+
+console.log(parserMeta);
+
 
 new Metalsmith(__dirname)
   .metadata({
@@ -26,23 +52,15 @@ new Metalsmith(__dirname)
   .use(drafts())
   // #done:0 Remove the dependency to metalsmith-paths.
   .use(paths())
-  .use(collections({
-    activities: '**/*/Activities/*.md',
-    materials: '**/*/Materials.md',
-    curriculas: '**/*/Workshops/*.md',
-    methodologies: '**/*/Methodologies/*.md',
-  }))
+  .use(collections(collectionsObj))
   .use(parse({
-    extensions: [
+    extensions:
+    [
       markdownMetaMarker('methodology'),
       markdownMetaMarker('material'),
       markdownMetaMarker('activity')
     ],
-    meta: {
-      activities: [],
-      materials: [],
-      methodologies: []
-    },
+    meta: parserMeta,
     order
   }))
   .use(transform({handlers: {material, activity, methodology}, order}))
