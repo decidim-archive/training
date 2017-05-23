@@ -117,11 +117,7 @@ locale: es
 --- meta
 uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
 tags:
-<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
-  - materials
-=======
   - material
->>>>>>> organised content folders with example for downloadable materials
 locale: es
 ---
 
@@ -129,11 +125,7 @@ locale: es
 --- meta
 uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
 tags:
-<<<<<<< fb9d04819f6d15aace82d76c191239b5c30c8212
-  - materials
-=======
   - material
->>>>>>> organised content folders with example for downloadable materials
 locale: es
 ---
 
