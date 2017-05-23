@@ -36,9 +36,6 @@ const parserMeta = _.reduce(parseExtNames, (memo, section) =>
   _.merge(memo, {[section.title]: []})
 , {});
 
-console.log(parserMeta);
-
-
 new Metalsmith(__dirname)
   .metadata({
     transmark: {},
