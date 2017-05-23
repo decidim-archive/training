@@ -50,7 +50,7 @@ export default class SessionItem extends React.Component {
           {title}
           <div className="duration">
             <i className="fa fa-clock-o" />
-            {durationFormat(metas.duration)}
+            {durationFormat(metas.duration, this.props.locale)}
           </div>
           <div className="tags">
           {_.map(this.props.tags, (elems, keys) =>
@@ -72,13 +72,15 @@ export default class SessionItem extends React.Component {
         </label>
         <div>
           <SessionSection
-          id={id}
-          sections={this.props.sections}
-          prerequesites={this.props.prerequesites}
-          materials={this.props.materials}
-          activities={this.props.activities}
-          moreLess={this.moreLess}
-          meta={metas}/>
+            id={id}
+            sections={this.props.sections}
+            prerequesites={this.props.prerequesites}
+            materials={this.props.materials}
+            activities={this.props.activities}
+            moreLess={this.moreLess}
+            meta={metas}
+            locale={this.props.locale}
+          />
         </div>
       </li>
     );
@@ -103,4 +105,5 @@ SessionItem.propTypes = {
   phrases: React.PropTypes.array,
   icons: React.PropTypes.array,
   item: React.PropTypes.string,
+  locale: React.PropTypes.string,
 };

@@ -69,6 +69,7 @@ export default class Session extends React.Component {
               selected={selected}
               sections={sections}
               phrases={phrase}
+              locale={this.props.locale}
             />
           )}
         </ul>
@@ -84,4 +85,5 @@ Session.propTypes = {
   phrases: React.PropTypes.array,
   tabSelected: React.PropTypes.func,
   sessions: React.PropTypes.array,
+  locale: React.PropTypes.string,
 };

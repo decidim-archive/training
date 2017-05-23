@@ -70,6 +70,7 @@ export default class SessionSection extends React.Component {
                 title={ptitle}
                 duration={pduration}
                 data={pdata}
+                locale={this.props.locale}
                 />
             )}
             <div className={`block ${_.isEmpty(attachments) ? 'hide' : ''}`}>
@@ -104,6 +105,7 @@ export default class SessionSection extends React.Component {
                   title={stitle}
                   duration={sduration}
                   data={sdata}
+                  locale={this.props.locale}
               />
             )}
         </div>
@@ -128,4 +130,5 @@ SessionSection.propTypes = {
   materials: React.PropTypes.array,
   moreLess: React.PropTypes.func,
   meta: React.PropTypes.object,
+  locale: React.PropTypes.string,
 };

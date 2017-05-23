@@ -39,7 +39,7 @@ export default class SelectionItem extends React.Component {
 
   render() {
     const { item } = this.props;
-    const duration = durationFormat(item.duration);
+    const duration = durationFormat(item.duration, this.props.locale);
     return (
       <li key={item.id} className={item.item}>
         <h6>{item.title}</h6>
@@ -76,4 +76,5 @@ SelectionItem.propTypes = {
   id: React.PropTypes.string,
   first: React.PropTypes.bool,
   last: React.PropTypes.bool,
+  locale: React.PropTypes.string,
 };

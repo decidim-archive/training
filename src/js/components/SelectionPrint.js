@@ -22,6 +22,7 @@ export default class SelectionPrint extends React.Component {
 
   render() {
     const seles = this.state.location.state.sels;
+    const locale = this.state.location.state.locale;
     const summaryBlock = selection.selectionSummary(seles);
     const phrases = dat.phrases();
     return (
@@ -60,14 +61,17 @@ export default class SelectionPrint extends React.Component {
                 )}
               </ol>
             </div>
-            <SelectionSummary summary={summaryBlock} />
+            <SelectionSummary
+              summary={summaryBlock}
+              locale={locale}
+            />
           </div>
           <ol className="session-items">
             {_.map(seles, ({id, title, summary, activities, sections,
               prerequesites, meta, materials}, k) =>
             <li key={id} className="session-item">
               <h2><span className="serial">{k + 1}. </span>{title} - <span className="duration">
-                              {meta.duration ? durationFormat(meta.duration) : ''}
+                              {meta.duration ? durationFormat(meta.duration, locale) : ''}
                             </span></h2>
               <ul className="tags">
                 <strong>Tags: </strong>
@@ -75,11 +79,13 @@ export default class SelectionPrint extends React.Component {
                     key={i}>{item}, </li>)}
               </ul>
               <SessionSection
-              sections={sections}
-              meta={meta}
-              prerequesites={prerequesites}
-              materials={materials}
-              activities={activities} />
+                sections={sections}
+                meta={meta}
+                prerequesites={prerequesites}
+                materials={materials}
+                activities={activities}
+                locale={locale}
+              />
             </li>
             )}
           </ol>

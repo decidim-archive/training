@@ -17,7 +17,8 @@ export default class SelectionSummary extends React.Component {
         <div className="count">{phrases.selectedSessions}<strong>{summary.size}</strong>
         </div>
         <div className="duration">
-         {phrases.totalDuration} <strong>{durationFormat(summary.duration)}</strong>
+         {phrases.totalDuration}
+         <strong> {durationFormat(summary.duration, this.props.locale)}</strong>
         </div>
         <ul className="materials">
           <span>{phrases.materialsNeeded} </span>
@@ -42,4 +43,5 @@ SelectionSummary.displayName = 'SelectionSummary';
 
 SelectionSummary.propTypes = {
   summary: React.PropTypes.object,
+  locale: React.PropTypes.string,
 };

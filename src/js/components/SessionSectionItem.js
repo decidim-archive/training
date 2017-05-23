@@ -29,4 +29,5 @@ SessionSectionItem.propTypes = {
   title: React.PropTypes.string,
   duration: React.PropTypes.string,
   data: React.PropTypes.string,
+  locale: React.PropTypes.string,
 };

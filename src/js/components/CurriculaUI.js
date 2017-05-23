@@ -118,6 +118,7 @@ export default class CurriculaUI extends React.Component {
     const phrases = this.state.phrases;
     const icons = this.state.icons;
     const superSize = _.size(data.sessions());
+    const localeCode = this.state.locale;
     return (
       <div className="container-fluid">
         <div className={`main-content ${this.state.showTab}`}>
@@ -136,6 +137,7 @@ export default class CurriculaUI extends React.Component {
               tabSelected={this.tabSelected}
               showTab={this.state.showTab}
               fils={this.state.fils}
+              locale={this.state.locale}
               />
             <Session
               sessions={this.state.sessions}
@@ -143,11 +145,13 @@ export default class CurriculaUI extends React.Component {
               tabSelected={this.tabSelected}
               superSize={superSize}
               phrases={phrases}
+              locale={localeCode.code}
               />
             <Selection
               selections={this.state.selections}
               showTab={this.state.showTab}
               tabSelected={this.tabSelected}
+              locale={localeCode.code}
               />
           </div>
         </div>

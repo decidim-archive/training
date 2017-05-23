@@ -39,7 +39,7 @@ export default class Selection extends React.Component {
       <div className="actions export">
         <Link className="print"
           to={{pathname: 'print',
-            state: {sels}}} >
+            state: {sels, locale: this.props.locale}}} >
           <i className="fa fa-print" />
           <span className="tip">{phrase.selectionExport}</span>
         </Link>
@@ -54,9 +54,13 @@ export default class Selection extends React.Component {
                              id={item.id}
                              item={item}
                              first={idx === 0}
-                             last={idx >= (summary.size - 1)} />)}
+                             last={idx >= (summary.size - 1)}
+                             locale={this.props.locale}/>)}
           </ul>
-          <SelectionSummary summary={summary} />
+          <SelectionSummary
+            summary={summary}
+            locale={this.props.locale}
+          />
         </div>
       </div>;
 
@@ -91,4 +95,5 @@ Selection.propTypes = {
   phrases: React.PropTypes.array,
   tabSelected: React.PropTypes.func,
   showTab: React.PropTypes.string,
+  locale: React.PropTypes.string,
 };

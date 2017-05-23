@@ -41,13 +41,13 @@ const filterInOrder = (key, orderedVals, objs) =>
 
 // String/Integer -> string.
 // accepts duration in minutes and outputs a string of humanized time.
-const durationFormat = (ddate) => {
+const durationFormat = (ddate, locale) => {
   moment.relativeTimeThreshold('h', 9);
   moment.relativeTimeThreshold('m', 60);
   moment.relativeTimeThreshold('s', 1);
   const duration = humanizeDuration(moment.duration({
-    minutes: ddate,
-  }).asMilliseconds());
+    minutes: ddate
+  }).asMilliseconds(), {language: locale || 'en'});
   return duration;
 };
 
