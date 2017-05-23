@@ -4,6 +4,7 @@
 #sessions {
 
   padding: 0 0 $base-padding*2.5 0;
+  min-height: 130vh;
 
   .heading {
     @extend .column-heading;
