@@ -244,6 +244,18 @@ links:
     link: "assets/downloads/decidim.pdf"
 ---
 
+## Documento de referencia Matriz para evaluar una web para la participación política
+--- meta
+uuid: a28972b7-ad09-4318-960e-adac657a85fa
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Matriz para evaluar una web para la participación política
+    link: "assets/downloads/matriz_evaluar_web_participacaion.pdf"
+---
+
+
 ## Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
 --- meta
 uuid: 58e5158c-02b4-4a6f-b57c-62bff7469038

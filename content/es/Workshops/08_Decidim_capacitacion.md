@@ -61,6 +61,7 @@ Plataformas y herramientas
 - [Decidim](https://www.decidim.barcelona/), (Ayuntamiento de Barcelona)
 - [Barcelona hará cada mayo consultas ciudadanas a partir del 2018](http://www.elperiodico.com/es/noticias/barcelona/ayuntamiento-barcelona-consultas-ciudadanas-cada-mayo-desde-2018-5904532) (El Periódico)
 
+
 ### Materiales y equipamiento necesario
 - @[material](f354da89-49e4-497a-83f0-a941b087bfff)
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
@@ -71,8 +72,8 @@ Plataformas y herramientas
 - @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)
 - @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
-- Documento de referencia Decidim
-- Documento de referencia Matriz para evaluar una web para la participación política
+- @[material](2e72f1b7-6d2a-41c1-a07f-d7c79994d201)
+- @[material](a28972b7-ad09-4318-960e-adac657a85fa)
 
 
 ## Etapas
