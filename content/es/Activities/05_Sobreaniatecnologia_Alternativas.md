@@ -44,6 +44,7 @@ description:  "¿En qué se diferencian las herramientas y servicios comerciales
 ##### Actitudes
 - Como persona usuaria tiene que elegir la información que desea proteger. ¿Quieres administrar tu identidad, tus redes sociales, tus contenidos o tu ubicación? Proteger una dimensión podría conllevar exponer las otras.
 
+
 ### Referencias
 - ["Alternatives"](https://myshadow.org/increase-your-privacy#alternatives), Me & My Shadow (Tactical Tech)
 - ["Me Cambio - Conectividad"](http://www.mecambio.net/blog/category/cambio-basico/conectividad/), Me Cambio (Red de Redes de Economía Alternativa y Solidaria)
@@ -53,9 +54,10 @@ description:  "¿En qué se diferencian las herramientas y servicios comerciales
 - ["Congres de Soberania tecnologica"](http://sobtec.cat/)
 
 ### Materiales y equipamiento necesario
-- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
-- Cuadrícula vacía y llena “Elegir herramientas”
-- Documento de referencia “Estrategias para cambiar las tecnologías”
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
+- @[material](6399e12d-c34c-436b-9ac9-4c79506bf8a8)
+- @[material](6ad9de95-0fe5-4bff-b1c5-7796ef49ef20)
+- @[material](10cae4b7-5625-41d1-abbb-16c1ebd1ce9f)
 
 
 ## Actividad: "Elegir herramientas"

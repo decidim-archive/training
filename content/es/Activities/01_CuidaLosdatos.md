@@ -58,6 +58,7 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - [Teatro foro: Memoria y guión de la obra “Mercaderes de datos](http://medialab-prado.es/article/muestra-abierta-teatro-foro-cultura-digital), (https://archive.org/stream/teatro-foro-mercaderes-de-datos/memoria-mercaderes-de-datos#page/n9/mode/2up) (Ondula)
 - [Ciudades inteligentes y la vigilancia](https://antivigilancia.org/es/boletim-13-es/), (Boletin Antivigilancia)
 
+
 ### Materiales y equipamiento necesario
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
 - @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)
@@ -69,11 +70,13 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
 
 ### Materiales y folletos opcionales
-- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)Folleto Privacidad para llevar móvil
-- @[material](c0358b51-fe16-47ae-9686-927ec39d18f6)Folleto Privacidad para llevar navegador
-- @[material](417fc8a5-400f-4553-a23e-faa949beb239)Vídeo Corredores de datos
-- @[material](67c7149b-44f9-4b7a-b4ee-c8bf786b50dc)Tarjetas - Cómo funciona internet
-- @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)Tarjetas - Cómo funciona la comunicación móvil
+- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)
+- @[material](c0358b51-fe16-47ae-9686-927ec39d18f6)
+- @[material](417fc8a5-400f-4553-a23e-faa949beb239)
+- @[material](67c7149b-44f9-4b7a-b4ee-c8bf786b50dc)
+- @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)
+- @[material]()Presentation
+
 
 ## Etapas
 
@@ -87,6 +90,7 @@ Las etapas 4, 5 y 6  presentan “meta-conceptos” que permiten reflexionar ace
 1. Revisa los materiales listados en referencias.
 2. Prepárate para manejar definiciones relativas a la sombra digital, el big data y sus cinco V (volumen, velocidad, variedad, veracidad, valor), las burbujas de filtro y los algoritmos.
 3. Lee y documéntate acerca de casos de estudio que muestran el carácter discriminatorio que pueden tener los algoritmos y el big data (por ejemplo: el sistema de crédito social planeado por el gobierno de la república democrática de China, el uso de software para predecir crimen o criminales, los efectos de la manipulación de los motores de búsqueda, etc. También puedes echar mano de series como “Black Mirror” para buscar extractos que evidencien estas situaciones).
+
 
 ### Etapa 1: Introducción (10 min)
 
@@ -119,14 +123,16 @@ Para personas jubiladas y/o que usan desde hace poco internet y no entienden có
 
 Para introducir la siguiente actividad recomendamos mostrar algunos elementos visuales de la infraestructura de internet como por ejemplo un mapa del backbone de internet (http://submarine-cable-map-2016.telegeography.com/) y una granja de servidores (https://www.youtube.com/watch?v=7kjSH67BIX8) .
 
+
 ##### Actividad C: "¿Cómo ganan dinero los servicios que usas en internet?" (60 min)
 Para personas jóvenes y/o que usan mucho el móvil e internet pero desconocen su historia.
+
+@[activity](7effca32-568a-49fb-ab2f-7e835662fc96)
 
 
 ### Etapa 3: Presentación Política de los datos (20 min)
 Esta actividad consiste en mostrar a las participantes una presentación que profundiza acerca de las dimensiones varias entrelazadas en la política de los datos y permite aclarar conceptos. Dependiendo del tiempo a disposición, se recomienda complementarla con un pase del vídeo de Tactical Tech “Confesiones de un corredor de datos” (6min) o poner la charla de Marta Peirano “¿Por qué me vigilan, si no soy nadie?” (TEDxMadrid: https://www.youtube.com/watch?v=NPE7i8wuupk) (9min30s). Invita las participantes a comentar algún elemento que les haya parecido interesantes del vídeo.
 
-*@Alex: the presentation needs to be uplaoded under training/public/assets/downloads/presentation link. Then the link needs to be added to the text here*
 
 ### Etapa 4: Implicaciones del rastreo y negocio con los datos (45 min)
 Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos de entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc.” y que luego se junten por números.
@@ -135,6 +141,7 @@ Pide a cada grupo conversar y listar preguntas o dudas que tienen acerca del ras
 
 ### Etapa 5: ¿Qué puedes hacer? Trucos para gestionar tus rastros (20 min)
 Acompaña las participantes a través de la lista práctica del documento de referencia _Estrategias de resistencia para alterar tu sombra digital_. Ten en cuenta que esta no es una sesión práctica. Por ello ciñete en explicar la visión general de cada etapa.
+
 
 ### Etapa 6: Conclusión: Preguntas, aclaraciones y recursos (10 min)
 1. Mira si algo no ha quedado claro, y responde a las preguntas.

@@ -1,15 +1,14 @@
 import _ from 'lodash';
 
 import http from './http';
-import { dataSource, dataSourcePath, defaultLocale, locales } from '../../../config/base-settings';
+import { dataSource, dataSourcePath, defaultLocale, locales, sections as sectionsObj } from '../../../config/base-settings';
 
-const sections = ['curriculas',
-  'icebreakers',
-  'materials',
-  'activities',
+const sections =
+  _.concat(_.map(sectionsObj, 'title'),
   'filters',
   'phrases',
-  'icons'];
+  'icons'
+);
 
 const uiElements = [
   'phrases',
@@ -45,7 +44,7 @@ export const fetch = (locale) => {
 export default {
   fetch,
   sessions: () => appData.curriculas,
-  icebreakers: () => appData.icebreakers,
+  methodologies: () => appData.methodologies,
   materials: () => appData.materials,
   activities: () => appData.activities,
   appFilters: () => appData.filters,

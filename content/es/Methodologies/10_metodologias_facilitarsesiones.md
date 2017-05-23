@@ -17,6 +17,9 @@ descripción: Esta sesión describe elementos claves a tener en cuenta cuando se
 ## Meta información
 
 ### Descripción
+Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas
+
+## Descripción
 
 Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
 
