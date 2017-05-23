@@ -266,3 +266,25 @@ links:
   - label: Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
     link: "assets/downloads/Principios_tecnopoliticos.md"
 ---
+
+## Documento de referencia Matriz plan de comunicación
+--- meta
+uuid: 391764e8-257c-4bf0-9c33-bcd834be3206
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Matriz plan de comunicación
+    link: "assets/downloads/Comunicacion_diagrama.pdf"
+---
+
+## Documento de referencia Ejemplos de plan de comunicación exitosos
+--- meta
+uuid: 52215bc0-ff20-442d-a22b-f924b22bbd74
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Matriz plan de comunicación
+    link: "assets/downloads/plan_de_comunicacion_ejemplos.pdf"
+---

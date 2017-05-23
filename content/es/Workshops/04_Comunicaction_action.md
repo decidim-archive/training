@@ -78,13 +78,13 @@ En inglés:
 - @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)
 - @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
-- Documento de referencia Matriz plan de comunicación
-- Documento de referencia Ejemplos de plan de comunicación exitosos
+- @[material](391764e8-257c-4bf0-9c33-bcd834be3206)
+- @[material](52215bc0-ff20-442d-a22b-f924b22bbd74)
 
 ### Materiales y folletos opcionales
-- @[material](efd50bd8-fe20-4618-a410-47ec1e427b4a)Tijeras
-- @[material](a1a11819-845b-4f4d-894c-f1c03d67c6bf)Pegamento
-- @[material](b0810a5c-e587-43be-8cb0-174ba3006356)Periódicos y revistas recicladas
+- @[material](efd50bd8-fe20-4618-a410-47ec1e427b4a)
+- @[material](a1a11819-845b-4f4d-894c-f1c03d67c6bf)
+- @[material](b0810a5c-e587-43be-8cb0-174ba3006356)
 
 
 ## Etapas
