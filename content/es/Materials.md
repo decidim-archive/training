@@ -92,6 +92,16 @@ links:
     link: "https://myshadow.org/ckeditor_assets/attachments/228/browser_es_complete.pdf"
 ---
 
+## Desglose del teléfono móvil en 4 capas
+--- meta
+uuid: f943e983-4f98-4a61-bc0b-b5f7f8cd119a
+tags:
+  - material
+locale: es
+links:
+  - label: Desglose del teléfono móvil en 4 capas
+    link: "https://myshadow.org/ckeditor_assets/attachments/210/mobile_es_a5.pdf"
+---
 
 ## Vídeo Corredores de datos
 --- meta
