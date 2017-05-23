@@ -44,14 +44,13 @@ Esta sesión se puede hacer con cualquier número de participantes.
 
 
 ### Materiales y equipamiento necesario
-- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)Rotafolio
-- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)Marcadores
-- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)Papel A4
-- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)Bolígrafos
-- @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)Tarjetas - Cómo funciona la comunicación móvil
-- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)Folleto - Privacidad para llevar móvil
-
-- Documento de referencia para móviles
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)
+- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
+- @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)
+- @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)
+- @[material]() Documento de referencia para móviles
 
 ## Actividad: "¿Cómo funciona la comunicación móvil?"
 --- meta
