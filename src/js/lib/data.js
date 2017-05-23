@@ -6,6 +6,7 @@ import { dataSource, dataSourcePath, defaultLocale, locales, sections as section
 const sections =
   _.concat(_.map(sectionsObj, 'title'),
   'filters',
+  'types',
   'phrases',
   'icons'
 );
@@ -48,6 +49,7 @@ export default {
   materials: () => appData.materials,
   activities: () => appData.activities,
   appFilters: () => appData.filters,
+  appTypes: () => appData.types,
   phrases: () => appUI.phrases,
   icons: () => appUI.icons,
   locales: () => locales,

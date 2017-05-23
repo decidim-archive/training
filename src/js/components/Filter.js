@@ -23,7 +23,7 @@ export default class Filter extends React.Component {
 
     const typeFilters =
       <ul className="items">
-        {_.map(afils.items, (e, i) =>
+        {_.map(afils.types, (e, i) =>
           <FilterItem
             key={i}
             name={i}

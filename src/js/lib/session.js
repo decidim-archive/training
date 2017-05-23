@@ -12,7 +12,7 @@ const d = dispatcher();
 
 const filterSessions = (prev, update) => {
   const fils = _(update.filtersState.tags).pickBy().keys().value();
-  const its = _(update.filtersState.items).pickBy().keys().value();
+  const its = _(update.filtersState.types).pickBy().keys().value();
   const sels = _.map(update.selections, 'id');
   const currsByItem = (!_.isEmpty(its)) ?
     _.filter(data.sessions(), (c) =>
