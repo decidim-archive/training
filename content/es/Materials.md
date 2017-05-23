@@ -233,3 +233,36 @@ links:
   - label: Documento de referencia Decidim
     link: "assets/downloads/decidim.pdf"
 ---
+
+## Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
+--- meta
+uuid: 58e5158c-02b4-4a6f-b57c-62bff7469038
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
+    link: "assets/downloads/Ejemplos_de_procesos.md"
+---
+
+## Documento de referencia Ejemplos de nuevas herramientas para el trabajo colaborativo
+--- meta
+uuid: 337a7d6a-6bea-4d6c-a3da-59ce5d6bab8d
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Ejemplos de nuevas herramientas para el trabajo colaborativo
+    link: "assets/downloads/Herramientas.md"
+---
+
+## Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+--- meta
+uuid: e46bd7c7-c16d-4d60-a548-5045fe292370
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+    link: "assets/downloads/Principios_tecnopoliticos.md"
+---

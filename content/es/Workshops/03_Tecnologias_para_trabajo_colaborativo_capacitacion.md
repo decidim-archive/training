@@ -69,18 +69,18 @@ aprender a seleccionar posibles herramientas para mejorarlos.
 ### Referencias
 
 ### Materiales y equipamiento necesario
-- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)Ordenador
-- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)Proyector
-- @[material](0d1c5569-bc55-41db-8207-11edf8fd307b)Sistema de audio
-- @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)Post-its
-- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)Rotafolio
-- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)Marcadores
+- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
+- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)
+- @[material](0d1c5569-bc55-41db-8207-11edf8fd307b)
+- @[material](f6cd74bf-5a89-4fdc-8122-e305f947e14c)
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)
 
 
 ### Materiales y folletos opcionales
-- @[material]()Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
-- @[material]()Documento de referencia Ejemplos de nuevas herramientas para el trabajo colaborativo
-- @[material]()Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+- @[material](58e5158c-02b4-4a6f-b57c-62bff7469038)
+- @[material](337a7d6a-6bea-4d6c-a3da-59ce5d6bab8d)
+- @[material](e46bd7c7-c16d-4d60-a548-5045fe292370)
 
 
 ## Etapas
