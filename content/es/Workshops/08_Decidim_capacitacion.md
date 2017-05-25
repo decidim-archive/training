@@ -4,11 +4,12 @@ title:  Decidim, capacitación
 uuid: b4e0e08a-dc2c-4d3b-a98f-34cad0a6bc35
 locale: es
 source: Tactical Tech
-item: Workshop
+item: Talleres
 tags:
+  - Decidim
   - Participación política
-  - Nuevas tecnologías
-  - Calidad Democrática
+  - Alternativas
+  - Procesos colaborativos 
 duration:  180
 description: Esta sesión introduce elementos de reflexión sobre las potencialidades de la democracia participativa y de la democracia deliberativa utilizando las nuevas tecnologías. Después profundiza en las propuestas tecnopolíticas para la profundización de la democracia. Finalmente estudia casos reales de participación de ámbito municipal y profundiza en los usos que permite la plataforma del Ayuntamiento de Barcelona Decidim, para la participación política municipal.
 ---
@@ -45,13 +46,14 @@ Esta sesión introduce elementos de reflexión sobre las potencialidades de la d
 
 ### Número ideal de participantes
 
-20.
+20 participantes.
 
 
 ### Objetivos de aprendizaje
 
 ##### Conocimiento
-- Enmarcar la crisis de la representación y conocer la propuesta digital del Ayuntamiento de Barcelona para la participación política mediante las nuevas tecnologías.
+- Enmarcar la crisis de la representación.
+- Conocer la propuesta digital del Ayuntamiento de Barcelona para la participación política mediante las nuevas tecnologías.
 
 ##### Actitudes
 - Reflexionar sobre el uso de la plataforma Decidim para la participación política.
@@ -59,6 +61,7 @@ Esta sesión introduce elementos de reflexión sobre las potencialidades de la d
 ### Referencias
 Plataformas y herramientas
 - [Decidim](https://www.decidim.barcelona/), (Ayuntamiento de Barcelona)
+- [MetaDecidim]( https://www.decidim.barcelona/processes/12/f/33?locale=es), (Ayuntamiento de Barcelona)
 - [Barcelona hará cada mayo consultas ciudadanas a partir del 2018](http://www.elperiodico.com/es/noticias/barcelona/ayuntamiento-barcelona-consultas-ciudadanas-cada-mayo-desde-2018-5904532) (El Periódico)
 
 
@@ -92,26 +95,24 @@ Plataformas y herramientas
 ### Etapa 1: Introducción (10 min)
 
 1. Preséntate brevemente así como la sesión, luego pide a las personas participantes que se presenten y respondan a las siguientes dos preguntas:
-- ¿Cuál es tu relación con Decidim? (Si has entrado alguna vez, si estás registrada, etc.).
-- ¿Qué quieres aprender en esta sesión?
+	- ¿Cuál es tu relación con Decidim? (Si has entrado alguna vez, si estás registrada, etc.).
+	- ¿Qué quieres aprender en esta sesión?
 2. Teniendo en cuenta las respuestas a la primera pregunta y las expectativas, da un breve resumen de la sesión, incluyendo los objetivos, lo que se cubrirá (y lo que no), y de cuánto tiempo se dispone.
 3. Presenta brevemente los acuerdos compartidos para esta sesión, pregunta si hay dudas y si las participantes quieren añadir algún acuerdo.
 
 
 ### Etapa 2: Espectograma - rompehielos (10 min)
 
-Haz algunas afirmaciones polarizadoras para tomar la temperatura de las personas participantes con respecto a sus opiniones sobre Decidim. Pide que se posicionen en la sala a lo largo de una linea que has trazado en el suelo respecto a si están de acuerdo o en desacuerdo con la declaración. Pide a algunas participantes que expliquen porque se han situado donde estas y deja que fluya la conversación sin dejar que se genere situaciones de confrontación.
+Haz algunas afirmaciones polarizadoras para tomar la temperatura de las personas participantes con respecto a sus opiniones sobre Decidim. Pide que se posicionen en la sala a lo largo de una linea que has trazado en el suelo respecto a si están de acuerdo o en desacuerdo con la declaración. Pide a algunas participantes que expliquen porque se han situado donde estan y deja que fluya la conversación sin dejar que se generen situaciones de confrontación.
 
 Por ejemplo:
 - La participación política municipal puede mejorar mucho con el uso de Decidim.
 - Decidim va a excluir de la participación a las personas mayores que no son hábiles con los ordenadores.
 - El dinero que el Ayuntamiento invierte en Decidim estaría mejor invertido en alguna otra necesidad más básica.
 - Da miedo usar Decidim porque el Ayuntamiento se queda con tus datos y puede rastrear tus opciones políticas.
-- Decidim es una de las mejores iniciativas del ayuntamiento de Barcelona.
 
 Aspectos a considerar y observar:
 - Cuántas personas participantes se polarizan en unos y otros extremos.
-- Cuántas afirmaciones hay que hacer
 - Cuáles afirmaciones son las que más polarizan
 - Llevar otras preguntas preparadas, en caso de que las participantes no se polaricen con estas afirmaciones.
 
@@ -119,28 +120,28 @@ Aspectos a considerar y observar:
 ### Etapa 3: La crisis de las instituciones representativas (15 min)
 
 Introduce la crisis de las instituciones representativas, a nivel global: La ciudadanía no se siente representada por sus representantes ni por sus instituciones.
-Pregunta qué momentos históricos o acontecimientos expresan, a nivel global o local, la crisis de las instituciones representativas. Lleva algunos ejemplos preparados (por ejemplo, el "Que se vayan todos, que no quede ni uno solo", diciembre de 2001 en Argentina).
+Pregunta qué momentos históricos o acontecimientos expresan, a nivel global o local, la crisis de las instituciones representativas. Lleva algunos ejemplos preparados (por ejemplo, el movimiento 15M o el "Que se vayan todos, que no quede ni uno solo", diciembre de 2001 en Argentina).
 
 
 ### Etapa 4: Democracia participativa y democracia deliberativa (15 min)
 
 Por parejas, una parejas han de definir qué sería una democracia participativa y otras parejas han de definir qué sería una democracia deliberativa. Con sus teléfonos móviles, pueden consultar en Internet, para obtener referencias.
 Pide una puesta en común y anota las características de cada una. Debe quedar clara la diferencia fundamental:
--la democracia participativa se centra en discutir QUIÉN tiene que tomar las decisiones, y la democracia deliberativa se centra en discutir CÓMO se deben tomar las decisiones
-- el principal instrumento de la democracia participativa es el voto y el principal instrumento de la democracia deliberativa es el debate público
+	- la democracia participativa se centra en discutir QUIÉN tiene que tomar las decisiones, y la democracia deliberativa se centra en discutir CÓMO se deben tomar las decisiones
+	- el principal instrumento de la democracia participativa es el voto y el principal instrumento de la democracia deliberativa es el debate público
 
 
 ### Etapa 5: Experiencias de democracia participativa y democracia deliberativa (15 min)
 
 Pide ejemplos de procesos de democracia participativa y de democracia deliberativa, locales o globales. Haz dos listados. Si un proceso es participativo y deliberativo, anótalo en las dos listas.
 
-Lleva algunos casos preparados, reales o ideales, y pide a las personas participantes que los clasifiquen (partipativa, deliberativa o ninguna de las dos).
+Lleva algunos casos preparados, reales o ideales, y pide a las personas participantes que los clasifiquen (participativa, deliberativa o ninguna de las dos).
 
 Por ejemplo:
 - en una reunión de una cooperativa de vivienda se votan las cuotas y el presupuesto anual
 - en una Asociación de Familias se hace una encuesta para consultar qué temas se quieran tratar en la escuela de madres
 - en un club deportivo, los compromisarios votan al equipo directivo
-- un grupo que quiere formar una asociación abre un documento colaborativo para escribir, colaborativamente, la propuesta de estatutos
+- un grupo que quiere formar una asociación abre un documento para escribir, colaborativamente, la propuesta de estatutos
 - se recogen firmas para una iniciativa legislativa popular
 
 
@@ -150,7 +151,7 @@ Introduce la capacidad de las nuevas tecnologías para facilitar la democracia p
 
 Existe la confianza en que las nuevas tecnologías pueden incrementar la cantidad, la variedad y la paridad de los actores que toman parte en el gobierno común de la ciudad, ampliando y enriqueciendo los ámbitos, maneras y periodos en los que participar y deliberar.
 
-Es posible que en las actividades anteriores ya se hayan mencionado procesos que ha utilizado algunas nuevas tecnologías.
+Es posible que en las actividades anteriores ya se hayan mencionado procesos que han utilizado algunas nuevas tecnologías.
 
 Si es así, recógelos como introducción a la siguiente actividad.
 
@@ -166,7 +167,7 @@ Utilizando el documento "Matriz para evaluar una web para la participación pol�
 - si los servidores son confiables
 - si podré eliminar mi cuenta
 - si permite abrir procesos liderados/iniciados por la ciudadanía
-- permite desarrollar procesos de carácter vinculante
+- si permite desarrollar procesos de carácter vinculante
 
 
 ### Etapa 8: Presentación de la plataforma digital Decidim (15 mins)
@@ -196,7 +197,7 @@ Por parejas o individualmente, en ordenadores o usando los teléfonos móviles, 
 
 ### Etapa 10: Valoración de los procesos participativos (15 mins)
 
-Retomando las nociones de democracia participativa y democracia deliberativa, y retomando las principales preguntas que han surgido en la actividad 7, pide a las participantes que hagan una valoración los procesos participativos de la plataforma Decidim.
+Retomando las nociones de democracia participativa y democracia deliberativa, y retomando las principales preguntas que han surgido en la actividad 7, pide a las participantes que hagan una valoración de los procesos participativos de la plataforma Decidim.
 
 Anota las principales valoraciones positivas o los aspectos a mejorar.
 
@@ -223,8 +224,8 @@ Introduce MetaDecidim, que es el proceso participativo para el diseño y la cons
 
 1. Mira si algo no ha quedado claro, y responde a las preguntas.
 2. Orienta las participantes hacia los recursos.
-3. Anímales a invitar a otras personas a participar en la sesión de concienciación sobre Decidim
-4. Anímales a participar en la sesión Cuida los datos
+3. Anímales a participar en la sesión Cuida los datos
+
 -------------------------------
 <!---
 BCN_currículo/Capacitación/TEMPLATE

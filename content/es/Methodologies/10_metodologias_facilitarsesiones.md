@@ -1,15 +1,13 @@
-# Organizar una formación
+﻿# Organizar una formación
 --- meta
 title: Organizar una formación
 uuid: ecb1aa03-e3e5-4281-9096-e3fe5cab21f3
 locale: es
 source: Tactical Tech
-item: Methodology
+item: Metodologías
 tags:
-  - educación adultos
-  - tecnologías
-  - facilitación
-  - ADIDS
+  - Educación adultos
+  - Facilitación
 duration: 30
 descripción: Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una formación, un taller o en general una sesión de concienciación o capacitación sobre tecnologías orientadas a públicos compuestos por personas adultas.
 ---
@@ -247,5 +245,5 @@ Las evaluaciones son una parte importante de cualquier formación, ya que pueden
 
 -------------------------------
 <!---
-BCN_currículo/Capacitación/TEMPLATE
+BCN_currículo/Metodologías/TEMPLATE
 -->

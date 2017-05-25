@@ -4,12 +4,10 @@ title: Principios básicos educación adultos
 uuid: d965a5be-d4fc-4e88-b702-231537a6c141
 locale: es
 source: Tactical Tech
-item: Methodology
+item: Metodologías
 tags:
-  - educación adultos
-  - tecnologías
-  - facilitación
-  - ADIDS
+  - Educación adultos
+  - Facilitación
 duration: 45
 descripción: Esta sesión describe elementos claves a tener en cuenta cuando se desarrolla una sesión de concienciación o capacitación sobre tecnologías orientadas hacia públicos compuestos por personas adultas.
 ---
@@ -84,5 +82,5 @@ Presenta opciones, no instrucciones.
 
 -------------------------------
 <!---
-BCN_currículo/Capacitación/TEMPLATE
+BCN_currículo/Metodologías/TEMPLATE
 -->

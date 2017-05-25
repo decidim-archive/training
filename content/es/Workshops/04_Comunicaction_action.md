@@ -4,13 +4,11 @@ title: Comunicación para la acción
 uuid: 5de50344-919a-401a-a7e5-48ff689aa327
 locale: es
 source: Tactical Tech
-item: Workshop
+item: Talleres
 tags:
-  - Discusión
-  - Selección de herramientas
   - Plan de comunicación
-  - Audiencia e impacto
-  - Alternativas y soberanía tecnológica
+  - Alternativas
+  - Procesos colaborativos 
 duration: 125
 description: "¿Cómo mejorar la difusión e impacto de los procesos de participación ciudadanas? Metodologías y procesos para saber cómo analizar y diseñar un plan de comunicación para las iniciativas ciudadanas."
 ---
@@ -38,7 +36,7 @@ description: "¿Cómo mejorar la difusión e impacto de los procesos de particip
 
 ### Número ideal de participantes
 
-10-20.
+10-20 participantes.
 
 
 ### Objetivos de aprendizaje
@@ -63,11 +61,10 @@ description: "¿Cómo mejorar la difusión e impacto de los procesos de particip
 - [El kit de la lucha en internet](https://www.traficantes.net/libros/el-kit-de-la-lucha-en-internet), (Margarita Padilla)
 - [Nuevo periodismo](http://revistaalexia.es/que-podemos-aprender-del-nuevo-nuevo-periodismo/), (Revista Alexia)
 - [Comunicación transmedia](http://revistaalexia.es/la-realidad-ya-es-transmedia/), (Revista Alexia)
-En inglés:
-- [Know your audience](https://womensrights.informationactivism.org/en/basics/your-audience), (Tactical Tech)
-- [Cultural Jamming and Creative campaigning](https://womensrights.informationactivism.org/en/strategies/culture-jamming-and-creative-campaigning), (Tactical Tech & CREA)
-- [Beautiful trouble](http://beautifultrouble.org/), (Beautiful trouble)
-- [Blue print for revolution](http://www.blueprintforrevolution.com/), (Srdja Popovic)
+- [En inglés: Know your audience](https://womensrights.informationactivism.org/en/basics/your-audience), (Tactical Tech)
+- [En inglés: Cultural Jamming and Creative campaigning](https://womensrights.informationactivism.org/en/strategies/culture-jamming-and-creative-campaigning), (Tactical Tech & CREA)
+- [En inglés: Beautiful trouble](http://beautifultrouble.org/), (Beautiful trouble)
+- [En inglés: Blue print for revolution](http://www.blueprintforrevolution.com/), (Srdja Popovic)
 
 ### Materiales y equipamiento necesario
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
@@ -101,7 +98,7 @@ En inglés:
 1. Preséntate brevemente así como la sesión. Luego pide a las participantes que se presenten y respondan a las siguientes dos preguntas:
 	 - ¿Un ejemplo de campaña de comunicación exitosa?
 	 - ¿Qué quieres aprender en esta sesión?
-2. Lista las respuestas a la primera y segunda pregunta en la pared. Teniendo en cuenta las respuestas a la primera pregunta y las expectativas, da un breve resumen de la sesión, incluyendo los objetivos, lo que se cubrirá (y lo qué no), y de cuánto tiempo se dispone.
+2. Teniendo en cuenta las respuestas a la primera pregunta y las expectativas, da un breve resumen de la sesión, incluyendo los objetivos, lo que se cubrirá (y lo qué no), y de cuánto tiempo se dispone.
 3. Presenta brevemente los acuerdos compartidos para esta sesión, pregunta si hay dudas y si las participantes quieren añadir algún acuerdo.
 
 
@@ -110,7 +107,7 @@ En inglés:
 Aquí nos enfocamos en cómo se puede analizar un plan de comunicación. La facilitadora expone la propuesta de matriz detallada más abajo y lo aplica a un caso que conoce bien.
 Este ejercicio se lleva a cabo dividiendo las participantes en varios grupos de entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc.” y que luego se junten por números.
 
-Cada grupo elige un caso de campaña que ellas han expuesto, de los que ha expuesto la facilitadora, u otro que se les ocurra. También pueden inventarse una campaña que no existe, y luego le aplican parcialmente la matriz. Si se quiere analizar toda la matriz hay que calcular el doble de tiempo para sta actividad y extenderla a 60 min.
+Cada grupo elige un caso de campaña que ellas han expuesto, de los que ha expuesto la facilitadora, u otro que se les ocurra. También pueden inventarse una campaña que no existe, y luego le aplican parcialmente la matriz. Si se quiere analizar toda la matriz hay que calcular el doble de tiempo para esta actividad y extenderla a 60 min.
 
 Puedes imprimir varios documentos de referencia de la _Matriz de un plan de comunicación o proyectarla usando el retroproyector_. Otra posible metodología consiste en contar con varios periódicos y revistas viejos, tijeras, pegamento y dejar que las participantes preparen una presentación más visual de su plan de comunicación.
 
@@ -137,7 +134,7 @@ Mientras presentas estos ejemplos destaca los siguientes elementos:
 ### Etapa 5: Profundizar (20 min)
 
 Cada grupo vuelve a su plan de comunicación y lo evalúa de nuevo tomando en cuenta las pautas que se acaban de poner en común y cuestionándolo acerca de:
-- ¿Quién influencia a las personas que quieren influenciar?
+- ¿Quién influencia a las personas que quieres influenciar?
 - ¿Cómo lo hacen? ¿Que métodos, procesos, herramientas, mensajes utilizan?
 - ¿Han elegido las herramientas adecuadas para llevar a cabo su plan de comunicación?
 - ¿Han pensando y distribuido correctamente los roles y responsabilidades de cada una para llevar a cabo este plan de comunicación?
