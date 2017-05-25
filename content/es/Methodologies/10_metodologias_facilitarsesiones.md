@@ -1,4 +1,4 @@
-﻿# Organizar una formación
+# Organizar una formación
 --- meta
 title: Organizar una formación
 uuid: ecb1aa03-e3e5-4281-9096-e3fe5cab21f3
