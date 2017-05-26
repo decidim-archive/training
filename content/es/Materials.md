@@ -178,25 +178,25 @@ tags:
 locale: es
 ---
 
-## Documento de referencia Matriz analítica de participación política
+## Matriz analítica de participación política
 --- meta
 uuid: 05774c5f-20ae-4cd7-ac6e-80702eb8175e
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Matriz analítica de participación política
+  - label: Matriz analítica de participación política
     link: "assets/downloads/matriz_participation.pdf"
 ---
 
-## Documento de referencia Procesos de participación política
+## Procesos de participación política
 --- meta
 uuid: 8e2044e0-6201-47bd-9066-8bc5ff6df500
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Procesos de participación política
+  - label: Procesos de participación política
     link: "assets/downloads/Democracia2.0.pdf"
 ---
 
@@ -222,14 +222,14 @@ links:
     link: "assets/downloads/Elegir_herramientas_lleno.pdf"
 ---
 
-## Documento de referencia “Estrategias para cambiar las tecnologías”
+## Estrategias para cambiar las tecnologías
 --- meta
 uuid: 10cae4b7-5625-41d1-abbb-16c1ebd1ce9f
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia “Estrategias para cambiar las tecnologías”
+  - label: Estrategias para cambiar las tecnologías
     link: "assets/downloads/Estrategias_cambios_tecnologias.pdf"
 ---
 
@@ -244,69 +244,69 @@ links:
     link: "assets/downloads/decidim.pdf"
 ---
 
-## Documento de referencia Matriz para evaluar una web para la participación política
+## Matriz para evaluar una web para la participación política
 --- meta
 uuid: a28972b7-ad09-4318-960e-adac657a85fa
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Matriz para evaluar una web para la participación política
+  - label: Matriz para evaluar una web para la participación política
     link: "assets/downloads/matriz_evaluar_web_participacaion.pdf"
 ---
 
 
-## Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
+## Procesos colaborativos facilitados por herramientas digitales
 --- meta
 uuid: 58e5158c-02b4-4a6f-b57c-62bff7469038
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Ejemplos de procesos colaborativos facilitados por herramientas digitales
+  - label: Procesos colaborativos facilitados por herramientas digitales
     link: "assets/downloads/Ejemplos_de_procesos.md"
 ---
 
-## Documento de referencia Ejemplos de nuevas herramientas para el trabajo colaborativo
+## Nuevas herramientas para el trabajo colaborativo
 --- meta
 uuid: 337a7d6a-6bea-4d6c-a3da-59ce5d6bab8d
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Ejemplos de nuevas herramientas para el trabajo colaborativo
+  - label: Nuevas herramientas para el trabajo colaborativo
     link: "assets/downloads/Herramientas.md"
 ---
 
-## Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+## Principios tecnopolíticos en procesos colaborativos 
 --- meta
 uuid: e46bd7c7-c16d-4d60-a548-5045fe292370
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales
+  - label: Principios tecnopolíticos en procesos colaborativos 
     link: "assets/downloads/Principios_tecnopoliticos.md"
 ---
 
-## Documento de referencia Matriz plan de comunicación
+## Matriz plan de comunicación
 --- meta
 uuid: 391764e8-257c-4bf0-9c33-bcd834be3206
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Matriz plan de comunicación
+  - label: Matriz plan de comunicación
     link: "assets/downloads/Comunicacion_diagrama.pdf"
 ---
 
-## Documento de referencia Ejemplos de plan de comunicación exitosos
+## Ejemplos de planes de comunicación exitosos
 --- meta
 uuid: 52215bc0-ff20-442d-a22b-f924b22bbd74
 tags:
   - material
 locale: es
 links:
-  - label: Documento de referencia Matriz plan de comunicación
+  - label: Matriz planes de comunicación exitosos
     link: "assets/downloads/plan_de_comunicacion_ejemplos.pdf"
 ---
