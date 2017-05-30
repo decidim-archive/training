@@ -50,12 +50,12 @@ description:  "¿En qué se diferencian las herramientas y servicios comerciales
 - Tomar en cuenta criterios éticos, sociales y políticos a la hora de elegir las herramientas y servicios.
 
 ### Referencias
-- ["Alternatives"](https://myshadow.org/increase-your-privacy#alternatives), Me & My Shadow (Tactical Tech)
-- ["Me Cambio - Conectividad"](http://www.mecambio.net/blog/category/cambio-basico/conectividad/), Me Cambio (Red de Redes de Economía Alternativa y Solidaria)
-- ["Dossier Soberanía Tecnológica"](http://www.plateforme-echange.org/IMG/pdf/dossier-st-cast-2014-06-30.pdf), (RITIMO)
-- ["Anti Mobile World Congress "](http://antimwc.alscarrers.org/)
-- ["Mobile Social Congress"](http://goodelectronics.org/agenda/mobile-social-congress)
-- ["Congres de Soberania tecnologica"](http://sobtec.cat/)
+- [Alternatives](https://myshadow.org/increase-your-privacy#alternatives), Me & My Shadow (Tactical Tech)
+- [Me Cambio - Conectividad](http://www.mecambio.net/blog/category/cambio-basico/conectividad/), Me Cambio (Red de Redes de Economía Alternativa y Solidaria)
+- [Dossier Soberanía Tecnológica](http://www.plateforme-echange.org/IMG/pdf/dossier-st-cast-2014-06-30.pdf), (RITIMO)
+- [Anti Mobile World Congress](http://antimwc.alscarrers.org/)
+- [Mobile Social Congress](http://goodelectronics.org/agenda/mobile-social-congress)
+- [Congres de Soberania tecnologica](http://sobtec.cat/)
 
 ### Materiales y equipamiento necesario
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)

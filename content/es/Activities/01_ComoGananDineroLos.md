@@ -34,6 +34,12 @@ description: "¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 ##### Conocimiento
 - Entender los fundamentos del rastreo y negocio de datos: ¿Qué metodologías se usan para perfilar a las personas y cuales son los modelos de negocios de las grandes empresas que nos ofrecen servicios en internet?.
 
+### Referencias
+- [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective)
+- [Vivir con algoritmos](https://myshadow.org/resources/algorithms?locale=en), (Tactical Technology Collective)
+- [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
+- [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
+
 ### Materiales y equipamiento necesario
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
 - @[material](f354da89-49e4-497a-83f0-a941b087bfff)

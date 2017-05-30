@@ -49,7 +49,7 @@ description: "¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a 
 
 
 ### Referencias
-- ["Herramientas para Android"](https://securityinabox.org/es/android/), Caja de Herramientas de Seguridad (Tactical Tech / Front Line Defenders)
+- [Herramientas para Android](https://securityinabox.org/es/android/), Caja de Herramientas de Seguridad (Tactical Tech / Front Line Defenders)
 - [Quema tu móvil](https://quematumovil.pimienta.org/), (Pimienta)
 - [Mobile Safety](https://www.level-up.cc/curriculum/mobile-safety/) (Level-Up Trainers' Curriculum)
 - [Umbrella app for Android](https://play.google.com/store/apps/details?id=org.secfirst.umbrella&hl=en) (Security First)
@@ -92,7 +92,6 @@ description: "¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a 
 La siguiente actividad permite a las participantes ver cómo funciona realmente la comunicación móvil y entender a qué información tienen acceso las personas terceras a lo largo del camino.
 
 @[activity](541f7a7b-e83f-4018-8646-b86fcbccca4)
-
 
 ### Etapa 3: ¿Cómo funciona un teléfono? ¿Qué terceros tienen acceso y a qué partes? (40 min)
 La siguiente actividad muestra cómo funciona un teléfono móvil y cómo se utilizan diferentes partes del teléfono móvil para la recopilación y el rastreo de la información.
