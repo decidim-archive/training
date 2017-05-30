@@ -3,7 +3,6 @@ import Bacon from 'baconjs';
 import dispatcher from './dispatcher';
 
 import data from './data';
-// import { locales, defaultLocale } from '../../../config/base-settings';
 
 const d = dispatcher();
 const defaults = data.defaultLocale();

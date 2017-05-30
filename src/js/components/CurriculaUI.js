@@ -154,6 +154,7 @@ export default class CurriculaUI extends React.Component {
               locale={localeCode.code}
               />
           </div>
+          <div className="credits"><p><a href="https://github.com/decidim/training/blob/master/content/README">Presentación y créditos</a></p></div>
         </div>
       </div>
     );
