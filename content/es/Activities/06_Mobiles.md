@@ -68,7 +68,6 @@ description: "¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a 
 - @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)
 - @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)
 - @[material](f943e983-4f98-4a61-bc0b-b5f7f8cd119a)
-- @[material]()Documento de referencia para móviles
 
 
 ### Materiales y folletos opcionales
@@ -79,6 +78,7 @@ description: "¿Cómo funciona la comunicación móvil? ¿Quién tiene acceso a 
 ## Etapas
 
 ### Etapa 1: Introducción (10 min)
+
 
 1. Preséntate brevemente así como la sesión, luego pide a las participantes que se presenten y respondan a las siguientes preguntas:
 	- ¿Para qué usas tu teléfono?
