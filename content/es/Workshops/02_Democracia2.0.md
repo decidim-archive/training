@@ -64,12 +64,12 @@ Plataformas y herramientas
 - [Loomio](https://www.loomio.org/), (Loomio)
 - [Kahoot](https://en.wikipedia.org/wiki/Kahoot!), (Kahoot)
 - [Open Irekia](http://irekia.euskadi.eus/), (Gobierno Basco)
-- [Open Ministry / Avoin Ministeriö](http://openministry.info/, http://avoinministerio.fi/), (Ministry Finland)
+- [Open Ministry](http://openministry.info/), (Ministry Finland)
 - [Pol.is](https://pol.is), (Polis)
 - [Turnometro](http://turnometro.org/), (MedialabPrado)
 - [Your Priorities](https://yrpri.org), (Your Priorities)
 Investigación y guías
-- ["Guía de Alfabetización Digital Crítica: una invitación a reflexionar y actuar"](https://archive.org/stream/AlfabetizacionDigitalCriticaUnaInvitacionAReflexionarYActuar/Alfabetizaci%C3%B3n%20Digital%20Cr%C3%Adtica%20-%20Una%20invitaci%C3%B3n%20a%20reflexionar%20y%20actuar#page/n0/mode/2up), (Ondula)
+- [Guía de Alfabetización Digital Crítica: una invitación a reflexionar y actuar](https://archive.org/stream/AlfabetizacionDigitalCriticaUnaInvitacionAReflexionarYActuar/Alfabetizaci%C3%B3n%20Digital%20Cr%C3%Adtica%20-%20Una%20invitaci%C3%B3n%20a%20reflexionar%20y%20actuar#page/n0/mode/2up), (Ondula)
 
 ### Materiales y equipamiento necesario
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)

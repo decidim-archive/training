@@ -57,6 +57,7 @@ Esta sesión introduce elementos de reflexión sobre las potencialidades de la p
 
 ### Referencias
 - [Decidim](https://www.decidim.barcelona/), (Ayuntamiento de Barcelona)
+- [MetaDecidim]( https://www.decidim.barcelona/processes/12/f/33?locale=es), (Ayuntamiento de Barcelona)
 
 ### Materiales y equipamiento necesario
 - @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
