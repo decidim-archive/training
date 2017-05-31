@@ -1,3 +1,5 @@
+/* eslint import/first: 0 */
+
 import React from 'react';
 import { Router, Route, browserHistory } from 'react-router';
 import ReactDOM from 'react-dom';
@@ -12,7 +14,9 @@ import filters from './lib/filters';
 import CurriculaUI from './components/CurriculaUI';
 import SelectionPrint from './components/SelectionPrint';
 
+
 import '../scss/app.scss';
+
 
 ReactDOM.render(
   <Router history={browserHistory} >

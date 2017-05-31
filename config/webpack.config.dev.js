@@ -55,9 +55,9 @@ module.exports = {
         }
       },
       { test: /\.(js|jsx)$/, include: paths.appSrc, loader: 'babel', query: { cacheDirectory: true } },
-      { test: /\.css/, loader: 'css-loader' },
-      { test: /\.scss$/, loaders: [ 'style-loader', 'css-loader?sourceMap', 'sass-loader?sourceMap' ] },
-      { test: /\.(woff|woff2|eot|ttf|svg)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: 'url-loader?limit=10000&mimetype=application/font-woff', query: { name: 'static/media/[name].[hash:8].[ext]' } },
+      { test: /\.css$/, loader: 'style-loader!css-loader'},
+      { test: /\.scss$/, loaders: [ 'style-loader', 'css-loader', 'sass-loader?sourceMap' ] },
+      { test: /\.(woff|woff2|eot|ttf|svg)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: 'file-loader?limit=10000&mimetype=application/font-woff', query: {name: 'static/fonts/[name].[hash:8].[ext]'}},
       { test: /\.(png|jpg|gif)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: 'file-loader', query: { name: 'static/media/[name].[hash:8].[ext]' } },
       { test: /\.json$/, loader: 'json' },
       { test: /\.svg$/, loader: 'file', query: { name: 'static/media/[name].[hash:8].[ext]' } },
