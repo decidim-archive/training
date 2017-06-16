@@ -18,6 +18,8 @@ varias personas desde tu navegador. También integra un pad para cada llamada.
   HTTPS) pero los servidores pueden ver los contenidos.
 - Anonimato: No hay que crear una cuenta. No funciona con Tor.
 
+\clearpage
+
 Crabgrass
 =========
 
@@ -36,6 +38,8 @@ organizar comisiones, organizar redes de grupos, etc.
   servidor puede ver los contenidos.
 - Anonimato: Hay que crear una cuenta (sin verificación de email). La web
   funciona con Tor.
+
+\clearpage
 
 ownCloud y Nextcloud
 ====================
@@ -67,6 +71,8 @@ remplace totalmente *ownCloud* en el futuro.
 - Anonimato: Hay que tener una cuenta (sin verificación de email). La web y la
   aplicación de escritorio funcionan con Tor.
 
+\clearpage
+
 Sandstorm
 =========
 
@@ -83,6 +89,8 @@ compartir archivos, hojas de calculo, tableros de kanban, etc.
 - Cifrado: Las conexiones con los servidores pueden ser cifradas con HTTPS pero
   los servidores pueden ver los contenidos.
 - Anonimato: Hay que tener una cuenta. La web funciona con Tor.
+
+\clearpage
 
 Loomio
 ======
@@ -102,6 +110,8 @@ formulación de propuestas y la recogida de opiniones.
 - Anonimato: Hay que tener una cuenta (asociada a un email) para crear un hilo
   para una decisión pero luego se pueden invitar otras personas por email. La
   web no funciona bien con Tor.
+
+\clearpage
 
 Kanboard
 ========
