@@ -52,6 +52,8 @@ técnica para hacer este trabajo.
 [^pimienta]: https://estevia.pimienta.org/
 [^gracia]:   https://aixada.org/
 
+\clearpage
+
 # Creación de nodos en el mapa de la red guifi·net
 
 guifi·net [^guifi] es un proyecto tecnológico, social y económico impulsado por
@@ -93,6 +95,8 @@ tienen funcionalidades muy potentes y ofrece mucha flexibilidad.
 [^guifi]:    https://guifi.net/
 [^mapa]:     https://guifi.net/en/node/2413/view/map
 [^castello]: http://castello.guifi.net/sites/default/files/InstalarNodoCliente_1.pdf
+
+\clearpage
 
 # Priorización de la lista de espera de la cooperativa de vivienda Abril
 
@@ -138,6 +142,8 @@ resultados finales dieron satisfacción al grupo entero.
 [^condorcet]: https://es.wikipedia.org/wiki/M%C3%A9todo_de_Condorcet
 [^schulze]:   https://es.wikipedia.org/wiki/M%C3%A9todo_Schulze
 [^civs]:      http://civs.cs.cornell.edu/
+
+\clearpage
 
 # Recompilación automática de convocatorias y noticias para el 15M Barcelona
 

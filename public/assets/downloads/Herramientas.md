@@ -18,6 +18,16 @@ varias personas desde tu navegador. También integra un pad para cada llamada.
   HTTPS) pero los servidores pueden ver los contenidos.
 - Anonimato: No hay que crear una cuenta. No funciona con Tor.
 
+\vspace {2cm}
+
+![Pantalla principal con dos interlocutores](Herramientas/Jitsi/01-llamada.png)
+
+![Pad integrado](Herramientas/Jitsi/02-pad.png)
+
+![Chat integrado](Herramientas/Jitsi/03-chat.png)
+
+\clearpage
+
 Crabgrass
 =========
 
@@ -36,6 +46,26 @@ organizar comisiones, organizar redes de grupos, etc.
   servidor puede ver los contenidos.
 - Anonimato: Hay que crear una cuenta (sin verificación de email). La web
   funciona con Tor.
+
+\vspace {2cm}
+
+![Login](Herramientas/Crabgrass/01-inicio.png)
+
+![Creación de un nuevo grupo](Herramientas/Crabgrass/02-nuevo-grupo.png)
+
+![Permisos del grupo](Herramientas/Crabgrass/03-permisos.png)
+
+![Creación de una nueva página](Herramientas/Crabgrass/04-nueva-pagina.png)
+
+![Edición de una página](Herramientas/Crabgrass/05-wiki.png)
+
+![Lista de tareas](Herramientas/Crabgrass/06-tareas.png)
+
+![Hilo de debate](Herramientas/Crabgrass/07-debate.png)
+
+![Voto](Herramientas/Crabgrass/08-voto.png)
+
+\clearpage
 
 ownCloud y Nextcloud
 ====================
@@ -67,6 +97,28 @@ remplace totalmente *ownCloud* en el futuro.
 - Anonimato: Hay que tener una cuenta (sin verificación de email). La web y la
   aplicación de escritorio funcionan con Tor.
 
+\vspace {2cm}
+
+![Listado de archivos al inicio](Herramientas/ownCloud/01-inicio.png)
+
+![Compartir una carpeta con un enlace compartido](Herramientas/ownCloud/02-compartir.png)
+
+![Subcarpetas](Herramientas/ownCloud/03-carpeta.png)
+
+![Edición colaborativa de un documento de texto (ODT)](Herramientas/ownCloud/04-documento.png)
+
+![Carpeta sincronizada en el escritorio](Herramientas/ownCloud/05-carpeta-escritorio.png)
+
+![Opciones de sincronización de la aplicación de sincronización](Herramientas/ownCloud/06-configuracion-escritorio.png)
+
+![Gestión de contactos](Herramientas/ownCloud/07-contactos.png)
+
+![Calendario](Herramientas/ownCloud/08-calendario.png)
+
+![Lista de tareas](Herramientas/ownCloud/09-tareas.png)
+
+\clearpage
+
 Sandstorm
 =========
 
@@ -83,6 +135,26 @@ compartir archivos, hojas de calculo, tableros de kanban, etc.
 - Cifrado: Las conexiones con los servidores pueden ser cifradas con HTTPS pero
   los servidores pueden ver los contenidos.
 - Anonimato: Hay que tener una cuenta. La web funciona con Tor.
+
+\vspace {2cm}
+
+![App Market de la web de Sandstorm](Herramientas/Sandstorm/01-app-market.png)
+
+![Listado de aplicaciones en el App Market](Herramientas/Sandstorm/02-ether-apps.png)
+
+![Aplicaciones instaladas por defecto](Herramientas/Sandstorm/03-apps.png)
+
+!["Granos": documentos de varios tipos](Herramientas/Sandstorm/04-grains.png)
+
+![Tablero de Kanban](Herramientas/Sandstorm/05-kanban.png)
+
+![Detalle de una ficha del tablero de Kanban](Herramientas/Sandstorm/06-kanban-carta.png)
+
+![Edición colaborativa de un documento de texto](Herramientas/Sandstorm/07-pad.png)
+
+![Hilo de conversación](Herramientas/Sandstorm/08-rocketchat.png)
+
+\clearpage
 
 Loomio
 ======
@@ -102,6 +174,24 @@ formulación de propuestas y la recogida de opiniones.
 - Anonimato: Hay que tener una cuenta (asociada a un email) para crear un hilo
   para una decisión pero luego se pueden invitar otras personas por email. La
   web no funciona bien con Tor.
+
+Introducción a Loomio: https://youtu.be/BT9f0Nj0zB8
+
+\vspace {2cm}
+
+![Pantalla de inicio del grupo](Herramientas/Loomio/01-grupo.png)
+
+![Creación de un nuevo hilo](Herramientas/Loomio/02-nuevo-hilo.png)
+
+![Hilo de discussión](Herramientas/Loomio/03-hilo.png)
+
+![Creación de una propuesta](Herramientas/Loomio/04-propuesta.png)
+
+![Dar su opinión en una propuesta](Herramientas/Loomio/05-opinion.png)
+
+![Páginas de ayuda](Herramientas/Loomio/06-ayuda.png)
+
+\clearpage
 
 Kanboard
 ========
@@ -123,3 +213,17 @@ aplicación web para la gestión colectiva de tableros de kanban.
   los servidores pueden ver los contenidos.
 - Anonimato: Hay que tener una cuenta (sin verificación de email). La web
   funciona con Tor.
+
+\vspace {2cm}
+
+![Tablero de kanban](Herramientas/Kanboard/01-kanban.png)
+
+![Ficha de una tarea](Herramientas/Kanboard/02-tarea.png)
+
+![Configuración del tablero](Herramientas/Kanboard/03-configuracion-kanban.png)
+
+![Edición de una ficha](Herramientas/Kanboard/04-edicion-tarea.png)
+
+![Listado de tareas](Herramientas/Kanboard/05-lista.png)
+
+![Descripción e historial del tablero](Herramientas/Kanboard/06-vista-general.png)
