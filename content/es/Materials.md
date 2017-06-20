@@ -264,7 +264,7 @@ tags:
 locale: es
 links:
   - label: Procesos colaborativos facilitados por herramientas digitales
-    link: "assets/downloads/Ejemplos_de_procesos.md"
+    link: "assets/downloads/Ejemplos_de_procesos.pdf"
 ---
 
 ## Nuevas herramientas para el trabajo colaborativo
@@ -275,7 +275,7 @@ tags:
 locale: es
 links:
   - label: Nuevas herramientas para el trabajo colaborativo
-    link: "assets/downloads/Herramientas.md"
+    link: "assets/downloads/Herramientas.pdf"
 ---
 
 ## Principios tecnopolíticos en procesos colaborativos 
@@ -286,7 +286,7 @@ tags:
 locale: es
 links:
   - label: Principios tecnopolíticos en procesos colaborativos 
-    link: "assets/downloads/Principios_tecnopoliticos.md"
+    link: "assets/downloads/Principios_tecnopoliticos.pdf"
 ---
 
 ## Matriz plan de comunicación
