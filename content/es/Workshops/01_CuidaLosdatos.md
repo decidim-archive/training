@@ -105,14 +105,44 @@ Pregunta a todas las participantes:
 Las siguientes actividades permiten a las participantes entender los fundamentos del rastreo y negocio de datos.
 
 
-##### Actividad A: "Visualizando el rastreo en nuestros navegadores" (45 min)
+#### Actividad A: "Visualizando el rastreo en nuestros navegadores" (45 min)
 Para personas que participan en procesos de participación política y/o usan de manera más o menos activas internet para su trabajo o activismo.
 
+##### Preparación
+1. Asegúrate de estar familiarizada con Trackography y Lightbeam. Puedes encontrar más información en el _Material de Consulta: Navegador_.
+2. Asegúrate de tener suficientes computadoras (ordenadores) disponibles - una por cada grupo pequeño. No se puede instalar Lightbeam en celulares (móviles) y Trackography sólo funciona en pantallas más grandes.
+3. En la pizarra, anota los enlaces a Trackography y Lightbeam o proyéctalos en la pantalla.
+4. Si hay Internet limitado, descarga el video sobre Trackography y graba previamente un video de ti interactuando con Lightbeam.
 
-##### Actividad B: "¿Cómo funciona internet?" (45 min)
+##### Explora Trackography & Lightbeam (15 min)
+1. Divide a las participantes en grupos.
+2. Las participantes exploran ambas herramientas y discuten sus hallazgos.
+
+##### Retroalimentación y discusión  (15 min)
+Las participantes se vuelven a juntar y ponen en común lo que encontraron. Interviene para complementar con explicaciones e información adicional si fuera necesario. Aborda los siguientes conceptos:
+1. ¿Qué es el rastreo?
+2. ¿Qué tipos de datos están siendo recolectados y por quiénes?
+3. ¿Qué es la creación de perfiles ("profiling")?
+4. ¿Cuántas empresas me rastrean en cada sitio web y entre los diferentes sitios? ¿Qué son las huellas digitales del navegador? (Demostración de Panopticlick de la EFF.)
+5. Trazar rutas: cómo viajan los datos a través de Internet.
+6. Repasa cómo funciona Internet si es necesario.
+
+
+#### Actividad B: "¿Cómo funciona internet?" (45 min)
 Para personas jubiladas y/o que usan desde hace poco internet y no entienden cómo funciona la infraestructura.
 
 Para introducir la siguiente actividad recomendamos mostrar algunos elementos visuales de la infraestructura de internet como por ejemplo un mapa del backbone de internet (http://submarine-cable-map-2016.telegeography.com/) y una granja de servidores (https://www.youtube.com/watch?v=7kjSH67BIX8) .
+
+##### Preparación
+1. Prepárate para dibujar Internet, incluyendo cómo funciona de manera distinta al utilizar  http/httpsr. Ten a mano un diagrama para guiarte.
+2. *Tarjetas*: imprime las tarjetas ya preparadas de 'Infraestructura de Internet' de https://myshadow.org/materials o crea tus propias tarjetas. Si el grupo es grande, Testás tengas que imprimir varios juegos de tarjetas. Idealmente, debería haber una tarjeta por persona.
+
+##### Visualizar Internet
+1. Dependiendo del tamaño del grupo, este ejercicio puede hacerse entre todas las personas en un grupo grande, o en subgrupos. Entrega a cada grupo un juego de tarjetas y pídeles que los ordenen correctamente para mostrar cómo se envía un correo de una persona a otra.
+2. Compara los resultados y repasen juntos el orden. Pregúntales a las y los participantes si hay conceptos determinados que no comprendieron bien y acláralos.
+
+*HTTP & HTTPS*
+Pídeles a las y los participantes explicar la diferencia entre cómo se transmite un mensaje vida https y http con la ayuda de las tarjetas.
 
 
 ##### Actividad C: "¿Cómo ganan dinero los servicios que usas en internet?" (60 min)
