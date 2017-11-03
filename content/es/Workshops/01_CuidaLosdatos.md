@@ -53,10 +53,10 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
 - [¿Por qué me vigilan, si no soy nadie? De Marta Peirano](https://www.youtube.com/watch?v=NPE7i8wuupk), (TEDxMadrid)
 - [Ciudades inteligentes y la vigilancia](https://antivigilancia.org/es/boletim-13-es/), (Boletin Antivigilancia)
-- [Diagrama de Internet de la EFF (inglés)](https://www.eff.org/pages/tor-and-https): cuando estás en Internet ¿quién puede ver qué información y en qué tramos? Incluye diferentes escenarios: Tor y https.
-- [Trackography (inglés)](https://trackography.org) (Tactical Tech)
+- [Diagrama de Internet de la EFF](https://www.eff.org/pages/tor-and-https), (EFF) (EN)
+- [Trackography](https://trackography.org), (Tactical Tech) (EN)
 - [Lightbeam](https://www.mozilla.org/es-ES/lightbeam/)
-- [Panopticlick (inglés)](https://myshadow.org/resources/panopticlick?locale=en) (EFF)
+- [Panopticlick](https://myshadow.org/resources/panopticlick?locale=en), (EFF) (EN)
 
 
 ### Materiales y equipamiento necesario
@@ -84,7 +84,7 @@ Las etapas 1 y 2 varían según el tipo de grupo a quien se orienta la formació
 Las etapas 4, 5 y 6  presentan “meta-conceptos” que permiten reflexionar acerca de lo que son los datos y qué se puede hacer para cuidar los datos y mejorar  nuestros niveles de privacidad y seguridad.
 
 
-#### Preparación
+### Preparación
 
 1. Revisa los materiales listados en referencias.
 2. Prepárate para manejar definiciones relativas a la sombra digital, el big data y sus cinco V (volumen, velocidad, variedad, veracidad, valor), las burbujas de filtro y los algoritmos.
@@ -139,17 +139,17 @@ Para introducir la siguiente actividad recomendamos mostrar algunos elementos vi
 
 ##### Preparación
 1. Prepárate para dibujar Internet, incluyendo cómo funciona de manera distinta al utilizar  http/httpsr. Ten a mano un diagrama para guiarte.
-2. *Tarjetas*: imprime las tarjetas ya preparadas de 'Infraestructura de Internet' de https://myshadow.org/materials o crea tus propias tarjetas. Si el grupo es grande, Testás tengas que imprimir varios juegos de tarjetas. Idealmente, debería haber una tarjeta por persona.
+2. _Tarjetas_: imprime las tarjetas ya preparadas de 'Infraestructura de Internet'  (https://myshadow.org/materials) o crea tus propias tarjetas. Si el grupo es grande, Testás tengas que imprimir varios juegos de tarjetas. Idealmente, debería haber una tarjeta por persona.
 
 ##### Visualizar Internet
 1. Dependiendo del tamaño del grupo, este ejercicio puede hacerse entre todas las personas en un grupo grande, o en subgrupos. Entrega a cada grupo un juego de tarjetas y pídeles que los ordenen correctamente para mostrar cómo se envía un correo de una persona a otra.
 2. Compara los resultados y repasen juntos el orden. Pregúntales a las y los participantes si hay conceptos determinados que no comprendieron bien y acláralos.
 
-*HTTP & HTTPS*
+_HTTP & HTTPS_
 Pídeles a las y los participantes explicar la diferencia entre cómo se transmite un mensaje vida https y http con la ayuda de las tarjetas.
 
 
-##### Actividad C: "¿Cómo ganan dinero los servicios que usas en internet?" (60 min)
+#### Actividad C: "¿Cómo ganan dinero los servicios que usas en internet?" (60 min)
 Para personas jóvenes y/o que usan mucho el móvil e internet pero desconocen su historia.
 
 @[activity](7effca32-568a-49fb-ab2f-7e835662fc96)
