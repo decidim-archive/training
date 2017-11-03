@@ -53,6 +53,10 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
 - [¿Por qué me vigilan, si no soy nadie? De Marta Peirano](https://www.youtube.com/watch?v=NPE7i8wuupk), (TEDxMadrid)
 - [Ciudades inteligentes y la vigilancia](https://antivigilancia.org/es/boletim-13-es/), (Boletin Antivigilancia)
+- [Diagrama de Internet de la EFF (inglés)](https://www.eff.org/pages/tor-and-https): cuando estás en Internet ¿quién puede ver qué información y en qué tramos? Incluye diferentes escenarios: Tor y https.
+- [Trackography (inglés)](https://trackography.org) (Tactical Tech)
+- [Lightbeam](https://www.mozilla.org/es-ES/lightbeam/)
+- [Panopticlick (inglés)](https://myshadow.org/resources/panopticlick?locale=en) (EFF)
 
 
 ### Materiales y equipamiento necesario
