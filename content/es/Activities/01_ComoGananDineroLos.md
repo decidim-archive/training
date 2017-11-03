@@ -35,8 +35,6 @@ description: "¿Cómo ganan dinero los servicios que usas en internet? Analizar 
 - Entender los fundamentos del rastreo y negocio de datos: ¿Qué metodologías se usan para perfilar a las personas y cuales son los modelos de negocios de las grandes empresas que nos ofrecen servicios en internet?.
 
 ### Referencias
-- [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective)
-- [Vivir con algoritmos](https://myshadow.org/resources/algorithms?locale=en), (Tactical Technology Collective)
 - [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
 
@@ -71,7 +69,7 @@ Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favo
 1. Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc.” y que luego se junten por números.
 2. Pide a cada grupo que se especialice en buscar datos acerca de una de estas empresas: Google, Amazon, Facebook, Apple o Microsoft. Tienen 10 minutos para encontrar cuanto ganan anualmente, donde están localizadas, cuando se crearon, cual es su modelo de negocios, etc. Debes guiar un retorno ordenado de estos datos y escribir las respuestas debajo del cartel de cada una de las empresas. Reserva la siguiente etapa para pedir las informaciones que han encontrado acerca de sus modelos de negocio.
 3. Pregunta como cada empresa genera dinero, en el caso de Apple, Microsoft o Amazon el modelo de negocio suele aparecer rápidamente (venden ordenadores, software, productos por internet) pero los modelos de negocios de Facebook y Google pueden costar más tiempo en ser nombrados, guía las participantes con preguntas apuntando al rol de la publicidad por ejemplo.
-4. Invita las participantes a comentar los resultados. Pregúntales si existen conceptos específicos que no están claros y que se necesitan aclarar. 
+4. Invita las participantes a comentar los resultados. Pregúntales si existen conceptos específicos que no están claros y que se necesitan aclarar.
 
 ### Etapa 3: Conclusión: Preguntas, aclaraciones y recursos (10 min)
 1. Mira si algo no ha quedado claro, y responde a las preguntas.

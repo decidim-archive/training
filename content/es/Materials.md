@@ -103,17 +103,6 @@ links:
     link: "https://myshadow.org/ckeditor_assets/attachments/210/mobile_es_a5.pdf"
 ---
 
-## Vídeo Corredores de datos
---- meta
-uuid: 417fc8a5-400f-4553-a23e-faa949beb239
-tags:
-  - material
-locale: es
-links:
-  - label: Vídeo Corredores de datos
-    link: ""
----
-
 
 ## Tarjetas - Cómo funciona Internet
 --- meta
@@ -122,8 +111,8 @@ tags:
   - material
 locale: es
 links:
-  - label: Cómo funciona la comunicación móvil
-    link: ""
+  - label: Cómo funciona Internet
+    link: "https://myshadow.org/ckeditor_assets/attachments/235/howtheinternetworks_cardset_es.pdf"
 ---
 
 
@@ -135,7 +124,7 @@ tags:
 locale: es
 links:
   - label: Cómo funciona la comunicación móvil
-    link: ""
+    link: "https://myshadow.org/ckeditor_assets/attachments/236/howmobileswork_cardset.pdf"
 ---
 
 ## Tijeras
@@ -278,14 +267,14 @@ links:
     link: "assets/downloads/Herramientas.pdf"
 ---
 
-## Principios tecnopolíticos en procesos colaborativos 
+## Principios tecnopolíticos en procesos colaborativos
 --- meta
 uuid: e46bd7c7-c16d-4d60-a548-5045fe292370
 tags:
   - material
 locale: es
 links:
-  - label: Principios tecnopolíticos en procesos colaborativos 
+  - label: Principios tecnopolíticos en procesos colaborativos
     link: "assets/downloads/Principios_tecnopoliticos.pdf"
 ---
 
@@ -309,4 +298,15 @@ locale: es
 links:
   - label: Matriz planes de comunicación exitosos
     link: "assets/downloads/plan_de_comunicacion_ejemplos.pdf"
+---
+
+## Documento de referencia para móviles
+--- meta
+uuid: 2ec7190f-ee0c-4b87-a7b0-e5083792d7ce
+tags:
+  - material
+locale: es
+links:
+  - label: Documento de referencia para móviles
+    link: "https://myshadow.org/ckeditor_assets/attachments/245/celular.pdf"
 ---

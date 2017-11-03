@@ -10,7 +10,7 @@ tags:
   - Modelos de negocios
   - Alternativas
   - Principios tecnopolíticos
-  - Procesos colaborativos 
+  - Procesos colaborativos
 duration: 155
 description: "Entender la economía y política detrás de los datos y nuestras identidades conectadas: ¿Quien y qué hacen con nuestros datos, cómo se generan negocios con ellos y de qué manera somos rastreadas, vigiladas y/o discriminadas?"
 ---
@@ -48,8 +48,6 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 - Entender que nuestra navegación en internet y nuestro uso de los móviles tienen consecuencias que van mas allá de la vigilancia e implican también a medio y largo plazo nuevas formas de discriminación y exclusión social.
 
 ### Referencias
-- [Confesiones de un corredor de datos](https://myshadow.org/resources/confession-of-a-data-broker?locale=en), (Tactical Technology Collective)
-- [Vivir con algoritmos](https://myshadow.org/resources/algorithms?locale=en), (Tactical Technology Collective)
 - [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
 - [Manual Zen y el arte de que la tecnología trabaje para ti](http://ttc.io/zen), (Tactical Technology Collective)
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
@@ -124,7 +122,7 @@ Para personas jóvenes y/o que usan mucho el móvil e internet pero desconocen s
 
 
 ### Etapa 3: Presentación Política de los datos (20 min)
-Esta actividad consiste en mostrar a las participantes una presentación que profundiza acerca de las dimensiones varias entrelazadas en la política de los datos y permite aclarar conceptos. Dependiendo del tiempo a disposición, se recomienda complementarla con un pase del vídeo de Tactical Tech “Confesiones de un corredor de datos” (6min) o poner la charla de Marta Peirano “¿Por qué me vigilan, si no soy nadie?” (TEDxMadrid: https://www.youtube.com/watch?v=NPE7i8wuupk) (9min30s). Invita las participantes a comentar algún elemento que les haya parecido interesantes del vídeo.
+Esta actividad consiste en mostrar a las participantes una presentación que profundiza acerca de las dimensiones varias entrelazadas en la política de los datos y permite aclarar conceptos. Dependiendo del tiempo a disposición, se recomienda complementarla con un pase del vídeo Marta Peirano “¿Por qué me vigilan, si no soy nadie?” (TEDxMadrid: https://www.youtube.com/watch?v=NPE7i8wuupk) (9min30s). Invita las participantes a comentar algún elemento que les haya parecido interesantes del vídeo.
 
 
 ### Etapa 4: Implicaciones del rastreo y negocio con los datos (45 min)

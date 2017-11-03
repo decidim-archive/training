@@ -55,7 +55,7 @@ Esta sesión se puede hacer con cualquier número de participantes.
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
 - @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)
 - @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)
-- @[material]() Documento de referencia para móviles
+- @[material](2ec7190f-ee0c-4b87-a7b0-e5083792d7ce)
 
 ## Actividad: "¿Cómo funciona la comunicación móvil?"
 --- meta
@@ -67,7 +67,7 @@ uuid: 541f7a7b-e83f-4018-8646-b86fcbccca4
 #### Preparación
 
 1. Elije si vas a explicar "Cómo funciona la comunicación móvil" utilizando (1) las tarjetas - Cómo funciona la comunicación móvil o utilizando (2) papel y lápiz.
-2. Para ambas opciones, prepárate para demostrar cómo funciona la comunicación móvil en los siguientes dos escenarios: 
+2. Para ambas opciones, prepárate para demostrar cómo funciona la comunicación móvil en los siguientes dos escenarios:
 A través de redes de telefonía móvil o redes celulares (Voz/SMS, aplicaciones de chat).
 A través de Wi-Fi (por ejemplo, aplicaciones de chat o navegación).
 3. Si aún no se ha cubierto, prepárate también para dibujar la infraestructura de Internet, incluyendo cómo funciona cuando se utiliza una VPN, un proxy y Tor. Podría ser útil tener un diagrama a mano como guía.
