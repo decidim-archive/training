@@ -73,7 +73,6 @@ Entender la economía y política detrás de los datos y nuestras identidades co
 ### Materiales y folletos opcionales
 - @[material](9392dacf-999c-4c33-a6d8-4545c1aee849)
 - @[material](c0358b51-fe16-47ae-9686-927ec39d18f6)
-- @[material](417fc8a5-400f-4553-a23e-faa949beb239)
 - @[material](67c7149b-44f9-4b7a-b4ee-c8bf786b50dc)
 - @[material](2c06216d-1383-4ec0-9048-5c5cc51cdde0)
 
