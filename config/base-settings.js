@@ -16,18 +16,18 @@ const locales = [
     code: 'es',
     name: 'Español',
   },
-  // {
-  //   code: 'en',
-  //   name: 'English',
-  // },
+  {
+    code: 'ca',
+    name: 'Català',
+  }
 ];
 
 /**
 * Set the default language
 */
 const defaultLocale = {
-  code: 'es',
-  name: 'Espanol',
+  code: 'ca',
+  name: 'Català',
 };
 
 

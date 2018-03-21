@@ -1,9 +1,7 @@
 import _ from 'lodash';
 import React from 'react';
-import locales from '../lib/locales';
+// import locales from '../lib/locales';
 import data from '../lib/data';
-
-// const DropDownList = ReactWidgets.DropDownList;
 
 export default class LocaleSwticher extends React.Component {
   constructor(props) {
@@ -14,16 +12,8 @@ export default class LocaleSwticher extends React.Component {
       defaultLocale: data.defaultLocale()};
   }
 
-  componentDidMount() {
-    // data.fetch(this.props.selectedLocale.code);
-    // sessions.reset(data.sessions());
-    // filters.set();
-    // const localesP = locales.toItemsProperty();
-    // localesP.onValue(ls =>
-    // this.setState({locale: data.locales(), defaultLocale: data.defaultLocale()}));
-  }
-
   render() {
+    const locales = data.locales();
     const defaultLocale = data.defaultLocale();
     const switcher =
       (_.size(this.state.locale) > 1) ?
