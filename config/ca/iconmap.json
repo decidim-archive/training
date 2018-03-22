@@ -1,57 +1,58 @@
-[{
-        "label": "Teléfono Celular",
-        "icon": "fa-Teléfono Celular"
-    },
-    {
-        "label": "Las manos en",
-        "icon": "fa-hand-pointer-o"
-    },
-    {
-        "label": "Mensajería segura",
-        "icon": "fa-envelope-o"
-    },
-    {
-        "label": "Selección de herramientas",
-        "icon": "fa-wrench"
-    },
-    {
-        "label": "Navegador",
-        "icon": "fa-desktop"
-    },
-    {
-        "label": "Medios de comunicación social",
-        "icon": "fa-user-plus"
-    },
-    {
-        "label": "Ejercicio de dibujo",
-        "icon": "fa-pencil"
-    },
-    {
-        "label": "Ejercicio de roles",
-        "icon": "fa-users"
-    },
-    {
-        "label": "Recolección de ideas",
-        "icon": "fa-lightbulb-o"
-    },
-    {
-        "label": "Debate",
-        "icon": "fa-exchange"
-    },
-    {
-        "label": "Examen",
-        "icon": "fa-question-circle-o"
-    },
-    {
-        "label": "Documento de referencia",
-        "icon": "fa-file-text-o"
-    },
-    {
-        "label": "Workshop",
-        "icon": "fa-rocket"
-    },
-    {
-        "label": "Activity",
-        "icon": "fa-motorcycle"
-    }
+[
+  {
+    "label": "Mòbil",
+    "icon": "fa-mobile"
+  },
+  {
+    "label": "Les mans a",
+    "icon": "fa-hand-pointer-o"
+  },
+  {
+    "label": "Missatgeria segura",
+    "icon": "fa-envelope-o"
+  },
+  {
+    "label": "Escollint eines",
+    "icon": "fa-wrench"
+  },
+  {
+    "label": "Navegador web",
+    "icon": "fa-desktop"
+  },
+  {
+    "label": "Xarxes socials",
+    "icon": "fa-user-plus"
+  },
+  {
+    "label": "Exercici de dibuix",
+    "icon": "fa-pencil"
+  },
+  {
+    "label": "Exercici de rols",
+    "icon": "fa-users"
+  },
+  {
+    "label": "Recollida d'idees",
+    "icon": "fa-lightbulb-o"
+  },
+  {
+    "label": "Debat",
+    "icon": "fa-exchange"
+  },
+  {
+    "label": "Enquesta",
+    "icon": "fa-question-circle-o"
+  },
+  {
+    "label": "Document de referència",
+    "icon": "fa-file-text-o"
+  },
+  {
+    "label": "Workshop",
+    "icon": "fa-rocket"
+  },
+  {
+    "label": "Activity",
+    "icon": "fa-motorcycle"
+  }
 ]
