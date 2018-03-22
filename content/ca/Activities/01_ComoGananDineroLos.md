@@ -1,40 +1,40 @@
-# ¿Cómo ganan dinero los servicios que usas en internet
+# Com guanyen diners els serveis que fas servir a Internet?
 
 --- meta
-title: ¿Cómo ganan dinero los servicios que usas en internet?
+title: Com guanyen diners els serveis que fas servir a Internet?
 uuid: a48aea7f-2937-4412-864a-93bfbdcd56e5
 locale: ca
 source: Tactical Tech
-item: Actividades
+item: Activitats
 tags:
-  - Sombra Digital
-  - Modelos de negocios
-  - Principios tecnopolíticos
+  - Ombra Digital
+  - Models de negoci
+  - Principis tecnopolítics
 duration: 70
-description: "¿Cómo ganan dinero los servicios que usas en internet? Analizar cuales son los modelos de negocios de las grandes empresas que proveen servicios en internet (Google, Amazon, Facebook, Apple, Microsoft) permite entender sus motivaciones y practicas y como estas nos pueden afectar."
+description: "Com guanyen diners els serveis que fas servir a Internet? Analitzar quins són els models de negoci de les grans empreses que proveeixen serveis a Internet (Google, Amazon, Facebook, Apple, Microsoft) ens permet entendre les seves motivacions i pràctiques i com aquestes ens poden afectar."
 ---
 
-## Meta información
+## Meta informació
 
-### Descripción
-¿Cómo ganan dinero los servicios que usas en internet? Analizar cuales son los modelos de negocios de las grandes empresas que proveen servicios en internet (Google, Amazon, Facebook, Apple, Microsoft) permite entender sus motivaciones y practicas y como estas nos pueden afectar.
+### Descripció
+Com guanyen diners els serveis que fas servir a Internet? Analitzar quins són els models de negoci de les grans empreses que proveeixen serveis a Internet (Google, Amazon, Facebook, Apple, Microsoft) ens permet entendre les seves motivacions i pràctiques i com aquestes ens poden afectar.
 
 ### Estructura
-1. Mapeo de las tecnologías favoritas de las participantes (20 min)
-2. Modelos de negocios de estas empresas (40 min)
-3. Conclusión: Preguntas, aclaraciones y recursos (10 min)
+1. Mapeig de les tecnologies preferides dels participants (20 min)
+2. Models de negoci d'aquestes empreses (40 min)
+3. Conclusió: Preguntes, aclariments i recursos (10 min)
 
-### Duración
-70 minutos.
+### Durada
+70 minuts.
 
-### Número ideal de participantes
-10-20 participantes.
+### Nombre ideal de participants
+10-20 participants.
 
-### Objetivos de aprendizaje
-##### Conocimiento
-- Entender los fundamentos del rastreo y negocio de datos: ¿Qué metodologías se usan para perfilar a las personas y cuales son los modelos de negocios de las grandes empresas que nos ofrecen servicios en internet?.
+### Objetius d'aprenentatge
+##### Coneixement
+- Entendre els fonaments del rastreig i del negoci de dades: quines metodologies es fan servir per generar perfils personals i quins són els models de negoci de les grans empreses que ens ofereixen serveis a Internet?
 
-### Referencias
+### Referencies
 - [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
 
