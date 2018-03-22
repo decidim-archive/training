@@ -26,8 +26,8 @@ const locales = [
 * Set the default language
 */
 const defaultLocale = {
-  code: 'ca',
-  name: 'Català',
+  code: 'es',
+  name: 'Español',
 };
 
 
