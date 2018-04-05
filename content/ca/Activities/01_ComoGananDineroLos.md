@@ -38,15 +38,15 @@ Com guanyen diners els serveis que fas servir a Internet? Analitzar quins són e
 - [Yo y Mi Sombra Digital](http://myshadow.org/es), (Tactical Technology Collective)
 - [Chupadados: El lado oscuro de nuestras mascotas tecnológicas](https://chupadados.codingrights.org/es/), (Coding Rights)
 
-### Materiales y equipamiento necesario
-- @[material](0d1c2469-bc55-41da-8207-63edf8fd307b)
-- @[material](f354da89-49e4-497a-83f0-a941b087bfff)
-- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e844)
-- @[material](0d1c5569-bc55-41db-8207-11edf8fd307b)
-- @[material](e96c589f-f1c5-49de-8493-ca39de05a502)
-- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181c)
-- @[material](16c01d17-9ba7-47d6-815a-75cf9633004f)
-- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f081)
+### Materials i equipament necessari
+- @[material](0d1c2469-bc55-41da-8207-63edf8fd307c)
+- @[material](f354da89-49e4-497a-83f0-a941b087bff0)
+- @[material](ce457811-1423-4ff0-93bb-7bc2fda1e845)
+- @[material](0d1c5569-bc55-41db-8207-11edf8fd307c)
+- @[material](e96c589f-f1c5-49de-8493-ca39de05a503)
+- @[material](6d758ada-e6cf-4a56-a96b-f84dfe14181d)
+- @[material](16c01d17-9ba7-47d6-815a-75cf96330040)
+- @[material](b6be8eed-7382-4594-bbe1-eaf471f8f082)
 
 ## Actividad:"¿Cómo ganan dinero los servicios que usas en internet?"
 --- meta
