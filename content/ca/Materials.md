@@ -1,312 +1,312 @@
 # Materials
 
-## Proyector
+## Projector
 --- meta
-uuid: ce457811-1423-4ff0-93bb-7bc2fda1e844
+uuid: ce457811-1423-4ff0-93bb-7bc2fda1e845
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Ordenador
+## Ordinador
 --- meta
-uuid: 0d1c2469-bc55-41da-8207-63edf8fd307b
+uuid: 0d1c2469-bc55-41da-8207-63edf8fd307c
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Sistema de audio
+## Sistema d'audio
 --- meta
-uuid: 0d1c5569-bc55-41db-8207-11edf8fd307b
+uuid: 0d1c5569-bc55-41db-8207-11edf8fd307c
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Rotafolio
+## Papelògraf
 --- meta
-uuid: e96c589f-f1c5-49de-8493-ca39de05a502
+uuid: e96c589f-f1c5-49de-8493-ca39de05a503
 tags:
   - material
-locale: es
----
-
-
-## Marcadores
---- meta
-uuid: 6d758ada-e6cf-4a56-a96b-f84dfe14181c
-tags:
-  - material
-locale: es
+locale: ca
 ---
 
 
-## Post-its
+## Rotuladors
 --- meta
-uuid: f6cd74bf-5a89-4fdc-8122-e305f947e14c
+uuid: 6d758ada-e6cf-4a56-a96b-f84dfe14181d
 tags:
   - material
-locale: es
+locale: ca
 ---
 
 
-## Papel A4
+## Postits
 --- meta
-uuid: 16c01d17-9ba7-47d6-815a-75cf9633004f
+uuid: f6cd74bf-5a89-4fdc-8122-e305f947e14d
 tags:
   - material
-locale: es
+locale: ca
 ---
 
 
-## Bolígrafos
+## Paper A4
 --- meta
-uuid: b6be8eed-7382-4594-bbe1-eaf471f8f081
+uuid: 16c01d17-9ba7-47d6-815a-75cf96330040
 tags:
   - material
-locale: es
+locale: ca
 ---
 
 
-## Folleto Privacidad para llevar móvil
+## Bolígrafs
 --- meta
-uuid: 9392dacf-999c-4c33-a6d8-4545c1aee849
+uuid: b6be8eed-7382-4594-bbe1-eaf471f8f082
 tags:
   - material
-locale: es
+locale: ca
+---
+
+
+## Fulletó Privacitat per a endur - El mòbil
+--- meta
+uuid: 9392dacf-999c-4c33-a6d8-4545c1aee84a
+tags:
+  - material
+locale: ca
 links:
-  - label: Folleto Privacidad para llevar móvil
+  - label: Fulletó Privacitat per a endur - El mòbil
     link: "https://myshadow.org/ckeditor_assets/attachments/229/mobile_es_complete.pdf"
 ---
 
 
-## Folleto Privacidad para llevar navegador
+## Fulletó Privacitat per a endur - Navegadors web
 --- meta
-uuid: c0358b51-fe16-47ae-9686-927ec39d18f6
+uuid: c0358b51-fe16-47ae-9686-927ec39d18f7
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Folleto Privacidad para llevar navegador
+  - label: Fulletó Privacitat per a endur - navegadors web
     link: "https://myshadow.org/ckeditor_assets/attachments/228/browser_es_complete.pdf"
 ---
 
-## Desglose del teléfono móvil en 4 capas
+## El mòbil en 4 capes
 --- meta
-uuid: f943e983-4f98-4a61-bc0b-b5f7f8cd119a
+uuid: f943e983-4f98-4a61-bc0b-b5f7f8cd119b
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Desglose del teléfono móvil en 4 capas
+  - label: El mòbil en 4 capes
     link: "https://myshadow.org/ckeditor_assets/attachments/210/mobile_es_a5.pdf"
 ---
 
 
-## Tarjetas - Cómo funciona Internet
+## Targetes - Com funciona Internet
 --- meta
-uuid: 67c7149b-44f9-4b7a-b4ee-c8bf786b50dc
+uuid: 67c7149b-44f9-4b7a-b4ee-c8bf786b50dd
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Cómo funciona Internet
+  - label: Com funciona Internet
     link: "https://myshadow.org/ckeditor_assets/attachments/235/howtheinternetworks_cardset_es.pdf"
 ---
 
 
-## Tarjetas - Cómo funciona la comunicación móvil
+## Targetes - Com funciona la comunicació mòbil
 --- meta
-uuid: 2c06216d-1383-4ec0-9048-5c5cc51cdde0
+uuid: 2c06216d-1383-4ec0-9048-5c5cc51cdde1
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Cómo funciona la comunicación móvil
+  - label: Com funciona la comunicació mòbil
     link: "https://myshadow.org/ckeditor_assets/attachments/236/howmobileswork_cardset.pdf"
 ---
 
-## Tijeras
+## Tisores
 --- meta
-uuid: efd50bd8-fe20-4618-a410-47ec1e427b4a
+uuid: efd50bd8-fe20-4618-a410-47ec1e427b4b
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Pegamento
+## Pega
 --- meta
-uuid: a1a11819-845b-4f4d-894c-f1c03d67c6bf
+uuid: a1a11819-845b-4f4d-894c-f1c03d67c6b0
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Periódicos y revistas recicladas
+## Diaris i revistes reciclades
 --- meta
-uuid: b0810a5c-e587-43be-8cb0-174ba3006356
+uuid: b0810a5c-e587-43be-8cb0-174ba3006357
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Conexión a Internet
+## Connexió a Internet
 --- meta
-uuid: f354da89-49e4-497a-83f0-a941b087bfff
+uuid: f354da89-49e4-497a-83f0-a941b087bff0
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Ordenadores para las participantes
+## Ordinadors per als participants
 --- meta
-uuid: f3101c53-49e1-45dd-b804-002c922c7e01
+uuid: f3101c53-49e1-45dd-b804-002c922c7e02
 tags:
   - material
-locale: es
+locale: ca
 ---
 
-## Matriz analítica de participación política
+## Matriu analítica de participació política
 --- meta
-uuid: 05774c5f-20ae-4cd7-ac6e-80702eb8175e
+uuid: 05774c5f-20ae-4cd7-ac6e-80702eb8175f
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Matriz analítica de participación política
-    link: "assets/downloads/matriz_participation.pdf"
+  - label: Matriu analítica de participació política
+    link: "assets/downloads/matriu_participacio.pdf"
 ---
 
-## Procesos de participación política
+## Processos de participació política
 --- meta
-uuid: 8e2044e0-6201-47bd-9066-8bc5ff6df500
+uuid: 8e2044e0-6201-47bd-9066-8bc5ff6df501
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Procesos de participación política
-    link: "assets/downloads/Democracia2.0.pdf"
+  - label: Processos de participació política
+    link: "assets/downloads/Democracia2.0_ca.pdf"
 ---
 
-## Elegir herramientas - Cuadrícula vacía
+## Escollir eines - Graella buida
 --- meta
-uuid: 6399e12d-c34c-436b-9ac9-4c79506bf8a8
+uuid: 6399e12d-c34c-436b-9ac9-4c79506bf8a9
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Elegir herramientas - Cuadrícula vacía
-    link: "assets/downloads/Elegir_herramientas_vacio.pdf"
+  - label: Escollir eines - Graella buida
+    link: "assets/downloads/Escollir_eines_buit.pdf"
 ---
 
-## Elegir herramientas - Cuadrícula lleno
+## Escollir eines - Graella plena
 --- meta
-uuid: 6ad9de95-0fe5-4bff-b1c5-7796ef49ef20
+uuid: 6ad9de95-0fe5-4bff-b1c5-7796ef49ef21
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Elegir herramientas - Cuadrícula lleno
-    link: "assets/downloads/Elegir_herramientas_lleno.pdf"
+  - label: Escollir eines - Graella plena
+    link: "assets/downloads/Escollir_eines_ple.pdf"
 ---
 
-## Estrategias para cambiar las tecnologías
+## Estratègies per al canvi tecnològic
 --- meta
-uuid: 10cae4b7-5625-41d1-abbb-16c1ebd1ce9f
+uuid: 10cae4b7-5625-41d1-abbb-16c1ebd1ce90
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Estrategias para cambiar las tecnologías
-    link: "assets/downloads/Estrategias_cambios_tecnologias.pdf"
+  - label: Estratègies per al canvi tecnològic
+    link: "assets/downloads/Estrategies_canvis_tecnologic.pdf"
 ---
 
-## Documento de referencia Decidim
+## Document de referència Decidim
 --- meta
-uuid: 2e72f1b7-6d2a-41c1-a07f-d7c79994d201
+uuid: 2e72f1b7-6d2a-41c1-a07f-d7c79994d202
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Documento de referencia Decidim
-    link: "assets/downloads/decidim.pdf"
+  - label: Document de referència Decidim
+    link: "assets/downloads/decidim_ca.pdf"
 ---
 
-## Matriz para evaluar una web para la participación política
+## Matriu per avaluar una web de participació política
 --- meta
-uuid: a28972b7-ad09-4318-960e-adac657a85fa
+uuid: a28972b7-ad09-4318-960e-adac657a85fb
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Matriz para evaluar una web para la participación política
+  - label: Matriu per avaluar una web de participació política
     link: "assets/downloads/matriz_evaluar_web_participacaion.pdf"
 ---
 
 
-## Procesos colaborativos facilitados por herramientas digitales
+## Processos col·laboratius facilitats por eines digitals
 --- meta
-uuid: 58e5158c-02b4-4a6f-b57c-62bff7469038
+uuid: 58e5158c-02b4-4a6f-b57c-62bff7469039
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Procesos colaborativos facilitados por herramientas digitales
+  - label: Processos col·laboratius facilitats per eines digitals
     link: "assets/downloads/Ejemplos_de_procesos.pdf"
 ---
 
-## Nuevas herramientas para el trabajo colaborativo
+## Eines per al treball col·laboratiu
 --- meta
-uuid: 337a7d6a-6bea-4d6c-a3da-59ce5d6bab8d
+uuid: 337a7d6a-6bea-4d6c-a3da-59ce5d6bab8e
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Nuevas herramientas para el trabajo colaborativo
+  - label: Eines per al treball col·laboratiu
     link: "assets/downloads/Herramientas.pdf"
 ---
 
-## Principios tecnopolíticos en procesos colaborativos
+## Principis tecnopolítics en processos col·laboratius
 --- meta
-uuid: e46bd7c7-c16d-4d60-a548-5045fe292370
+uuid: e46bd7c7-c16d-4d60-a548-5045fe292371
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Principios tecnopolíticos en procesos colaborativos
-    link: "assets/downloads/Principios_tecnopoliticos.pdf"
+  - label: Principis tecnopolítics en processos col·laboratius
+    link: "assets/downloads/Principis_tecnopolitics.pdf"
 ---
 
-## Matriz plan de comunicación
+## Matriu Pla de comunicació
 --- meta
-uuid: 391764e8-257c-4bf0-9c33-bcd834be3206
+uuid: 391764e8-257c-4bf0-9c33-bcd834be3207
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Matriz plan de comunicación
+  - label: Matriu Pla de comunicació
     link: "assets/downloads/Comunicacion_diagrama.pdf"
 ---
 
-## Ejemplos de planes de comunicación exitosos
+## Exemples de plans de comunicació exitosos
 --- meta
-uuid: 52215bc0-ff20-442d-a22b-f924b22bbd74
+uuid: 52215bc0-ff20-442d-a22b-f924b22bbd75
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Matriz planes de comunicación exitosos
+  - label: Exemples de plas de comunicació exitosos
     link: "assets/downloads/plan_de_comunicacion_ejemplos.pdf"
 ---
 
-## Documento de referencia para móviles
+## Document de referència per a mòbils
 --- meta
-uuid: 2ec7190f-ee0c-4b87-a7b0-e5083792d7ce
+uuid: 2ec7190f-ee0c-4b87-a7b0-e5083792d7cf
 tags:
   - material
-locale: es
+locale: ca
 links:
-  - label: Documento de referencia para móviles
+  - label: Document de referència per a mòbils
     link: "https://myshadow.org/ckeditor_assets/attachments/245/celular.pdf"
 ---
