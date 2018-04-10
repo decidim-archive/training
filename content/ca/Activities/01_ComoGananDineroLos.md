@@ -48,32 +48,33 @@ Com guanyen diners els serveis que fas servir a Internet? Analitzar quins són e
 - @[material](16c01d17-9ba7-47d6-815a-75cf96330040)
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f082)
 
-## Actividad:"¿Cómo ganan dinero los servicios que usas en internet?"
+## Activitat:"Com guanyen diners els serveis que fas servir a Internet?"
 --- meta
-uuid: 7effca32-568a-49fb-ab2f-7e835662fc96
+uuid: 7effca32-568a-49fb-ab2f-7e835662fc97
 ---
 
-#### Preparación
-1. Revisa para las siguientes empresas los servicios que ofrecen y qué empresas les pertenecen: Google, Amazon, Facebook, Apple, Microsoft. En general, estas mantienen sus entradas en la Wikipedia actualizadas y puedes hacerte una idea de la lista de servicios que ofrecen así como la lista de empresas propiedad suyas (puedes ver que suelen apostar hacia nuevos servicios y productos del futuro como coches sin conductor, robots, viajes espaciales, salud, etc.)
-2. Prepárate para saber como clasificar las tecnologías favoritas desglosadas por las participantes y poder agruparlas bajo la empresa a la cual pertenecen. El sector de los servicios en Internet esta agrupado en pocas manos (oligopolios) y es necesario entender que cuando usamos servicios aparentemente diferentes, cuando estos pertenecen a la misma empresa, esta concentración tiene consecuencias diferentes sobre la capacidad de rastrear, perfilar y hacer negocio con los datos de las personas. Puedes demostrar esta situación con los siguientes dos escenarios:
-Cuando Facebook compra Whatsapp y plantea juntar los datos de ambos servicios, ¿que puede saber Facebook de nosotras?
-Cuando juntamos todos los servicios de Google que usamos a diario, ¿que puede saber Google de nosotras?
-3. Revisa cuales son los modelos de negocios de estos servicios, por ejemplo Microsoft vende software, Apple vende ordenadores y móviles, Facebook vende publicidad, etc.
+#### Preparació
+1. Revisa les següents empreses quins serveis ofereixen i qui les pertany: Google, Amazon, Facebook, Apple, Microsoft. En general, aquestes companyies mantenen les seves entrades a la Viquipèdia actualitzades i pots fer-te una idea de de la llista de serveis que ofereixen això com la llista d'empreses que també posseeixen. Pots veure que acostumen a apostar cap a nous serveis i productes del futur com cotxes sense conductor, robots, viatges espacials, salut, etc.
+2. Preparat per saber com classificar les tecnologies preferides desglossades pels participants i per poder agrupar-les sota la empresa a la qual pertanyen. En el sector dels serveis d'Internet està agrupat en poques mans (oligopolis) i és necessari entendre que quan fem servir serveis en aparença diferents, si aquests pertanyen a la mateixa empresa, aquesta concentració té conseqüències diferents sobre la capacitat de rastrejar, generar perfils i fer negoci amb les dades de les persones. Pots demostrar aquesta situació amb diferents escenaris:
+- Quan Facebook compra WhatsApp i planteja unificar les dades dels dos serveis, què pot arribar a saber Facebook sobre nosaltres?
+- Quan unim tots els serveis de Google que fem servir cada dia, què pot arribar a saber Google de nosaltres?
+3. Revisa quins són els models de negoci d'aquests serveis, per exemple Microsoft ven programari, Apple ven Ordinadors i mòbils, Facebook ven publicitat, etc.
 
 
-### Etapa 1: Mapeo de las tecnologías favoritas de las participantes (20 min)
-Partiendo de la etapa 1 donde las participantes han apuntado su tecnología favorita, prepara una nota en la pared para cada una de ellas y pide a las participantes que te ayuden a clasificar estas debajo de la empresa a la cual pertenecen: Google, Amazon, Facebook, Apple, Microsoft. Si las participantes no lo saben, ves organizando las entradas. Las tecnologías que no pertenecen a ninguna de estas empresas se quedan en otra zona de la pared. Pregunta a las participantes que les sugiere esta concentración de servicios entre pocas manos.
+
+### Etapa 1: Mapeig de les tecnolgies preferides de les participants (20 min)
+Partint de la etapa 1, on les participants han apuntat la seva tecnologia preferida, prepara una nota en la paret per a cada una d'aquestes tecnologies, i demana a les participants que t'ajudin a classificar-les segons les empreses a les que pertanyen: Google, Amazon, Facebook, Apple, Microsoft. Si les participants no ho saben, ves organitzant tu les entrades. Les tecnologies que no pertanyen a cap d'aqeustes empreses queden en una altra zona de la paret. Pregunta a les participants què els suggereix aquesta concentració de serveis en poques mans.
 
 
-#### Etapa 2: Modelos de negocios de estas empresas (40 min)
-1. Dependiendo de la cantidad de participantes, este ejercicio se puede hacer en un solo grupo o en varios grupos entre tres personas mínimo y cinco personas máximo. Si las participantes se conocen deja que se agrupen por grupos de afinidad. Si las participantes no se conocen, puedes sugerir de que cada una se cuente “1, 2, 3, 4, etc.” y que luego se junten por números.
-2. Pide a cada grupo que se especialice en buscar datos acerca de una de estas empresas: Google, Amazon, Facebook, Apple o Microsoft. Tienen 10 minutos para encontrar cuanto ganan anualmente, donde están localizadas, cuando se crearon, cual es su modelo de negocios, etc. Debes guiar un retorno ordenado de estos datos y escribir las respuestas debajo del cartel de cada una de las empresas. Reserva la siguiente etapa para pedir las informaciones que han encontrado acerca de sus modelos de negocio.
-3. Pregunta como cada empresa genera dinero, en el caso de Apple, Microsoft o Amazon el modelo de negocio suele aparecer rápidamente (venden ordenadores, software, productos por internet) pero los modelos de negocios de Facebook y Google pueden costar más tiempo en ser nombrados, guía las participantes con preguntas apuntando al rol de la publicidad por ejemplo.
-4. Invita las participantes a comentar los resultados. Pregúntales si existen conceptos específicos que no están claros y que se necesitan aclarar.
+#### Etapa 2: Models de negocis d'aquestes empreses (40 min)
+1. Depenent de la quantitat de participants, aquest exercici es pot fer en un sol grup o en diversos grups d'entre tres i cinc persones. Si les participants es coneixen, deixa que s'agrupin per grups d'afinitat. Si les participants no es coneixen, pots suggerir que cada una es numeri "1, 2, 3, etc" i que desprès s'agrupin pel seu nombre.
+2. Demana a cada grup que s'especialitzi en buscar dades de cada una de les empreses. Google, Amazon, Facebook, Apple o Microsoft. Tenen 10 minuts per trobar quan guanyen anualment, on estan localitzades, quan es van crear, quin és el seu model de negoci, etc. Has de guiar una devolució ordenada d'aquestes dades i escriure les respostes sota el cartell de cada una de les empreses. Reserva la següent etapa per demanar informacions que hagin trobat en relació al seu model de negoci.
+3. Pregunta com cada empresa genera diners. En el cas d'Apple, Microsoft o Amazon el seu model de negoci acostuma a sortir ràpidament (venen ordinadors, programari, productes per Internet) però els models de negoci de Facebook o Google pot costar una mica més a sortir. Guia al les participants amb preguntes suggerint el paper de la publicitat.
+4. Invita a les participants a comentar els resultats. Pregunta'ls si existeixen conceptes específics que no estiguin clars i que necessitin aclarir.
 
-### Etapa 3: Conclusión: Preguntas, aclaraciones y recursos (10 min)
-1. Mira si algo no ha quedado claro, y responde a las preguntas.
-2. Orienta las participantes hacia los recursos.
+### Etapa 3: Conclusió: Preguntes, aclariments i recursos (10 min)
+1. Mira si hi ha res que no hagi quedat clar, i respon a les preguntes.
+2. Orienta les participants cap als recursos.
 
 -------------------------------
 <!---
