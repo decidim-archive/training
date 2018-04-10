@@ -36,7 +36,7 @@ export default class Session extends React.Component {
     const sortedSessions = _.sortBy(currs, 'title');
     const resetButton =
       <label className="tip" onClick={_.partial(fils.set)}>reset</label>;
-    const newSessionSubTitle = <div className="sub-title"
+    const newSessionSubTitle = <div className="site-description"
                             dangerouslySetInnerHTML={{__html: phrase.sessionSubTitle}} />;
 
     return (

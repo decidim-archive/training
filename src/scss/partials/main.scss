@@ -42,6 +42,14 @@ a:focus, a:hover {
   margin: $base-padding/2 0;
   font-weight: normal;
 }
+.site-description {
+	  width: 100%;
+	  margin: $base-padding/2 0;
+	  font-weight: normal;
+	  font-size: 85%;
+	  line-height: normal;
+}
+
 
 img {
   max-width: 100%;
