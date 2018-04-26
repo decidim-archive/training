@@ -77,84 +77,87 @@ Partint de les experiències del grup analitzem èxits i fracassos en processos 
 
 ### Etapa 1: Presentació i introducció (10 min)
 
-1. Preséntate brevemente así como la sesión, luego pide a las participantes que se presenten y respondan a las siguientes dos preguntas:
-	 - ¿Cuál es tu tecnología favorita?
-	 - ¿Qué quieres aprender en esta sesión?
-2. Teniendo en cuenta las respuestas a la pregunta sobre sus tecnologías favoritas y expectativas, da un breve resumen de la sesión, incluyendo los objetivos, lo que se cubrirá (y lo que no), y de cuánto tiempo se dispone.
-Resalta que se excluirá de estos ejemplos la difusión y comunicación hacia fuera de los colectivos y organizaciones. Nos limitamos aquí en ahondar en los procesos internos que facilitan la colaboración dentro de una misma organización, colectivo o red.
-3. Presenta brevemente los acuerdos compartidos para esta sesión, pregunta si hay dudas y si las participantes quieren añadir algún acuerdo.
+1. Presenta't breument i introdueix la sessió, desprès demana a les participants que es presentin i responguin a les preguntes següents:
+  - Quina és la teva tecnologia preferida?
+  - Què vols aprendre en aquesta sessió?
+2. Tenint en compte les seves respostes, fes un breu resum de la sessió, incolent els objectius, el que es treballarà i el que no es treballarà, i de quant de temps disposem. Recalca que no es treballaran exemples de difusió i comunicació cap enfora de col·lectius i organitzacions. Ens centrarem a treballar els processos interns que faciliten la col·laboració dintre d'una mateixa organització, col·lectiu o xarxa.
+3. Presenta breument els acords compartits per a aquesta sessió, pregunta si hi ha dubtes i si les participants volen afegir algun acord.
 
 
-### Etapa 2: Análisis de éxitos (80 min)
+### Etapa 2: Anàlisi d'èxits (80 min)
 
-##### Actividad (15 min)
+##### Activitat (15 min)
 
-- Forma grupos agrupando las personas que forman parte de una misma organización, colectivo o red y lista procesos colaborativos exitosos que incluyeron herramientas técnicas. Agrupa las personas solas por grupos de 3 personas.
-- Impulsa la discusión dando un ejemplo concreto para cada tipos de procesos colaborativos (decidir, comunicar, coordinar, crear, debatir, etc.).
-- Un ejemplo para el proceso de *crear* podría ser “para redactar un documento entre varias personas nos íbamos enviando documentos de *Word* por correo electrónico pero era un caos y perdíamos modificaciones. Creamos un *Etherpad* para trabajar todas a la vez en la misma versión del documento y eso nos permitió no volver a perder el trabajo de cada una”.
-- Para el proceso de *coordinar*: *Era muy complicado seguir las tareas pendientes de cada persona del grupo. Creamos un *Trello* para que todas pudiéramos ver como avanza el proyecto y ahora todo el mundo tiene mucho mas claro en que trabajar y es más fácil ayudarse las unas a las otras.*
-- Para el proceso de *decidir*: *Siempre nos costaba mucho decidir una fecha para la próxima reunión. Sistematizamos el uso de *Doodle* y ahora el proceso es mucho más liviano, rápido e igualitario.*
-- Pide a los grupos que escriban en un post-it para cada proceso una herramienta que resulto útil.  Por ejemplo "*Etherpad* para la redacción de documentos entre varias personas".
-
-
-##### Debate (20 min)
-
-- Junta todas los participantes y haz un listado de los diferentes procesos. Agrupa en un primer rotafolio, los post-its de los grupos por tipo de procesos (decidir, coordinar, etc.). Pide a las participantes que comenten los ejemplos e intercambien acerca de cuales son las razones detrás de estos éxitos. Recuerda que puede que haya participantes que no conozcan algunas de las herramientas presentadas, pide a cada participante introducir la herramienta que esta destacando.
-- En base a esta discusión, lista en un segundo rotafolio los principios tecnopolíticos que se van enumerando como privacidad, soberanía, usabilidad, inclusión, adaptabilidad, cuidado, etc. Ánade los principios que no se mencionan.
-- Pon estos principios en contexto teniendo en cuenta las organizaciones y colectivos presentes, sus objetivos y motivaciones.
-- Anima un debate acerca de los roles, dinámicas tecnopolíticas y relaciones de poder que crean estas herramientas dentro de las organizaciones.
-- Facilita que se tengan en cuenta y se evalúen los aspectos emocionales de estas herramientas.
-- Mientras las participantes debatan estas cuestiones, puedes ir listando más principios tecnopolíticos en el rotafolio correspondiente.
+- Forma grups agrupant les persones que formen part d'una mateixa organització, col·lectiu o xarxa i llista els processos col·laboratius exitosos que incloguin eines tècniques. Agrupa les persones soles per grups de 3 persones.
+- Impulsa el debat donant exemple concrets per cada tipus de procès col·laboratiu: decidir, comunicar, coordinar, crear, debatre, etc...
+  - Un exemple per al proccés de *crear* pot ser: per a redactar un document entre vàries persones ens hem enviat un document de *word* pe correu electrònic però era un caos i perdiem modificacions. Vem crear un *Etherpad* pera treballat totes juntes en la mateixa versió del document i això ens va permetre no tornar a perdre el treball de cada persona.
+  - Per al procés de *coordinar*: *Era molt complicat seguir les tasques pendents de cada persona del equip. Creem un Trello per a que totes poguessim veure com avança el projecte i ara tot el món té molt més clar en que treballar i és més fàcil ajudar-se unes a les altres*.
+  - Per al procés *decodir*: *Sempre ens costava molt decidir una data per a la propera reunió. Sistematitzàrem l'ús de Doodle i ara el procés és molt més lleuger, ràpid i igualitari*.
+- Demana als grups que escriguin en un postit per a cada procés una eina que els hagi resultat útil. Per exemple, "*Etherpad* per a la redacció de documents entre vàries persones".
 
 
-##### Aporte (15 min)
+##### Debat (20 min)
 
-Basándote en los documentos de referencias Ejemplos de procesos colaborativos facilitados por herramientas digitales,  principios tecnopolíticos en procesos colaborativos mediados por herramientas digitales y tu propia investigación prepara una presentación de unos cuantos ejemplos que permiten problematizar varios aspectos de los procesos colaborativos internos a las organizaciones.
+- Agrupa a tots els participants i fes un llistat de tots els processos. Agrupa, en un primer papelògraf, els postits de cada grup de processos (decidir, coordinar, etc.). Demana a les participants que comentin els exemples i intercanviïn idees sobre quines són les raons d'aquests èxits. Recorda que pot ser que hi hagi participants que no coneguin algunes de les eines presentades, demana que cada participant introdueixi la eina que està destacant.
+- Partint d'aquesta discussió, llista en un segon papelògraf els principis tecnopolítics que s'hagin nombrat com privacitat, sobirania, usabilitat, inclusió, adaptabilitat, cures, etc. Afegeix els principis que no hagin sortit.
+- Posa aquests principis en context tenint en compte les organitzacions i col·lectius presents, els seus objectius i motivacions.
+- Condueix el debat sobre els rols, les dinàmiques tecnopolítiques i relacions de poder que generen aquestes eines dintre de les organitzacions.
+- Facilita que es tinguin presents i s'avaluïn els aspectes emocionals d'aquestes eines.
+- Mentre les participants debaten aquestes qüestions, pots anar llistant més principis tecnopolítcis en el papelògraf corresponent.
 
 
-##### Profundización (20 min)
+##### Aportació (15 min)
 
-- Agrupa los participantes para reflexionar sobre como los principios tecnopolíticos identificados previamente se aplican a estos ejemplos.  Pueden preguntarse acerca de lo qué aportan las experiencias descritas en esta sesión.
-- Distribuye versiones impresas de cada ejemplo, probando de dar dos ejemplos a cada grupo si el tiempo lo permite e intentando tener un mismo ejemplo cubierto por dos grupos diferentes.
+Basant-te en els documents de referència *Exemples de processos col·laboratius facilitats per eines digitals*, *Principis tecnopolítics en processos col·laboratius mediats per eines digitals* i en la teva pròpia experiència i investigació, prepara una presentació d'uns quants exemples que permetin problematitzar varis aspectes dels proecessos col·laboratius interns en les organtizacions.
+
+
+
+##### Aprofundiment (20 min)
+
+- Agrupa als participants per a reflexionar sobre com els principis tecnopolítics identificats prèviament s'apliquen a aquests exemples. Poden preguntar-se sobre què aporten les experiències descrites en aquesta sessió.
+- Distribueix versions impreses de cada exemple, provant de donar dos exemples a cada grup si el temps ho permet i intentant tenir un mateix exemple treballat per dos grups diferents.
 
 
 ##### Síntesis (10 min)
 
-- Pide a cada grupo presentar su hallazgo o idea más interesante.
-- Vuelve a listar brevemente los principios tecnopolíticos desglosados anteriormente.
+- Demana a cada grup presentar el seu debat o idea més interessant.
+- Torna a llistar els principis tecnopolítcis desglossats anteriorment.
 
 
-### Etapa 3: Presentación de nuevas herramientas (60 min)
+### Etapa 3: Presentació de noves eines (60 min)
 
-- Puedes presenta 4-5 nuevas herramientas que no hayan sido mencionadas hasta ahora usando:
-  - Paginas webs o capturas de pantalla.
-  - Casos de uso de estas herramientas.
-  - Lista sus pros y contras en relación a los aspectos tecnopolíticos.
-  - Pide a la audiencia relaciona cada herramienta con sus experiencias.
-  - Haz un turno de preguntas.
-
-
-### Etapa 4: Resolución de problemas (80 min)
-
-##### Actividad (15 min)
-
-- Forma grupos agrupando las personas que forman parte de una misma organización, colectivo o red para que listen problemas o aspectos mejorables en relación a sus procesos de colaboración interna.
-- Agrupa las personas que solas por grupos de 2 o 3 personas.
-- Pide a los grupos que escriban en un post-it para cada proceso qué problema de colaboración experimentaron.
-
-##### Debate (20 min)
-
-- Pide a cada grupo que presenten sus problemas de colaboración y que reflexionen sobre ellos a partir de los principios tecnopolíticos identificados en la etapa 1.
-- Sigue completando la lista de principios tecnopolíticos.
-- Anima a una reflexión colectiva acerca de porque algunas herramientas fracasan o no resultan apropiadas para ciertos colectivos.
+- Pots presentar 4 o 5 noves eines que no s'hagin mencionat fins ara fent servir:
+  - Pàgines web o captures de pantalla.
+  - Casos d'ús d'aquestes eines.
+  - Llista els seus pros i els seus contras en relació als aspectes tecnopolítics.
+  - Demana als participants que relacionin cada eina amb les seves experiències.
+  - Obre el torn de preguntes.
 
 
-##### Profundización (20 min)
+### Etapa 4: Resolució de problemes (80 min)
 
-- Reagrupa los grupos previos para que  vean como los principios tecnopolíticos identificados previamente podrían aplicarse a ellas y que herramientas o acuerdos de principio podrían facilitar su adopción e implementación. Pide a cada grupo que comparta su hallazgo el más interesante.
+##### Activitat (15 min)
+
+- Forma grups agrupant les persones que formin part d'una mateixa organització, col·lectiu o xarxa per a llistar problemes o aspectes millorables en relació als seus processos de col·laboració interna.
+- Agrupa a les persones soles per grups de 2 o 3 persones.
+- Demana als grups que escriguin en un postit per cada procés quin problema de col·laboració experimenten.
 
 
-### Etapa 5: Conclusión: Preguntas, aclaraciones y recursos  (10 min)
+##### Debat (20 min)
 
-1. Mira si algo no ha quedado claro, y responde a las preguntas.
-2. Orienta las participantes hacia los recursos.
+- Demana a dada grup que presentin els seus problemes de col·laboració i que reflexionin sobre aquests partint dels principis tecnopolítics identificats en la etapa 1.
+- Segueix completant la llista de principis tecnopolítics.
+- Anima a una reflexió col·lectiva sobre per què algunes eines fracassen o no resulten optimes per a certs col·lectius.
+
+
+
+##### Aprofundiment (20 min)
+
+- Reagrupa a tots els participants per a que vegin com els principis tecnopolítics identificats prèviament poden aplicar-se a les seves organtizacions i quines eines o acords de principi poden facilitat la seva adopció i implementació. Demana a cada grup que comparteixi la seva descoberta més interessant.
+
+
+
+### Etapa 5: Conclusió: Preguntes, aclariments i recursos (10 min)
+
+1. Repassa si alguna cosa no ha quedat clara, i respon a les preguntes.
+2. Orienta les participants cap als recursos disponibles.

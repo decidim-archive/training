@@ -135,7 +135,7 @@ Depenent de la quantitat de participants, aquest exercici es pot fer en un sol g
 
 Com que la matriu és bastant detallada, es recomana als participants centrar-se en contestar les parts que coneguin millor però animant-los a trobar informació de les dimensions que els semblin més estranyes. Es disposa de 30 minuts per a aquest exercici, per disposar de 15 minuts de posada en comú.
 
-Pots imprimir diversos documents de referència de la matriu antalítica i distribuir-los un per cada grup per a que vagin omplint-los, o projectar-lo fent servir l'ordinador.
+Pots imprimir diversos documents de referència de la matriu analítica i distribuir-los un per cada grup per a que vagin omplint-los, o projectar-lo fent servir l'ordinador.
 
 Al finalitzar els 30 minuts, totes les participants tornen a agrupar-se en un sol grup i es demana que un membre del grup presenti els debats que han tingut, els elements que els ha sorprès, els coneixements que treuen d'aquest debat. Alguns dels objectius que aquesta posada en comú consisteixen en destacar que:
 - Les tecnologies no són neutrals.
@@ -147,7 +147,7 @@ Al finalitzar els 30 minuts, totes les participants tornen a agrupar-se en un so
 
 ### Etapa 6:  Conclusió: Preguntes, aclariments i recursos (10 min)
 
-1. Mira si hi ha conceptes que no hagin quedat clars, i respòn a les preguntes.
+1. Mira si hi ha conceptes que no hagin quedat clars, i respon a les preguntes.
 2. Orienta les participants cap als recursos.
 
 -------------------------------
