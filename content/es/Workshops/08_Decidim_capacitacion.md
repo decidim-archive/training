@@ -9,7 +9,7 @@ tags:
   - Decidim
   - Participación política
   - Alternativas
-  - Procesos colaborativos 
+  - Procesos colaborativos
 duration:  180
 description: Esta sesión introduce elementos de reflexión sobre las potencialidades de la democracia participativa y de la democracia deliberativa utilizando las nuevas tecnologías. Después profundiza en las propuestas tecnopolíticas para la profundización de la democracia. Finalmente estudia casos reales de participación de ámbito municipal y profundiza en los usos que permite la plataforma del Ayuntamiento de Barcelona Decidim, para la participación política municipal.
 ---
@@ -61,7 +61,7 @@ Esta sesión introduce elementos de reflexión sobre las potencialidades de la d
 ### Referencias
 Plataformas y herramientas
 - [Decidim](https://www.decidim.barcelona/), (Ayuntamiento de Barcelona)
-- [MetaDecidim]( https://www.decidim.barcelona/processes/12/f/33?locale=es), (Ayuntamiento de Barcelona)
+- [MetaDecidim]( https://meta.decidim.barcelona/), (Ayuntamiento de Barcelona)
 - [Barcelona hará cada mayo consultas ciudadanas a partir del 2018](http://www.elperiodico.com/es/noticias/barcelona/ayuntamiento-barcelona-consultas-ciudadanas-cada-mayo-desde-2018-5904532) (El Periódico)
 
 

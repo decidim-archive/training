@@ -64,6 +64,7 @@ description:  "Quina diferència hi ha entre eines i serveis comercials i no com
 - @[material](10cae4b7-5625-41d1-abbb-16c1ebd1ce90)
 
 
+
 ## Activitat: "Escollir eines"
 --- meta
 uuid: bc9d5aee-0106-41dd-9164-7f2157e16261

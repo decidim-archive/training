@@ -10,7 +10,7 @@ tags:
   - Models de negoci
   - Alternatives
   - Principis tecnopolítics
-  - Processos colaboratius
+  - Processos col·laboratius
 duration: 155
 description: "Entendre la economía i la política darrera de les dades i de les nostres identitats connectades: Qui i què fan amb les nostres dades, com es generen negocis amb elles i de quina manera som rastrejades, vigilades i/o discriminades?"
 ---
@@ -37,9 +37,9 @@ Entendre la economía i la política darrera de les dades i de les nostres ident
 ### Objetius d'aprenentatge
 
 ##### Coneixments
-- Entendre els fonaments del rastreig i el negoci de les dades: quines metodologies es fan servir per perfilar les persones? 
+- Entendre els fonaments del rastreig i el negoci de les dades: quines metodologies es fan servir per perfilar les persones?
 - Entendre com el negoci de les dades pot tenir implicacions en drets com la privacitat, confidencialitat, seguretat, expressió i opinió.
-- Entendre com el negoci de les dades pot tenir implicacions en la economía, el control social, els sistemes democràtics i poden generer noves formes de discriminació i exclusió social. 
+- Entendre com el negoci de les dades pot tenir implicacions en la economía, el control social, els sistemes democràtics i poden generer noves formes de discriminació i exclusió social.
 
 ##### Habilitats
 - Per a alguns perfils de participants, aprendre a fer servir eines i extensions que ens permetin visualitzar la seva ombra digital i exposar com som rastrejades quan naveguem per Internet o fem servir el telèfon mòbil.
@@ -70,6 +70,7 @@ Entendre la economía i la política darrera de les dades i de les nostres ident
 - @[material](16c01d17-9ba7-47d6-815a-75cf96330040)
 - @[material](b6be8eed-7382-4594-bbe1-eaf471f8f082)
 
+
 ### Materials i fulletons opcionals
 - @[material](9392dacf-999c-4c33-a6d8-4545c1aee84a)
 - @[material](c0358b51-fe16-47ae-9686-927ec39d18f7)
@@ -86,8 +87,8 @@ Les etapes 4, 5, i 6 presenten "meta-conceptes" que ens permeten reflexionar sob
 ### Preparació
 
 1. Revisa els materials llistats en les referències.
-2. Prepara't per fer servir conceptes relatius a la ombra digital, el bit data i les seves cinc v (volum, velocitat, varietat, veracitat i valor), les bombolles de filtre i els algoritmes. 
-3. Llegeis i documenta't sobre els casos d'estudi que mostren el caràcter discriminatori que poden tenir els algoritmes i el big data (per exemple, el sistema de crèdit social plantejat pel govern de la República Democràtica de Xina, l'ús de programari per predir el crim o conductes criminals, els efectes de la manipulació dels motors de cerca, etc. També pots fer servir sèries com "Black Mirror" per buscar extractes que evidencien aquestes situacions). 
+2. Prepara't per fer servir conceptes relatius a la ombra digital, el bit data i les seves cinc v (volum, velocitat, varietat, veracitat i valor), les bombolles de filtre i els algoritmes.
+3. Llegeis i documenta't sobre els casos d'estudi que mostren el caràcter discriminatori que poden tenir els algoritmes i el big data (per exemple, el sistema de crèdit social plantejat pel govern de la República Democràtica de Xina, l'ús de programari per predir el crim o conductes criminals, els efectes de la manipulació dels motors de cerca, etc. També pots fer servir sèries com "Black Mirror" per buscar extractes que evidencien aquestes situacions).
 
 
 ### Etapa 1: Introducció (10 min)
@@ -98,9 +99,9 @@ Segons el perfil de participants:
 	- Quina és la teva tecnologia preferida? (persones joves)
 	- Quin any et vas connectar a Internet per primera vegada? (persones juvilades)
 Pregunta a tots els perfils de participants
-	- Què vols aprendre d'aquesta sessió? 
-2. Tenint en compte les respostes a la primera pregunta i a les seves expectatives, fes un breu resum de la sessió, incluent els objectius, el que es treballarà (i el que no) i de quant de temps disposem. 
-3. Presenta breument els acords compartits per a aquesta sessió, pregunta si hi ha dubtes i si les participants volen afegir algun acord. 
+	- Què vols aprendre d'aquesta sessió?
+2. Tenint en compte les respostes a la primera pregunta i a les seves expectatives, fes un breu resum de la sessió, incluent els objectius, el que es treballarà (i el que no) i de quant de temps disposem.
+3. Presenta breument els acords compartits per a aquesta sessió, pregunta si hi ha dubtes i si les participants volen afegir algun acord.
 
 
 ### Etapa 2: Com es rastreja i es fa negoci amb les teves dades? (45 min – 60 min)
@@ -113,7 +114,7 @@ Per a persones que participen en processos de participació política o fan serv
 
 ##### Preparació
 1. Assegura't d'estar familiaritzada amb Trackograpy i Lightbeam. Pots trobar mñes informació en el _Material de consulta: El navegador web_.
-2. Assegura't de tenir suficients ordinadors disponibles, un per cada grup petit. No es pot instal·lar Lightbeam en mòbils i Trackography només funciona amb pantalles més grans. 
+2. Assegura't de tenir suficients ordinadors disponibles, un per cada grup petit. No es pot instal·lar Lightbeam en mòbils i Trackography només funciona amb pantalles més grans.
 3. En la pissarra, anota els enllaços a Trackograpy i Lightbeam o projecta'ls a la pantalla.
 4. Si l'accés a Internet és limitat, descarrega el vídeo sobre Trackograpy i grava prèviament un vídeo teu interactuant amb Lightbeam.
 
@@ -165,7 +166,7 @@ Depenent de la quantiat de participants, aquest exercici es pot fer en un sol gr
 Demana a cada grup que debatin i facin una llista de preguntes o dubtes que tinguin sobre el rastreig i negoci de dades realitzar per grans empreses així com situacions que han experimentat de primera o segona mà derivades d'aquest rastreig. Cada grup debat durant uns 20 minuts sobre possibles conseqüències econòmiques (per exemple preus dels bitllets d'avió), del control social (per exemple, autocensura o informació sensible que no volies compartir), respecte a la democràcia (per exemple, bombolles de filtre, notícies falses i manipulació d'opinions). Al finalitzar els 20 minuts, les participants tornen al grup principal i una persona per grup comparteix les preguntes, conseqüències i arguments que han anat apuntant. Tingues present que hauràs de compartir el temps entre tots els grups i anar apuntant els arguments que es presentin. Es treballen, entre totes, els diferents arguments, analitzant si hi ha punts en comú i diferències, i si queda temps, es pot proposar com a possible debat de reflexió: Haurien d'estar els algoritmes regulats? Qui hauria de regular-los?
 
 ### Etapa 5: Què pots fer Trucs per gestionar els teus rastres (20 min)
-Acompanya a les participants a través de la llista pràctica del document de referència _Estratègies de resistència per alterar la teva ombra digital_. Tingues en compte que aquesta no és una sessió pràctica, limita't a explicar la visió general de cada etapa.
+Acompanya a les participants a través de la llista pràctica del document de referència [_Estratègies de resistència per alterar la teva ombra digital_](assets/downloads/Estrategies_ocultar_ombra.pdf). Tingues en compte que aquesta no és una sessió pràctica, limita't a explicar la visió general de cada etapa.
 
 
 ### Etapa 6: Conclusió: Preguntes, aclaraiments i recursos (10 min)
