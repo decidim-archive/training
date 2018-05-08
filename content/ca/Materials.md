@@ -309,5 +309,5 @@ locale: ca
 links:
   - label: Document de referència per a mòbils
     link: "https://myshadow.org/ckeditor_assets/attachments/245/celular.pdf"
+
 ---
-  
